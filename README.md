@@ -1,2 +1,2 @@
 # A minimal website to introduce Ali !
-In this minimal website which is built with Rmarkdown and github pages (based on the simple guide of [Julia Stewart Lowndes](https://jules32.github.io/); you can find it [here](https://jules32.github.io/rmarkdown-website-tutorial/)) I try to introduce myself and present my CV (https://ali.github.io).
+In this minimal website which is built with Rmarkdown and github pages (based on the simple guide of [Julia Stewart Lowndes](https://jules32.github.io/); you can find it [here](https://jules32.github.io/rmarkdown-website-tutorial/)) I try to introduce myself and present my CV (https://akbaritabar.github.io).
