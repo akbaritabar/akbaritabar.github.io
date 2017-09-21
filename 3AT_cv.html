@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Curriculum Vitae" />
+
+<meta name="date" content="2017-09-21" />
+
+<title>Aliakbar Akbaritabar (Ali)</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">About Me</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="3AT_cv.html">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Aliakbar Akbaritabar (Ali)</h1>
+<h4 class="author"><em>Curriculum Vitae</em></h4>
+<h4 class="date"><em>September 21, 2017</em></h4>
+
+</div>
+
+
+<div id="personal-and-contact-information" class="section level2">
+<h2>Personal and Contact information</h2>
+<ul>
+<li><strong>Email</strong>: <a href="mailto:Akbaritabar@Gmail.com">Akbaritabar@Gmail.com</a></li>
+<li><strong>Phone</strong>: <a href="+39-327-6245450" class="uri">+39-327-6245450</a></li>
+<li><a href="https://goo.gl/NOmq0n"><strong>Google Scholar Profile</strong> (https://goo.gl/NOmq0n)</a></li>
+<li><strong>Website</strong>: <a href="www.SocialVillage.me" class="uri">www.SocialVillage.me</a></li>
+<li><strong>Website</strong>: <a href="www.OnlineSNA.wordpress.com" class="uri">www.OnlineSNA.wordpress.com</a></li>
+<li><a href="http://ir.linkedin.com/in/akbaritabar/"><strong>Linkedin Profile</strong> (http://ir.linkedin.com/in/akbaritabar/)</a></li>
+<li><strong>Nationality</strong>: Iranian</li>
+<li><strong>Date of Birth</strong>: 21-September-1986</li>
+</ul>
+</div>
+<div id="education" class="section level2">
+<h2>Education</h2>
+<div id="main-studies" class="section level3">
+<h3>Main studies</h3>
+<ul>
+<li><strong>PhD. candidate of Economic Sociology</strong> (Nov 2015-2018)
+<ul>
+<li>University of Milan and University of Brescia, Italy</li>
+<li><strong>Thesis Title</strong>: Explaining scientific collaborations and research productivity of sociologists</li>
+<li><strong>Supervised by</strong>: Prof. Flaminio Squazzoni</li>
+</ul></li>
+<li><strong>PhD. of Sociology</strong> (Social Welfare) (2011-2015)
+<ul>
+<li>Allameh Tabatabaei University, Tehran, Iran</li>
+<li><strong>Thesis Title</strong>: Iranian’s Cyber Social Capital</li>
+<li><strong>Supervised by</strong>: Prof. Jafar Hezarjaribi</li>
+</ul></li>
+<li><strong>M.A. of Sociology</strong> (2008-2011)
+<ul>
+<li>Tarbiat Modares University, Tehran, Iran</li>
+<li><strong>Thesis Title</strong>: A SNA Study on Online Social Networks: Case study of Doreh and U24</li>
+<li><strong>Supervised by</strong>: Prof. Ali Saei</li>
+</ul></li>
+<li><strong>B.A. of Sociology</strong> (Social Research) (2004-2008)
+<ul>
+<li>Shiraz University, Shiraz, Iran</li>
+<li><strong>Thesis Title</strong>: Factors related with students commitment to university</li>
+<li><strong>Supervised by</strong>: Prof. Abdol Ali Lahsayi Zadeh</li>
+</ul></li>
+</ul>
+</div>
+<div id="research-visits-short-courses-and-schools" class="section level3">
+<h3>Research visits, short courses and schools</h3>
+<ul>
+<li>Summer School in “<strong>Agent-based modelling for social scientists</strong>” (September 4-8 2017)
+<ul>
+<li>University of Brescia, Italy</li>
+<li><strong>Instructors</strong>: Flaminio Squazzoni, Simone Gabbriellini, Nicolas Payette, Federico Bianchi</li>
+</ul></li>
+<li>Spring School in <strong>Python for social scientists</strong> (April 12-13 2017)
+<ul>
+<li>University of Trento, Italy</li>
+<li><strong>Instructor</strong>: Jonathan Bright (Oxford Internet Institute)</li>
+</ul></li>
+<li>Summer School in “<strong>Agent-based modelling for social scientists</strong>” (June 20-24 2016)
+<ul>
+<li>University of Brescia, Italy</li>
+<li><strong>Instructors</strong>: Flaminio Squazzoni, Simone Gabbriellini, Federico Bianchi</li>
+</ul></li>
+<li><strong>Analysis of Longitudinal Social Network Data using RSIENA</strong> (June 14th 2016; 3 hours: 9h-12h) 2nd European Conference on Social Networks (EUSN) June 14-17, Sciences Po, Paris, France
+<ul>
+<li><strong>Instructors</strong>: Tom Snijders, Christian Steglich</li>
+</ul></li>
+<li><strong>Temporal Exponential Random Graph Model (TERGM)</strong> (June 14th 2016; 3 hours: 16h30-19h30) 2nd European Conference on Social Networks (EUSN) June 14-17, Sciences Po, Paris, France
+<ul>
+<li><strong>Instructors</strong>: Lorien Jasny, Michal Bojanowski</li>
+</ul></li>
+<li>Doctoral course as seminar series on <strong>Social Networks and Organizations</strong>, Spring semester 2016, Italian University of Switzerland (USI), Lugano, Switzerland
+<ul>
+<li><strong>Instructors</strong>: Alessandro Lomi, Christoph Stadtfeld, Per Block, Viviana Amati, Paola Zappa</li>
+</ul></li>
+<li>2nd edition Spring school on <strong>ERGM (Exponential Random Graph Models) for statistical analysis of Network data</strong> (April 18-20 2016)
+<ul>
+<li>Italian University of Switzerland (USI), Lugano, Switzerland</li>
+<li><strong>Instructors</strong>: Garry Robins, Alessandro Lomi, Paola Zappa</li>
+</ul></li>
+<li><strong>PhD. Research Visit</strong> (1 month - July 2015)
+<ul>
+<li>Autonomous University of Barcelona (UAB), Barcelona, Spain</li>
+<li><strong>Project Title</strong>: How to measure Cyber Social Capital comparatively among English, French and Persian users of Online social Networks</li>
+<li><strong>Supervised by</strong>: Prof. Jose Luis Molina, Prof. Miranda Jessica Lubbers</li>
+</ul></li>
+<li>8th edition of Summer school on <strong>Personal Network Analysis (PNA)</strong> (July 6-10 2015)
+<ul>
+<li>Autonomous University of Barcelona (UAB), Barcelona, Spain</li>
+<li><strong>Instructors</strong>: Jose Luis Molina, Miranda Jessica Lubbers, Jürgen Lerner, Rafaelle Vacca, Alejandro García Macías</li>
+</ul></li>
+<li><strong>PhD. Research Visit</strong> (5 months – February - September 2015)
+<ul>
+<li>Telecom-Bretagne, Brest, France</li>
+<li><strong>Project Title</strong>: How to measure Cyber Social Capital comparatively among English, French and Persian users of Online social Networks</li>
+<li><strong>Supervised by</strong>: Prof. Nicolas Jullien</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="research-interests" class="section level2">
+<h2>Research Interests</h2>
+<ul>
+<li>Social Network Analysis (SNA)</li>
+<li>Networks of scientific collaborations and coauthorship</li>
+<li>Online Social Network Analysis</li>
+<li>Social Capital and Cyber Social Capital</li>
+<li>Organizational network analysis (ONA)</li>
+</ul>
+</div>
+<div id="lectures-workshops-instructed" class="section level2">
+<h2>Lectures &amp; Workshops Instructed</h2>
+<ul>
+<li><strong>Workshop Instructor</strong> and Organizer in research methods and SNA (Social Network Analysis)
+<ul>
+<li>Teaching more than <strong>10 workshops</strong> about how to formulate research problems and do network analysis using Pajek and NodeXL</li>
+</ul></li>
+<li><strong>University lecturer</strong> in field of Sociology for more than two years;
+<ul>
+<li>Yazd University (12 credits: Basic Sociology at B.A level, 2 credits (twice); Sociology of Third world countries at B.A level, 2 credits; Sociology of Delinquent Behavior, B.A Level, 2 credits, Sociology of Social Stratifications and Inequalities, B.A Level, 2 credits (twice)</li>
+<li>University Of Applied Science &amp; Technology (lecturer code: 902022826),
+<ul>
+<li>Imam Khomeini Branch of Tehran (Basic Sociology at B.A level, 2 credits; Basics of Iranian Social History at B.A level, 2 credits)</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="research-works-publications" class="section level2">
+<h2>Research works &amp; publications</h2>
+<div id="journals" class="section level3">
+<h3>Journals</h3>
+<ul>
+<li><strong>Akbaritabar, Aliakbar</strong>, Casnici, Niccolo, Squazzoni, Flaminio (2017) <em>The conundrum of research productivity. A study on sociologists in Italy</em>, Under peer review</li>
+<li>Squazzoni, Flaminio, <strong>Akbaritabar, Aliakbar</strong> (2017) <em>Internationalizing Sociology in Italy, 1970s-2010s</em>, Global Dialogue, ISA (International Sociological Association), Volume 7, Issue 3, 10-11</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Hezarjaribi, Jafar, Jullien, Nicolas (2015) <em>A tool for dynamic measurement of social capital embedded in Online Social Networks</em>, Grafo working papers, electronic journal, Issue 4, Nº 04/y1. ISSN: 2014-5993 <a href="http://revistes.uab.cat/grafowp/article/view/14/vol4-n1-Akbaritabar">(Access here)</a></li>
+<li>Eskandaripour, Ebrahim, <strong>Akbaritabar, Aliakbar</strong> (2014) <em>How to do a scientific research on media (TV &amp; Radio) related pages on social networking sites A Mixed Method</em>, Quarterly Journal of Communication Research, Winter 2014, Tehran, Iran (In Persian)</li>
+<li>Nazifi, Morteza, Mokarami, Hamidreza, <strong>Akbaritabar, Aliakbar</strong>, Kalte, Haji Omid, Rahi, Amid (2014) <em>Psychometric Properties of the Persian Translation of Pittsburgh Sleep Quality Index</em>, Health Scope, 3(2): 1-4</li>
+<li>Nazifi, M., Mokarami, H. R., <strong>Akbaritabar, Aliakbar</strong>, K., Faraji Kujerdi, M., Tabrizi, R., &amp; Rahi, A. (2014). <em>Reliability, Validity and Factor Structure of the Persian Translation of General Health Questionnire (GHQ-28) in Hospitals of Kerman University of Medical Sciences</em>, Journal of Fasa University of Medical Sciences, 3(4), 336-342 (In Persian)</li>
+<li>Shaverdi, Meisam, Eskandaripour, Ebrahim, <strong>Akbaritabar, Aliakbar</strong> (2013) <em>Developing sustainable SCM evaluation model using fuzzy AHP in publishing industry</em>, Elsevier (Procedia Computer Science series), March 10, 2013, This paper have been published in proceeding of International Conference on Information Technology and Quantitative Management (ITQM 2013), May 16-18, 2013 in Suzhou, China</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Mokarami, H., Nazifi, M., Rahi, A., &amp; Hosseinpouri, M. (2013). <em>Psychometric properties of Spector’s job satisfaction survey in the Iranian population</em>, Koomesh, 14(3), 335-341 (In Persian)</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2012) <em>A Meta-Analysis of SNA Textbooks, special issue on Social Networks</em>, Ketab-e-Mah magazine, Tehran, Iran (In Persian)</li>
+<li>Hosseini, Mostajad, Hezarjaribi, Jafar, <strong>Akbaritabar, Aliakbar</strong> (2012) <em>Globalization and its impacts on Social Welfare</em>, Welfare planning and social development, 4, 71-122, and presented in the first Iranian conference on Social welfare (In Persian)</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Hezarjaribi, Jafar, Hosseini, Mostajad (2012) <em>ICTs and their relationship with Social Welfare</em>, Society, culture and media (In Persian)</li>
+</ul>
+</div>
+<div id="conferences-and-talks" class="section level3">
+<h3>Conferences and Talks</h3>
+<ul>
+<li><strong>Akbaritabar, Aliakbar</strong>, (2017) <em>Iranian’s Cyber Social Capital A comparative SNA study on a sample of English, French and Persian speaking users of Facebook &amp; Google plus</em>, SNA group, Iranian Sociological Association - June 19th, 2017, Tehran, Iran</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Casnici, Niccolo, Squazzoni, Flaminio (2017) <em>Where are sociologists embedded? A study on research productivity of sociologists in Italy</em>, GECS (research Group in Experimental and Computational Sociology) seminars - January 13, 2017, University of Brescia, Brescia, Italy</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, (2016) <em>how do scholars collaborate with each other? Comparative study on Co-authorship Networks of Scholars Worldwide Using Big Data</em>, Second European Conference on Social Networks (EUSN), June 14-17, 2016, Paris, France</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Hezarjaribi, jafar (2015) <em>Virtual/Cyber Social Capital; a new method to measure Online Social Capital</em>, 35th Sunbelt Organized by INSNA, June 23th -28th, Brighton, UK</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Eskandaripour, Ebrahim, Ahmadigharacheh, Ehsan (2015) <em>Virtual/Cyber Social Capital; a new method to measure Online Social Capital</em>, 1st Annual Computational Social Science Summit: Collaborative Futures, 15-17 May 2015, Kellogg School of Management, Northwestern University, USA (Poster presentation)</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2013) <em>Organizational Network Analysis (ONA): How Social Media will change the way Information is shared in Organizations</em>, Second National Conference on Social Media day, May 2013, Tehran, Iran</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Hezarjaribi, Jafar (2013) <em>How Online Social Networks shape youth’s Lifestyle and Leisure time</em>, National Congress on Lifestyle and leisure Time, July 2013, Shiraz University, Iran</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2011) <em>Book-based Group Activities in Social Networking Sites, Case study of U24.ir</em>, Conference on Book and Social Media, January 2011, Tehran, Iran</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2011) <em>How to use SNA in study of online social networks</em>, Conference on Online Social Networks and Everyday Life, May 2011, Tehran University, Tehran, Iran</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2011) <em>Factors Related with Students’ Commitment to University</em>, INTED2011 (International Technology, Education and Development Conference), 7th-9th of March, 2011, Valencia, Spain</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Saei, Ali, Khodaei, Ebrahim (2011) <em>Youth Responsibility In Online Social Networks: Case Study of U24.ir</em>, National Conference on Youth Responsibility, May 2011, Shiraz University, Shiraz</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Boostani, Darioush (2011) <em>Sociological Pathology of Medical Education in Iran</em>, 12th National Conference on Medical Education, May 2011, Ferdowsi University of Mashhad, Mashhad, Iran (done with in-depth interview as data collection method)</li>
+<li>Jabbareh, Mohammad Amin, <strong>Akbaritabar, Aliakbar</strong>, Abdolah Zade, Amir (2010) <em>Study on Trends of Research in Materials Science</em>, 4th Integrated Conference of Metallurgy Engineers and Iran’s Scientific Committee of Casting, November 2010, Iran university of Science and Technology, Tehran Iran</li>
+</ul>
+</div>
+<div id="scholarships-awards" class="section level3">
+<h3>Scholarships &amp; Awards</h3>
+<ul>
+<li><strong>3-years PhD scholarship</strong> in Economic Sociology (40915.41 euros), University of Milan, Funded by University of Brescia, Italy</li>
+<li>Has been awarded a <strong>six month research visit scholarship</strong> of 6570 euros by ministry of science, research and technology of Iran to continue study on PhD thesis research, “Iranian’s Cyber Social Capital” and to stay abroad, spent in LUSSI (Logique des usages, sciences sociales et de l’information) department of Telecom-Bretagne, Brest, France</li>
+<li>PhD thesis research titled as: “Online Social Network Users’ Cyber Social Capital” has been awarded a Scholarship (<strong>tuition fee waiver</strong> for 490 euros) and has been presented in 8th edition of the Summer Course, Methods and Applications of Personal Networks (2 ECTS*) at the UAB, Barcelona, Spain, from 6th to 10th of July 2015</li>
+<li>PhD thesis research titled as: “Online Social Network Users’ Cyber Social Capital” has been awarded a Scholarship (<strong>tuition fee discount</strong> for 500 euros) to be presented in summer course on Big Data and Society in University of Amsterdam, Netherlands, from 6th to 17th of July 2015</li>
+</ul>
+</div>
+<div id="accepted-but-not-presented-due-to-financial-visa-or-personal-issues" class="section level3">
+<h3>Accepted but not presented (due to financial, visa or personal issues)</h3>
+<ul>
+<li><strong>Akbaritabar, Aliakbar</strong>, Bianchi, Federico, Jullien, Nicolas (2017) <em>Fairness and Reciprocity in Online Communities. A Large-Scale Survey Experiment among French Wikipedia Users</em>, accepted to be presented Orally, 3rd European social networks conference, September 26-29, 2017, Mainz, Germany</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Hezarjaribi, Jafar, Jullien, Nicolas (2015) <em>Virtual/Cyber Social Capital; a new method to measure Online Social Capital</em>, accepted to be presented Orally and published in The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), August 25-28, 2015, Paris, France</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2013) <em>A SNA Study on Iranian Online Social Networks; Case Study of Doreh and U24</em>, accepted for Oral presentation at 33th Sunbelt Organized by INSNA, May 21th-26th, 2013, Hamburg, Germany</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2011) <em>A SNA Study of Social Networking Sites</em>, accepted for Oral presentation at 7th UKSNA, July 7th-9th, 2011, University of Greenwich, UK</li>
+<li><strong>Akbaritabar, Aliakbar</strong> (2011) <em>A SNA Study of Online Social Networks</em>, accepted for Oral presentation at 1st Global Conference on Social Networking Revolutions, September 7-9, 2011, Washington University, USA</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Nosrati Nezhad, Farhad (2011) <em>Muslim Thinkers Social thoughts; case study of Seyed Hossein Nasr</em>, accepted for Oral presentation at conference of Social Thoughts and Sociology in Contemporary Middle East, May 2011, Iranian Sociological Association, Tehran, Iran</li>
+<li><strong>Akbaritabar, Aliakbar</strong>, Eskandaripour, Ebrahim, Zanjari, Nasibe (2011) <em>A SNA and Netnography Study of Social Networking Sites</em>, accepted for Oral presentation in 1st Asia-Pacific Conference on Qualitative Research in Web 2.0, Macau China</li>
+</ul>
+<!-- ## Unpublished work -->
+<!-- - Research Project in Organizational Network Analysis (ONA) field named as “_A Network Approach Study on Organizational Culture and Communications; Case Study of Sooremehr Publication Company’s Organizational Network_” -->
+<!-- - Paper in Theoretical Foundations of Sociology titled as “_A Review of Anthony Giddens’s Written Work_” -->
+<!-- - Paper in Sociology of Literature and Sociology of Organizations titled as: “_Organizational Commitment in Ancient Literature: Content Analysis of Shahnameh Ferdowsi_” -->
+<!-- - Paper in Social Inequality and Stratification as: “_Educational Inequality in Iran_” has done with usage of Comparative Quantitative Analysis method -->
+<!-- - Paper in Sociology of Family and Sociology of Islamic Countries as: “_Polygamy in Islamic Countries_” -->
+<!-- - Research Project in Rural Sociology as: “_Monography of Olya Khaled Abad a rural region of Iran_” -->
+</div>
+</div>
+<div id="language-skills" class="section level2">
+<h2>Language Skills</h2>
+<ul>
+<li><strong>Persian (Farsi)</strong> and <strong>Turkish</strong> (as mother tongues)</li>
+<li><strong>English</strong>
+<ul>
+<li>TOEFL IBT 2015; overall score: 96 (R: 23, L: 24, S: 22, W: 27)</li>
+<li>TOEFL IBT 2013; overall score: 82 (R: 16, L: 22, S: 22, W: 22)</li>
+<li>TOEFL PBT 2010; overall score: 550 (W: 4/6)</li>
+</ul></li>
+<li><strong>Arabic</strong> (Basic level reading and writing)</li>
+<li><strong>Italian</strong> (Basic level)</li>
+</ul>
+</div>
+<div id="professional-software-skills" class="section level2">
+<h2>Professional software Skills</h2>
+<ul>
+<li>Excellence in R statistical programming language for diverse tasks in data gathering and web scrapping, data cleaning and manipulation, data analysis and modeling, network analysis and dynamic reports generation with Shiny and R Markdown</li>
+<li>Excellence in Social Network Analysis, Software like: igraph, Pajek, Ucinet, NodeXL, Gephi, Cytoscape</li>
+<li>Excellence in file version control and tracking with Git and Github <a href="https://github.com/akbaritabar">(<strong>see here</strong>)</a></li>
+<li>Excellence in Statistical Analysis Software like: SPSS, Stata.</li>
+<li>Excellence in Microsoft Office Programs</li>
+<li>Excellence in VBA (Visual Basic Application) in order to automate tasks in Microsoft Office</li>
+<li>Basic knowledge of Python for data analysis and web scrapping</li>
+<li>Basic knowledge in Qualitative Analysis Software like: Nvivo</li>
+</ul>
+</div>
+<div id="other" class="section level2">
+<h2>Other</h2>
+<ul>
+<li>Founder &amp; Editor In Chief of www.OnlineSNA.wordpress.com website for publishing scientific contents about Social Network Analysis. (In Persian)</li>
+<li><strong>Work experience</strong> as R &amp; D expert and social media strategist in Sooremehr publication company in Iran, September 2011 - December 2013</li>
+<li><strong>Work experience</strong> as data analyst at MCI (Hamrah-e-Avval, first and largest mobile operator company in Iran), January 2013 - May 2013</li>
+<li>Manager of Persian website of www.Networkanalysis.ir publishing scientific contents about Organizational Network Analysis. (not accessible at the moment)</li>
+<li>Member of International Network for Social Network Analysis (INSNA), 2015-6</li>
+<li>Member of Iranian National Association of Social Welfare</li>
+<li>Interview with <a href="mailto:M@rsouin">M@rsouin</a> institute about Social Village <a href="https://www.marsouin.org/article667.html">(<strong>see here</strong>)</a></li>
+<li>Excellent Teamwork skills</li>
+</ul>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

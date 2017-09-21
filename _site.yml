@@ -1,0 +1,14 @@
+name: "Aliakbar Akbaritabar (Ali)"
+navbar:
+  title: "About Me"
+  left:
+    - text: "CV"
+      href: 3AT_cv.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
+

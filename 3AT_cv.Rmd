@@ -1,0 +1,174 @@
+---
+title: "Aliakbar Akbaritabar (Ali)"
+author: "Curriculum Vitae"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+header-includes:
+    - \usepackage{setspace}\setstretch{1.25}
+csl: apa.csl
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+bibliography: ref.bibtex
+---
+
+## Personal and Contact information
+- __Email__: [Akbaritabar@Gmail.com](mailto:Akbaritabar@Gmail.com)
+- __Phone__: [+39-327-6245450](+39-327-6245450)
+- [__Google Scholar Profile__ (https://goo.gl/NOmq0n)](https://goo.gl/NOmq0n)
+- __Website__: [www.SocialVillage.me](www.SocialVillage.me)
+- __Website__: [www.OnlineSNA.wordpress.com](www.OnlineSNA.wordpress.com)
+- [__Linkedin Profile__ (http://ir.linkedin.com/in/akbaritabar/)](http://ir.linkedin.com/in/akbaritabar/)
+- __Nationality__: Iranian
+- __Date of Birth__: 21-September-1986
+
+## Education
+### Main studies
+- __PhD. candidate of  Economic Sociology__ (Nov 2015-2018)
+    + University of Milan and University of Brescia, Italy
+    + __Thesis Title__: Explaining scientific collaborations and research productivity of sociologists
+    + __Supervised by__: Prof. Flaminio Squazzoni
+- __PhD. of Sociology__ (Social Welfare) (2011-2015)
+    + Allameh Tabatabaei University, Tehran, Iran
+    + __Thesis Title__: Iranian’s Cyber Social Capital
+    + __Supervised by__: Prof. Jafar Hezarjaribi
+- __M.A. of Sociology__ (2008-2011)
+    + Tarbiat Modares University, Tehran, Iran
+    + __Thesis Title__: A SNA Study on Online Social Networks: Case study of Doreh and U24
+    + __Supervised by__: Prof. Ali Saei
+- __B.A. of Sociology__ (Social Research) (2004-2008)
+    + Shiraz University, Shiraz, Iran
+    + __Thesis Title__: Factors related with students commitment to university
+    + __Supervised by__: Prof. Abdol Ali Lahsayi Zadeh
+
+### Research visits, short courses and schools
+- Summer School in "__Agent-based modelling for social scientists__" (September 4-8 2017)
+    + University of Brescia, Italy
+    + __Instructors__: Flaminio Squazzoni, Simone Gabbriellini, Nicolas Payette, Federico Bianchi
+- Spring School in __Python for social scientists__ (April 12-13 2017)
+    + University of Trento, Italy
+    + __Instructor__: Jonathan Bright (Oxford Internet Institute)
+- Summer School in "__Agent-based modelling for social scientists__" (June 20-24 2016)
+    + University of Brescia, Italy
+    + __Instructors__: Flaminio Squazzoni, Simone Gabbriellini, Federico Bianchi
+- __Analysis of Longitudinal Social Network Data using RSIENA__ (June 14th 2016; 3 hours: 9h-12h) 2nd European Conference on Social Networks (EUSN) June 14-17, Sciences Po, Paris, France
+    + __Instructors__: Tom Snijders, Christian Steglich
+- __Temporal Exponential Random Graph Model (TERGM)__ (June 14th 2016; 3 hours: 16h30-19h30) 2nd European Conference on Social Networks (EUSN) June 14-17, Sciences Po, Paris, France
+    + __Instructors__: Lorien Jasny, Michal Bojanowski
+- Doctoral course as seminar series on __Social Networks and Organizations__, Spring semester 2016, Italian University of Switzerland (USI), Lugano, Switzerland
+    + __Instructors__: Alessandro Lomi, Christoph Stadtfeld, Per Block, Viviana Amati, Paola Zappa
+- 2nd edition Spring school on __ERGM (Exponential Random Graph Models) for statistical analysis of Network data__ (April 18-20 2016)
+    + Italian University of Switzerland (USI), Lugano, Switzerland
+    + __Instructors__: Garry Robins, Alessandro Lomi, Paola Zappa
+- __PhD. Research Visit__ (1 month - July 2015)
+    + Autonomous University of Barcelona (UAB), Barcelona, Spain
+    + __Project Title__: How to measure Cyber Social Capital comparatively among English, French and Persian users of Online social Networks
+    + __Supervised by__: Prof. Jose Luis Molina, Prof. Miranda Jessica Lubbers
+- 8th edition of Summer school on __Personal Network Analysis (PNA)__ (July 6-10 2015)
+    + Autonomous University of Barcelona (UAB), Barcelona, Spain
+    + __Instructors__: Jose Luis Molina, Miranda Jessica Lubbers, Jürgen Lerner, Rafaelle Vacca, Alejandro García Macías
+- __PhD. Research Visit__ (5 months – February - September 2015)
+    + Telecom-Bretagne, Brest, France
+    + __Project Title__: How to measure Cyber Social Capital comparatively among English, French and Persian users of Online social Networks
+    + __Supervised by__: Prof. Nicolas Jullien
+
+## Research Interests
+- Social Network Analysis (SNA)
+- Networks of scientific collaborations and coauthorship
+- Online Social Network Analysis
+- Social Capital and Cyber Social Capital
+- Organizational network analysis (ONA)
+
+## Lectures & Workshops Instructed
+- __Workshop Instructor__ and Organizer in research methods and SNA (Social Network Analysis) 
+    + Teaching  more than __10 workshops__ about how to formulate research problems and do network analysis using Pajek and NodeXL
+- __University lecturer__ in field of Sociology for more than two years;
+    + Yazd University (12 credits: Basic Sociology at B.A level, 2 credits (twice); Sociology of Third world countries at B.A level, 2 credits; Sociology of Delinquent Behavior, B.A Level, 2 credits, Sociology of Social Stratifications and Inequalities, B.A Level, 2 credits (twice)
+    + University Of Applied Science & Technology (lecturer code: 902022826), 
+        - Imam Khomeini Branch of Tehran (Basic Sociology at B.A level, 2 credits; Basics of Iranian Social History at B.A level, 2 credits)
+
+## Research works & publications
+### Journals
+- __Akbaritabar, Aliakbar__, Casnici, Niccolo, Squazzoni, Flaminio (2017) _The conundrum of research productivity. A study on sociologists in Italy_, Under peer review
+- Squazzoni, Flaminio, __Akbaritabar, Aliakbar__ (2017) _Internationalizing Sociology in Italy, 1970s-2010s_, Global Dialogue, ISA (International Sociological Association), Volume 7, Issue 3, 10-11
+- __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Jullien, Nicolas (2015) _A tool for dynamic measurement of social capital embedded in Online Social Networks_, Grafo working papers, electronic journal, Issue 4, Nº 04/y1. ISSN: 2014-5993 [(Access here)](http://revistes.uab.cat/grafowp/article/view/14/vol4-n1-Akbaritabar)
+- Eskandaripour, Ebrahim, __Akbaritabar, Aliakbar__ (2014) _How to do a scientific research on media (TV & Radio) related pages on social networking sites A Mixed Method_, Quarterly Journal of Communication Research, Winter 2014, Tehran, Iran (In Persian)
+- Nazifi, Morteza, Mokarami, Hamidreza, __Akbaritabar, Aliakbar__, Kalte, Haji Omid, Rahi, Amid (2014) _Psychometric Properties of the Persian Translation of Pittsburgh Sleep Quality Index_, Health Scope, 3(2): 1-4
+- Nazifi, M., Mokarami, H. R., __Akbaritabar, Aliakbar__, K., Faraji Kujerdi, M., Tabrizi, R., & Rahi, A. (2014). _Reliability, Validity and Factor Structure of the Persian Translation of General Health Questionnire (GHQ-28) in Hospitals of Kerman University of Medical Sciences_, Journal of Fasa University of Medical Sciences, 3(4), 336-342 (In Persian)
+- Shaverdi, Meisam, Eskandaripour, Ebrahim, __Akbaritabar, Aliakbar__ (2013) _Developing sustainable SCM evaluation model using fuzzy AHP in publishing industry_, Elsevier (Procedia Computer Science series), March 10, 2013, This paper have been published in proceeding of International Conference on Information Technology and Quantitative Management (ITQM 2013), May 16-18, 2013 in Suzhou, China
+- __Akbaritabar, Aliakbar__, Mokarami, H., Nazifi, M., Rahi, A., & Hosseinpouri, M. (2013). _Psychometric properties of Spector’s job satisfaction survey in the Iranian population_, Koomesh, 14(3), 335-341 (In Persian)
+- __Akbaritabar, Aliakbar__ (2012) _A Meta-Analysis of SNA Textbooks, special issue on Social Networks_, Ketab-e-Mah magazine, Tehran, Iran (In Persian)
+- Hosseini, Mostajad, Hezarjaribi, Jafar, __Akbaritabar, Aliakbar__ (2012) _Globalization and its impacts on Social Welfare_, Welfare planning and social development, 4, 71-122, and presented in the first Iranian conference on Social welfare (In Persian)
+- __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Hosseini, Mostajad (2012) _ICTs and their relationship with Social Welfare_, Society, culture and media (In Persian)
+
+### Conferences and Talks
+- __Akbaritabar, Aliakbar__, (2017) _Iranian’s Cyber Social Capital
+A comparative SNA study on a sample of English, French and Persian
+speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Association - June 19th, 2017, Tehran, Iran
+- __Akbaritabar, Aliakbar__, Casnici, Niccolo, Squazzoni, Flaminio (2017) _Where are sociologists embedded? A study on research productivity of sociologists in Italy_, GECS (research Group in Experimental and Computational Sociology) seminars - January 13, 2017, University of Brescia, Brescia, Italy
+- __Akbaritabar, Aliakbar__, (2016) _how do scholars collaborate with each other? Comparative study on Co-authorship Networks of Scholars Worldwide Using Big Data_, Second European Conference on Social Networks (EUSN), June 14-17, 2016, Paris, France
+- __Akbaritabar, Aliakbar__, Hezarjaribi, jafar (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 35th Sunbelt Organized by INSNA, June 23th -28th, Brighton, UK
+- __Akbaritabar, Aliakbar__, Eskandaripour, Ebrahim, Ahmadigharacheh, Ehsan (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 1st Annual Computational Social Science Summit: Collaborative Futures, 15-17 May 2015, Kellogg School of Management, Northwestern University, USA (Poster presentation)
+- __Akbaritabar, Aliakbar__ (2013) _Organizational Network Analysis (ONA): How Social Media will change the way Information is shared in Organizations_, Second National Conference on Social Media day, May 2013, Tehran, Iran
+- __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar (2013) _How Online Social Networks shape youth’s Lifestyle and Leisure time_, National Congress on Lifestyle and leisure Time, July 2013, Shiraz University, Iran
+- __Akbaritabar, Aliakbar__ (2011) _Book-based Group Activities in Social Networking Sites, Case study of U24.ir_, Conference on Book and Social Media, January 2011, Tehran, Iran
+- __Akbaritabar, Aliakbar__ (2011) _How to use SNA in study of online social networks_, Conference on Online Social Networks and Everyday Life, May 2011, Tehran University, Tehran, Iran
+- __Akbaritabar, Aliakbar__ (2011) _Factors Related with Students’ Commitment to University_, INTED2011 (International Technology, Education and Development Conference), 7th-9th of March, 2011, Valencia, Spain
+- __Akbaritabar, Aliakbar__, Saei, Ali, Khodaei, Ebrahim (2011) _Youth Responsibility In Online Social Networks: Case Study of U24.ir_, National Conference on Youth Responsibility, May 2011, Shiraz University, Shiraz
+- __Akbaritabar, Aliakbar__, Boostani, Darioush (2011) _Sociological Pathology of Medical Education in Iran_, 12th National Conference on Medical Education, May 2011, Ferdowsi University of Mashhad, Mashhad, Iran (done with in-depth interview as data collection method)
+- Jabbareh, Mohammad Amin, __Akbaritabar, Aliakbar__, Abdolah Zade, Amir (2010) _Study on Trends of Research in Materials Science_, 4th Integrated Conference of Metallurgy Engineers and Iran’s Scientific Committee of Casting, November 2010, Iran university of Science and Technology, Tehran Iran
+
+### Scholarships & Awards
+- __3-years PhD scholarship__ in Economic Sociology (40915.41 euros), University of Milan, Funded by University of Brescia, Italy
+- Has been awarded a __six month research visit scholarship__ of 6570 euros by ministry of science, research and technology of Iran to continue study on PhD thesis research, “Iranian’s Cyber Social Capital” and to stay abroad, spent in LUSSI (Logique des usages, sciences sociales et de l'information) department of Telecom-Bretagne, Brest, France
+- PhD thesis research titled as: “Online Social Network Users' Cyber Social Capital” has been awarded a Scholarship (__tuition fee waiver__ for 490 euros) and has been presented in 8th edition of the Summer Course, Methods and Applications of Personal Networks (2 ECTS*) at the UAB, Barcelona, Spain, from 6th to 10th of July 2015
+- PhD thesis research titled as: “Online Social Network Users' Cyber Social Capital” has been awarded a Scholarship (__tuition fee discount__ for 500 euros) to be presented in summer course on Big Data and Society in University of Amsterdam, Netherlands, from 6th to 17th of July 2015
+
+### Accepted but not presented (due to financial, visa or personal issues)
+- __Akbaritabar, Aliakbar__, Bianchi, Federico, Jullien, Nicolas (2017) _Fairness and Reciprocity in Online Communities. A Large-Scale Survey Experiment among French Wikipedia Users_, accepted to be presented Orally, 3rd European social networks conference, September 26-29, 2017, Mainz, Germany
+- __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Jullien, Nicolas (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, accepted to be presented Orally and published in The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), August 25-28, 2015, Paris, France
+- __Akbaritabar, Aliakbar__ (2013) _A SNA Study on Iranian Online Social Networks; Case Study of Doreh and U24_, accepted for Oral presentation at 33th Sunbelt Organized by INSNA, May 21th-26th, 2013, Hamburg, Germany
+- __Akbaritabar, Aliakbar__ (2011) _A SNA Study of Social Networking Sites_, accepted for Oral presentation at 7th UKSNA, July 7th-9th, 2011, University of Greenwich, UK
+- __Akbaritabar, Aliakbar__ (2011) _A SNA Study of Online Social Networks_, accepted for Oral presentation at 1st Global Conference on Social Networking Revolutions, September 7-9, 2011, Washington University, USA
+- __Akbaritabar, Aliakbar__, Nosrati Nezhad, Farhad (2011) _Muslim Thinkers Social thoughts; case study of Seyed Hossein Nasr_, accepted for Oral presentation at conference of Social Thoughts and Sociology in Contemporary Middle East, May 2011, Iranian Sociological Association, Tehran, Iran
+- __Akbaritabar, Aliakbar__, Eskandaripour, Ebrahim, Zanjari, Nasibe (2011) _A SNA and Netnography Study of Social Networking Sites_, accepted for Oral presentation in 1st Asia-Pacific Conference on Qualitative Research in Web 2.0, Macau China
+
+
+<!-- ## Unpublished work -->
+<!-- - Research Project in Organizational Network Analysis (ONA) field named as “_A Network Approach Study on Organizational Culture and Communications; Case Study of Sooremehr Publication Company’s Organizational Network_” -->
+<!-- - Paper in Theoretical Foundations of Sociology titled as “_A Review of Anthony Giddens’s Written Work_” -->
+<!-- - Paper in Sociology of Literature and Sociology of Organizations titled as: “_Organizational Commitment in Ancient Literature: Content Analysis of Shahnameh Ferdowsi_” -->
+<!-- - Paper in Social Inequality and Stratification as: “_Educational Inequality in Iran_” has done with usage of Comparative Quantitative Analysis method -->
+<!-- - Paper in Sociology of Family and Sociology of Islamic Countries as: “_Polygamy in Islamic Countries_” -->
+<!-- - Research Project in Rural Sociology as: “_Monography of Olya Khaled Abad a rural region of Iran_” -->
+
+
+## Language Skills
+- __Persian (Farsi)__ and __Turkish__ (as mother tongues)
+- __English__ 
+    + TOEFL IBT 2015; overall score: 96 (R: 23, L: 24, S: 22, W: 27)
+    + TOEFL IBT 2013; overall score: 82 (R: 16, L: 22, S: 22, W: 22)
+    + TOEFL PBT 2010; overall score: 550 (W: 4/6)
+- __Arabic__ (Basic level reading and writing)
+- __Italian__ (Basic level)
+
+
+## Professional software Skills
+- Excellence in R statistical programming language for diverse tasks in data gathering and web scrapping, data cleaning and manipulation, data analysis and modeling, network analysis and dynamic reports generation with Shiny and R Markdown
+- Excellence in Social Network Analysis, Software like: igraph, Pajek, Ucinet, NodeXL, Gephi, Cytoscape
+- Excellence in file version control and tracking with Git and Github [(__see here__)](https://github.com/akbaritabar)
+- Excellence in Statistical Analysis Software like: SPSS, Stata. 
+- Excellence in Microsoft Office Programs 
+- Excellence in VBA (Visual Basic Application) in order to automate tasks in Microsoft Office
+- Basic knowledge of Python for data analysis and web scrapping
+- Basic knowledge in Qualitative Analysis Software like: Nvivo
+
+## Other
+- Founder & Editor In Chief of www.OnlineSNA.wordpress.com website for publishing scientific contents about Social Network Analysis. (In Persian)
+- __Work experience__ as R & D expert and social media strategist in Sooremehr publication company in Iran, September 2011 - December 2013
+- __Work experience__ as data analyst at MCI (Hamrah-e-Avval, first and largest mobile operator company in Iran), January 2013 - May 2013
+- Manager of Persian website of www.Networkanalysis.ir publishing scientific contents about Organizational Network Analysis. (not accessible at the moment)
+- Member of International Network for Social Network Analysis (INSNA), 2015-6
+- Member of Iranian National Association of Social Welfare
+- Interview with M@rsouin institute about Social Village [(__see here__)](https://www.marsouin.org/article667.html)
+- Excellent Teamwork skills
