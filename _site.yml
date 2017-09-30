@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "CV"
       href: 3AT_cv.html
+    - text: "R Projects"
+      href: R_Projects.html
 output_dir: "."
 output:
   html_document:

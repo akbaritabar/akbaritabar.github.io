@@ -1,0 +1,10297 @@
+{
+  "event": [{
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475272145414166"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475264557973654"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475250154802876"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475249506877189"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475247642542768"
+      }, {
+        "timestamp_usec": "1475247647070189"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475247142971327"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475246672767122"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475245327741500"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475245264236553"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475236273632518"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475236270525132"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475236262991789"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475236252719610"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475236233517244"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475235667843384"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475232066188528"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475232052728649"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475232037229689"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475230658249493"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475230584444919"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475230548152431"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475230480368873"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475230385300842"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475229564959175"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475228851764022"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475226502146343"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475226012652284"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475225998984256"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475222000591529"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475221539553363"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475221267309461"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475221264482084"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475221235300515"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475221150272912"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475221143218368"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475220576281537"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475220359759489"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475220236421006"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475164925130011"
+      }, {
+        "timestamp_usec": "1475164938696311"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475149902251573"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475137326138447"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475135165641382"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475134919900468"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475090649353112"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475090269800654"
+      }, {
+        "timestamp_usec": "1475090272645077"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475090257818203"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475089957966947"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475089954419970"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475075956544981"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475073726951752"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475073140722204"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475073138367803"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475072165057704"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475062153460224"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475061316159074"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475059117153895"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475059114642231"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475057109741380"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475056465110599"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475052821801161"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475050876485924"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475050865598803"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475050513798563"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475049496812520"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475048629190347"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475048599119988"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475048583875237"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1475048296517736"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474996588815804"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474996273229920"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474995901311185"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474995895636812"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474991526918045"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474990924813122"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474990557140583"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474990456966761"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474990216727029"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474988680477226"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474985704961414"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474985596792334"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474985313328175"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474985310825626"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474985106953482"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474985094527435"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474984780755507"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474984678073474"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474982977134889"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474982946593431"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474982731340603"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474982696527586"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474982664749535"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474978615653367"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474978546222089"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474978539628244"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474978330189546"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474978324420498"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474978293773313"
+      }, {
+        "timestamp_usec": "1474978304203981"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474974482703325"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474974478014425"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474974188408535"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474974182499954"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474968986357550"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474967869235579"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474967854206011"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474967849084640"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474967831106546"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474966666078250"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474966508129824"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474966502644835"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474966499014286"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474966494990083"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474965613455389"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474959241472830"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474921973356906"
+      }, {
+        "timestamp_usec": "1474921975781304"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474920063715700"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474920023515427"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474919992412851"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474919987787319"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474918226391751"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474893407897992"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474893326060709"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474889807885778"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474889803790107"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474889801291384"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474882251480407"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474882248177603"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474881515558000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474866173764001"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474825474679044"
+      }, {
+        "timestamp_usec": "1474825481126636"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474821481773019"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474803702296772"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474803403706090"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474802043854276"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474795890368037"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474790709067087"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474642474477818"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474642453129129"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474642444603369"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474641312536748"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474641203809330"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474639149903294"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474639147022236"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474638933114238"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474638905281509"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474638839732618"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474638637816219"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474638368538863"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474630342350211"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474630185204002"
+      }, {
+        "timestamp_usec": "1474630187330907"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474626132565996"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474625899626355"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474624069572775"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474624048350257"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474617799650758"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474617787168796"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474615711578244"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474614575770749"
+      }, {
+        "timestamp_usec": "1474614577528187"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474614411080412"
+      }, {
+        "timestamp_usec": "1474614413740730"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474614362634286"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474614359940866"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474558631865986"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474557947470372"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474554647726695"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474553234060202"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474553187615662"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474549464113887"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474549059639532"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474547993489591"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474547970701319"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474547967859021"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474547866235671"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474547416009899"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474544899885981"
+      }, {
+        "timestamp_usec": "1474544902550193"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474544895890706"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474544461207977"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474543999043216"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474540303463731"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474535837817000"
+      }, {
+        "timestamp_usec": "1474535852233000"
+      }, {
+        "timestamp_usec": "1474535913769000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474534622187143"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474534487520741"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474531486289746"
+      }, {
+        "timestamp_usec": "1474531489028971"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474531463420549"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474530382692168"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474528483339727"
+      }, {
+        "timestamp_usec": "1474528489338720"
+      }, {
+        "timestamp_usec": "1474528491978514"
+      }, {
+        "timestamp_usec": "1474528496620164"
+      }, {
+        "timestamp_usec": "1474528498007632"
+      }, {
+        "timestamp_usec": "1474528502005508"
+      }, {
+        "timestamp_usec": "1474528505231941"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474528297210372"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474527075164580"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474527047833989"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474484328292005"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474484322910806"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474462579471310"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474460022505954"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474458660799190"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474458651066772"
+      }, {
+        "timestamp_usec": "1474458653133034"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474458618369460"
+      }, {
+        "timestamp_usec": "1474458620280971"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474458530117561"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474458502867763"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474458483548935"
+      }, {
+        "timestamp_usec": "1474458490388299"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474458098768286"
+      }, {
+        "timestamp_usec": "1474458100948984"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474454589856278"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474450755804121"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474450699180613"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474450131303437"
+      }, {
+        "timestamp_usec": "1474450133450148"
+      }, {
+        "timestamp_usec": "1474450158138250"
+      }, {
+        "timestamp_usec": "1474450198469236"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474446142201065"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474446096121943"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474446075151166"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474443439835797"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474443433001152"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474443429773354"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474441507081080"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474441503478528"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474401261500732"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474401249453819"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474401227474924"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474398280105959"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474397883365697"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474395657558631"
+      }, {
+        "timestamp_usec": "1474395694580670"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474391146438248"
+      }, {
+        "timestamp_usec": "1474391149219033"
+      }, {
+        "timestamp_usec": "1474391167759357"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474385394916596"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474384967804530"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474384650589319"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474379991678224"
+      }, {
+        "timestamp_usec": "1474379997875706"
+      }, {
+        "timestamp_usec": "1474379999541938"
+      }, {
+        "timestamp_usec": "1474380002156396"
+      }, {
+        "timestamp_usec": "1474380005199184"
+      }, {
+        "timestamp_usec": "1474380009176228"
+      }, {
+        "timestamp_usec": "1474380016723290"
+      }, {
+        "timestamp_usec": "1474380018917940"
+      }, {
+        "timestamp_usec": "1474380020605320"
+      }, {
+        "timestamp_usec": "1474380026111329"
+      }, {
+        "timestamp_usec": "1474380032138236"
+      }, {
+        "timestamp_usec": "1474380036014614"
+      }, {
+        "timestamp_usec": "1474380039717275"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474379983569176"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474378421317681"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474372274514206"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474372185505246"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474369298672165"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474367825058359"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474366090306785"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474360175373647"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474358551573275"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474358548796966"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474354950248274"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474315815287612"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474315002691317"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474312552524834"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474312530700045"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474312087367965"
+      }, {
+        "timestamp_usec": "1474312090219834"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474311953409322"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474311461152831"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474309093520001"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474306698119385"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474301130493481"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474299762555447"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474298145309139"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474298132119743"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474297759150159"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474297720858263"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474297717637670"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474297703791724"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474295371115840"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474291272108510"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474289173995003"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474288946634096"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474284216013315"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474282962418588"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474275847057023"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474275826528868"
+      }, {
+        "timestamp_usec": "1474275829356021"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474275822033075"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474274039096059"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474271183906374"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474270512889664"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474207057087368"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474195779888340"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474195365343509"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474195339160169"
+      }, {
+        "timestamp_usec": "1474195341118198"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474193057299801"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474192957506763"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474192917023089"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474192135323390"
+      }, {
+        "timestamp_usec": "1474192140001388"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474145097607679"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474144718860807"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474135912794652"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474135907259076"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474134775137965"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474119575904865"
+      }, {
+        "timestamp_usec": "1474119579794228"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474119521006334"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474113720230631"
+      }, {
+        "timestamp_usec": "1474113724270632"
+      }, {
+        "timestamp_usec": "1474113862434386"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474107176869449"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474106129435126"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474105566252351"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474103838340421"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474102911752586"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474102895734951"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474102749441132"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474102734247115"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474102726457586"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474102153084856"
+      }, {
+        "timestamp_usec": "1474102188488810"
+      }, {
+        "timestamp_usec": "1474102195398660"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474051027211535"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474051008507887"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474044348455167"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474041270650682"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040573865167"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040502439572"
+      }, {
+        "timestamp_usec": "1474040504778705"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040452153072"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040433180143"
+      }, {
+        "timestamp_usec": "1474040435732585"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040399829019"
+      }, {
+        "timestamp_usec": "1474040402666872"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040127647005"
+      }, {
+        "timestamp_usec": "1474040130060064"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040113730629"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474040055355269"
+      }, {
+        "timestamp_usec": "1474040059280492"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474036756355057"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474036547509798"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474036544853376"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474036520390294"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474036209874496"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474036206583681"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474035214447419"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474034570711708"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474034014920762"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474032591659163"
+      }, {
+        "timestamp_usec": "1474032597695993"
+      }, {
+        "timestamp_usec": "1474032599904831"
+      }, {
+        "timestamp_usec": "1474032601667508"
+      }, {
+        "timestamp_usec": "1474032605447892"
+      }, {
+        "timestamp_usec": "1474032608367436"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474030940940217"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474030934719564"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474030230755423"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474021823584220"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474021532762622"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474020227328445"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474019100669573"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1474009371249432"
+      }, {
+        "timestamp_usec": "1474009823988066"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473957221806113"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473955090619966"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473955088269861"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473953230229240"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473951944258905"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473950036660476"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473950030829838"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473948626629006"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473948359972771"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473948351465829"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473946929856837"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473946919963302"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473939426138654"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473929460655755"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473929438238748"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473924426373278"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473915371835631"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473879897710337"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473876289948000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473875225741001"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473875075267847"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473873424308573"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473872130299001"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473869818775001"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473854638487522"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473846541734641"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473840396444028"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473840339099008"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473840325993336"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473839958118873"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473839951970287"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473837779742384"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473836567549226"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473783737424951"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473782079569989"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473778386693565"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473778383976468"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473778231219388"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473778227463634"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473778016741366"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473776185881079"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473775663116036"
+      }, {
+        "timestamp_usec": "1473775668658292"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473774696485064"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473774693970389"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473774478477804"
+      }, {
+        "timestamp_usec": "1473774481888147"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473774262091010"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473771791305620"
+      }, {
+        "timestamp_usec": "1473771807029694"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473771788861171"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473771438806670"
+      }, {
+        "timestamp_usec": "1473771448784501"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473771429391263"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473762556797399"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473762328346250"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473762054440761"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473761896828511"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473757698839640"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473753593874257"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473750882052813"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473749549548444"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473748976161574"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473748950709276"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473713184399884"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473712984099615"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473712742666376"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473712709794335"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473712429887014"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473668293193648"
+      }, {
+        "timestamp_usec": "1473668407341235"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473611436475418"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473601364174290"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473601331572587"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473588404570056"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473587280847137"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473584693118387"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473583083650931"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473543043659697"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473530706397466"
+      }, {
+        "timestamp_usec": "1473530718743752"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473519379930946"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473519374533643"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473509815644334"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473509813694342"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473505595348760"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473505174678159"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473505156693797"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473505153547330"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473505122348963"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473505041743105"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473505005127508"
+      }, {
+        "timestamp_usec": "1473505006684937"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473504991169632"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473441611315345"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473441537371683"
+      }, {
+        "timestamp_usec": "1473441545506488"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473435603640829"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473432279616609"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473428373608456"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473425542149219"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473425526721329"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473421588219225"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473421586172926"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473421578384986"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473416692045669"
+      }, {
+        "timestamp_usec": "1473416695177874"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473416567861730"
+      }, {
+        "timestamp_usec": "1473416569371927"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473416565281921"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473416518551662"
+      }, {
+        "timestamp_usec": "1473416521373279"
+      }, {
+        "timestamp_usec": "1473416523554718"
+      }, {
+        "timestamp_usec": "1473416524797106"
+      }, {
+        "timestamp_usec": "1473416526948706"
+      }, {
+        "timestamp_usec": "1473416533209053"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473413964362734"
+      }, {
+        "timestamp_usec": "1473413970273563"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473412056206279"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473412048125230"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473407465514352"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473359092638996"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473352728235346"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473350535709103"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473346468849136"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473342229905986"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473342173617528"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473341463576276"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473341035028001"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473341013181000"
+      }, {
+        "timestamp_usec": "1473341027383000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473340986402000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473340953147046"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473340882194347"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473338825602378"
+      }, {
+        "timestamp_usec": "1473338829302673"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473338657535784"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473338654681954"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473338649404763"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473332670417678"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473332642273868"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473329136167601"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473327912097060"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473327896138411"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473323115863055"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473318190091923"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473318150488668"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473318146826091"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473317446260742"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473316849303978"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473272690324791"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473267544491365"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473265126169231"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473261772492029"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473260089509184"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473259421587620"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473259246214537"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473258549565746"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473256379286936"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473254264295208"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473254261868159"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473253710418288"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473253704984585"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473253698608256"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473253236763484"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473245640089339"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473245576900167"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473244300014275"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473243643104949"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473239160077176"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473238915193612"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473237369656737"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473237358314312"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473237356184591"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473237130590731"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473236939320205"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473236936543032"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473236758864932"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473235585975706"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473235199777938"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473234607801896"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473232463266990"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473232445934153"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473232392344593"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473231759996800"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473231189911171"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473187921067317"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473181837547810"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473181824768618"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473175839219380"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473167485584435"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473166647852576"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473166222768272"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473164811718509"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473164795316836"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473163715102385"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473163691646423"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473159730800912"
+      }, {
+        "timestamp_usec": "1473159734501556"
+      }, {
+        "timestamp_usec": "1473159736545752"
+      }, {
+        "timestamp_usec": "1473159738436255"
+      }, {
+        "timestamp_usec": "1473159746124589"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473159627873196"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473157778718172"
+      }, {
+        "timestamp_usec": "1473157783855639"
+      }, {
+        "timestamp_usec": "1473157786985359"
+      }, {
+        "timestamp_usec": "1473157787929634"
+      }, {
+        "timestamp_usec": "1473157794296626"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473156291397188"
+      }, {
+        "timestamp_usec": "1473156293618534"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473156253717007"
+      }, {
+        "timestamp_usec": "1473156258479084"
+      }, {
+        "timestamp_usec": "1473156260483444"
+      }, {
+        "timestamp_usec": "1473156261881762"
+      }, {
+        "timestamp_usec": "1473156264863594"
+      }, {
+        "timestamp_usec": "1473156269842949"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473156084242085"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473156050019559"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473156045722170"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473156044934862"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155981441165"
+      }, {
+        "timestamp_usec": "1473155984357587"
+      }, {
+        "timestamp_usec": "1473156029293412"
+      }, {
+        "timestamp_usec": "1473156032859981"
+      }, {
+        "timestamp_usec": "1473156040245571"
+      }, {
+        "timestamp_usec": "1473156041501833"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155960838329"
+      }, {
+        "timestamp_usec": "1473155974031413"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155939588804"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155916757770"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155695701182"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155678991508"
+      }, {
+        "timestamp_usec": "1473155680210180"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155555545124"
+      }, {
+        "timestamp_usec": "1473155559959168"
+      }, {
+        "timestamp_usec": "1473155617152062"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155522328975"
+      }, {
+        "timestamp_usec": "1473155532324989"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155123304288"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473155092156224"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473151793325952"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473151561497004"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473151558903067"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473151501555195"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473151083405349"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473151059645007"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473150960057009"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473150185386232"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473150022279060"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473150019748931"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473148986335936"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473148643521131"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473148443003283"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473147855182432"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473145110542718"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473108261554444"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473108140569341"
+      }, {
+        "timestamp_usec": "1473108145493963"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473092585643713"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473091798860995"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473091726540401"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473091693311023"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473088618828665"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473083521020123"
+      }, {
+        "timestamp_usec": "1473083525211775"
+      }, {
+        "timestamp_usec": "1473083527378308"
+      }, {
+        "timestamp_usec": "1473083529909209"
+      }, {
+        "timestamp_usec": "1473083532660728"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473082709579268"
+      }, {
+        "timestamp_usec": "1473082711767321"
+      }, {
+        "timestamp_usec": "1473082752949413"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473082520454983"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473082188357042"
+      }, {
+        "timestamp_usec": "1473082205222040"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473072086326028"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473072050752727"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473071882869549"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473070976118395"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473070876080802"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473070447557981"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473070162323168"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473070066123946"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473070063816929"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473068228559733"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473067878596508"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473067857205744"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473067011003769"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473067010725784"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473065628029632"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473064980274205"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473064815022816"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473022704310391"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473020016940334"
+      }, {
+        "timestamp_usec": "1473020060136823"
+      }, {
+        "timestamp_usec": "1473020062403582"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473019617798438"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473019579216369"
+      }, {
+        "timestamp_usec": "1473019581929799"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473006182869692"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473002044858194"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473001974115782"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473001947701293"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473001942527506"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473001912379031"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473001786782746"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473000567921689"
+      }, {
+        "timestamp_usec": "1473000570156843"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473000463933543"
+      }, {
+        "timestamp_usec": "1473000465100672"
+      }, {
+        "timestamp_usec": "1473000551706828"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473000442608559"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473000435357710"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473000424441730"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1473000411398338"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472999916957144"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472999899691523"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472999780703483"
+      }, {
+        "timestamp_usec": "1472999822385221"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472986976223855"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472986086343324"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472985722372327"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472985639957940"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472984272691356"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472926194006600"
+      }, {
+        "timestamp_usec": "1472926201167211"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472924152223680"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472924082064314"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472924079473595"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472924070829309"
+      }, {
+        "timestamp_usec": "1472924075581012"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472924060778822"
+      }, {
+        "timestamp_usec": "1472924066050064"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472923289967216"
+      }, {
+        "timestamp_usec": "1472923299501280"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472923240870346"
+      }, {
+        "timestamp_usec": "1472923243525797"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472923144398279"
+      }, {
+        "timestamp_usec": "1472923151145810"
+      }, {
+        "timestamp_usec": "1472923224330784"
+      }, {
+        "timestamp_usec": "1472923226867335"
+      }, {
+        "timestamp_usec": "1472923228052757"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472923113731703"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472923109877921"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472923011277942"
+      }, {
+        "timestamp_usec": "1472923014615201"
+      }, {
+        "timestamp_usec": "1472923017414579"
+      }, {
+        "timestamp_usec": "1472923018790253"
+      }, {
+        "timestamp_usec": "1472923020740271"
+      }, {
+        "timestamp_usec": "1472923022647874"
+      }, {
+        "timestamp_usec": "1472923024178688"
+      }, {
+        "timestamp_usec": "1472923025698914"
+      }, {
+        "timestamp_usec": "1472923026380303"
+      }, {
+        "timestamp_usec": "1472923029404150"
+      }, {
+        "timestamp_usec": "1472923066590260"
+      }, {
+        "timestamp_usec": "1472923068256697"
+      }, {
+        "timestamp_usec": "1472923069463483"
+      }, {
+        "timestamp_usec": "1472923070547925"
+      }, {
+        "timestamp_usec": "1472923071941530"
+      }, {
+        "timestamp_usec": "1472923072671278"
+      }, {
+        "timestamp_usec": "1472923074760386"
+      }, {
+        "timestamp_usec": "1472923075339453"
+      }, {
+        "timestamp_usec": "1472923077878295"
+      }, {
+        "timestamp_usec": "1472923084206093"
+      }, {
+        "timestamp_usec": "1472923086070325"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472922993294955"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472920796895315"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472920640955911"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472919969573295"
+      }, {
+        "timestamp_usec": "1472919978710723"
+      }, {
+        "timestamp_usec": "1472919988081090"
+      }, {
+        "timestamp_usec": "1472919991741330"
+      }, {
+        "timestamp_usec": "1472919995136169"
+      }, {
+        "timestamp_usec": "1472919997549524"
+      }, {
+        "timestamp_usec": "1472919998644012"
+      }, {
+        "timestamp_usec": "1472919999920707"
+      }, {
+        "timestamp_usec": "1472920002530093"
+      }, {
+        "timestamp_usec": "1472920039899172"
+      }, {
+        "timestamp_usec": "1472920079510676"
+      }, {
+        "timestamp_usec": "1472920091601577"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472919932651878"
+      }, {
+        "timestamp_usec": "1472919934123252"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472919616926227"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472919006085026"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472917845170740"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472917837062877"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472916872442092"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472916835460980"
+      }, {
+        "timestamp_usec": "1472916864304437"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472916132812582"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472915802596714"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472915741990361"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472914973425271"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472890366684745"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885592246135"
+      }, {
+        "timestamp_usec": "1472885614369710"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885533109635"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885504677407"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885454026846"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885429099895"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885389889082"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885376881632"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885288509416"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472885164434000"
+      }, {
+        "timestamp_usec": "1472885186284532"
+      }, {
+        "timestamp_usec": "1472885205189089"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472847903752670"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472847746814725"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472847741292038"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472847251089881"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472847249205857"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472846900422066"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472846637198109"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472845644422476"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472845642316000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472845630769380"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472842520478066"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472841294133147"
+      }, {
+        "timestamp_usec": "1472841297688048"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472839856327017"
+      }, {
+        "timestamp_usec": "1472839890920773"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472839833610643"
+      }, {
+        "timestamp_usec": "1472839837117430"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472839822856909"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472830482699066"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472830470376891"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472824494446413"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472824391087998"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472824371114333"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472808810473013"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472747298692364"
+      }, {
+        "timestamp_usec": "1472747301206185"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472746704508644"
+      }, {
+        "timestamp_usec": "1472746708068070"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472746500936349"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472723543170489"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472722903933151"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472718255128345"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472667780676426"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472624319687407"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472588062144560"
+      }, {
+        "timestamp_usec": "1472588067323799"
+      }, {
+        "timestamp_usec": "1472588074030039"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472588057869609"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472588044046328"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472573969131096"
+      }, {
+        "timestamp_usec": "1472573969714749"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561958172746"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561956158133"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561938587269"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561928899270"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561919675127"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561880553061"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561688315156"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472561642016608"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472560539524315"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472560315441284"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472560210731935"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472544197610007"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472544080062011"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472544025589029"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472482894708766"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472470706818790"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472470695500197"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472470217139253"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472469694166383"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472469683828262"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472468674650129"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472468634860612"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472391706643735"
+      }, {
+        "timestamp_usec": "1472391722885542"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472388301197991"
+      }, {
+        "timestamp_usec": "1472388318254486"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472385282118701"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472372532689204"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472371022609938"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472370902302495"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472365462888260"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472365237637450"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472364975289233"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472362371784330"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472269532175454"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472242108215677"
+      }, {
+        "timestamp_usec": "1472242111546500"
+      }, {
+        "timestamp_usec": "1472242132635366"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472242094657346"
+      }, {
+        "timestamp_usec": "1472242102783390"
+      }, {
+        "timestamp_usec": "1472242104234812"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224660145645"
+      }, {
+        "timestamp_usec": "1472224661566250"
+      }, {
+        "timestamp_usec": "1472224663236838"
+      }, {
+        "timestamp_usec": "1472224671527669"
+      }, {
+        "timestamp_usec": "1472224676952032"
+      }, {
+        "timestamp_usec": "1472224681846212"
+      }, {
+        "timestamp_usec": "1472224683995972"
+      }, {
+        "timestamp_usec": "1472224686540396"
+      }, {
+        "timestamp_usec": "1472224688575836"
+      }, {
+        "timestamp_usec": "1472224691456291"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224588072603"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224582498484"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224571099981"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224368634859"
+      }, {
+        "timestamp_usec": "1472224371003616"
+      }, {
+        "timestamp_usec": "1472224374435111"
+      }, {
+        "timestamp_usec": "1472224378153468"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224150974212"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224128383129"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224116051345"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472224045095773"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472223592840994"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472223576707700"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472223073240759"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472219332341596"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472211384255692"
+      }, {
+        "timestamp_usec": "1472211388399829"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472210597977805"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472210032201078"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472103176266649"
+      }, {
+        "timestamp_usec": "1472103188267159"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472031509064510"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472028220007035"
+      }, {
+        "timestamp_usec": "1472028227548090"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472028202018156"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1472028193111138"
+      }, {
+        "timestamp_usec": "1472028196737822"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471973180389951"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471959194022729"
+      }, {
+        "timestamp_usec": "1471959234539795"
+      }, {
+        "timestamp_usec": "1471959264088315"
+      }, {
+        "timestamp_usec": "1471959331557678"
+      }, {
+        "timestamp_usec": "1471959361220170"
+      }, {
+        "timestamp_usec": "1471960632767212"
+      }, {
+        "timestamp_usec": "1471960634010699"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471958607804204"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471958555044793"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471956836573379"
+      }, {
+        "timestamp_usec": "1471956850141521"
+      }, {
+        "timestamp_usec": "1471956867295417"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471956098076559"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471956092975017"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471955436445019"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471955396323760"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471955216807639"
+      }, {
+        "timestamp_usec": "1471955390139476"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471955036588226"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471955003963406"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471943269066824"
+      }, {
+        "timestamp_usec": "1471943272708985"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471943144958333"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471934234051022"
+      }, {
+        "timestamp_usec": "1471935264955928"
+      }, {
+        "timestamp_usec": "1471935308168557"
+      }, {
+        "timestamp_usec": "1471935337782478"
+      }, {
+        "timestamp_usec": "1471935377133575"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471926879731559"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471926856176138"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471926831950253"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471926599800844"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471926587608605"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471926565825284"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471926532458281"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471886607106067"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471880716835420"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471880655874877"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471880650385169"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471861089200004"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471849790313745"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471797326161276"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471796329348960"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471780694398394"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471780687858080"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471780528912685"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471780495171476"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471780492151663"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471780077559654"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776310202814"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776302084986"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776256308598"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776248866379"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776199006731"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776147930378"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776118150863"
+      }, {
+        "timestamp_usec": "1471776124989407"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471776099747288"
+      }, {
+        "timestamp_usec": "1471776102379227"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471772558965436"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471772497980147"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471772493360823"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471708932279490"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471685054371169"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471684373287846"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471684361404594"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471681416685026"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471631414910307"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471631409582228"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471626652593636"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471626650035245"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471626645168714"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471549562430880"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471549497300169"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471549474029429"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471538611485844"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471538456851092"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471530403286237"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471530077324998"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471529756749088"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471528683484614"
+      }, {
+        "timestamp_usec": "1471529743859125"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471528110937892"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471527601970007"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471527597871740"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471520887889102"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471518748363797"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471518745508917"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471518395512879"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471510149595201"
+      }, {
+        "timestamp_usec": "1471510160866259"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471510030295226"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471510019756159"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471509998262672"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471509892197659"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471509732797727"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471449498122287"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471449493331452"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471443282543149"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471437696021093"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471437691702722"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471435512960916"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471435510702851"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471423967982533"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471422677378786"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471422553578063"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471419922650435"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471418626889051"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471418616309494"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471418613782058"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471418579698263"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471418576931374"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471418573215602"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471371283488990"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471362786305832"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471358376552246"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471358307190259"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471358265235445"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471357319546782"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471348344521063"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471343426586452"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471335033710321"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471335021312896"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471335014150582"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471331580085376"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471331545684418"
+      }, {
+        "timestamp_usec": "1471331549631404"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471331542591321"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471328935576846"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471328932076559"
+      }, {
+        "timestamp_usec": "1471328932598059"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471326809860655"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471326599455321"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471326597755251"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471274214005683"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471274168113202"
+      }, {
+        "timestamp_usec": "1471274190694542"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471273806978807"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471273793099006"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471261843015315"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471167424278319"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471077619259919"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471065757325526"
+      }, {
+        "timestamp_usec": "1471065777524866"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471027781182000"
+      }, {
+        "timestamp_usec": "1471027803343232"
+      }, {
+        "timestamp_usec": "1471027812010623"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471026501122233"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471017345497617"
+      }, {
+        "timestamp_usec": "1471017351167346"
+      }, {
+        "timestamp_usec": "1471017352581087"
+      }, {
+        "timestamp_usec": "1471017480340701"
+      }, {
+        "timestamp_usec": "1471017480420737"
+      }, {
+        "timestamp_usec": "1471017517932096"
+      }, {
+        "timestamp_usec": "1471017522090897"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471017339736813"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471017295969074"
+      }, {
+        "timestamp_usec": "1471017299659832"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471010217175414"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471010143794953"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471010135872600"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471010126799733"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471009962966004"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471007435567278"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471007422663853"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1471007035314123"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470979778164786"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470891751489153"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470888493779910"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470887541316120"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470887110432899"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470886941884208"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470886675766396"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470828076313771"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470822792596776"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470820998023712"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470816100880606"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470815996609828"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470815799690747"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470815714914311"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470815441042898"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470815223229947"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470814861935854"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470814849958524"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470814822058555"
+      }, {
+        "timestamp_usec": "1470814826176835"
+      }, {
+        "timestamp_usec": "1470814841576902"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470774918719480"
+      }, {
+        "timestamp_usec": "1470775066625916"
+      }, {
+        "timestamp_usec": "1470775070295759"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470774917471361"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470770372849477"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470680803043201"
+      }, {
+        "timestamp_usec": "1470680854464318"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470678040940323"
+      }, {
+        "timestamp_usec": "1470678574619002"
+      }, {
+        "timestamp_usec": "1470678574862348"
+      }, {
+        "timestamp_usec": "1470678577753288"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470677395447561"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470677389425846"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470677369811066"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470677360671838"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470677341400669"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470676401330662"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470676399342255"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470665486127434"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470665303845255"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470664993378773"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470664973152805"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470664093369911"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470664082146827"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470663943578351"
+      }, {
+        "timestamp_usec": "1470663947064412"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470663778715008"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470663536140873"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470646411894314"
+      }, {
+        "timestamp_usec": "1470646481581890"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470646381185522"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470643868009569"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470592296165395"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470566590999964"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470508857938992"
+      }, {
+        "timestamp_usec": "1470508861203598"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470508760193886"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470508712960000"
+      }, {
+        "timestamp_usec": "1470508734001704"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470507588752360"
+      }, {
+        "timestamp_usec": "1470507596795322"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470498720260277"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470481624661152"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470481603457598"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470481572458324"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470463740072600"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470460438119325"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470460349749134"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470459669539002"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470426809273655"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470425536927815"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470411625393190"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470407569347615"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470407531281232"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470407308201118"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470405953733388"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470405386568880"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470405330846844"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470388278649506"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470327877187140"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470326510498891"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470326439259913"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470326420552100"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470326407301232"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470326393050396"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470326376312213"
+      }, {
+        "timestamp_usec": "1470326382564543"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470315510698202"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470312726513912"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470312716301177"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470312711831216"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470312701111123"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470303456417784"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470299019280141"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470298559788334"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470292895620844"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470292447865893"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470291735281461"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470291671478141"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470291426484670"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470291396940066"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470290769801731"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470238968911771"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470238962647054"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470238951876567"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470238552979848"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470238531476152"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470222153814280"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470217593335303"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470217414133426"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470217406864701"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470215503594394"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470211173903365"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470207837651745"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470207408470307"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470206901467890"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470162613044773"
+      }, {
+        "timestamp_usec": "1470162616593485"
+      }, {
+        "timestamp_usec": "1470162616739635"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470141553877166"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470140875546529"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470140416630336"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470140137916870"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470138261299384"
+      }, {
+        "timestamp_usec": "1470138270345961"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470137962681391"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470135158286160"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470134204689982"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470133681013766"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470133677505589"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470132232533767"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470132227514780"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470130803349557"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470130780373929"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470130220409722"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470130186102578"
+      }, {
+        "timestamp_usec": "1470130199887616"
+      }, {
+        "timestamp_usec": "1470130202091832"
+      }, {
+        "timestamp_usec": "1470130204781480"
+      }, {
+        "timestamp_usec": "1470130206224190"
+      }, {
+        "timestamp_usec": "1470130208820362"
+      }, {
+        "timestamp_usec": "1470130212083857"
+      }, {
+        "timestamp_usec": "1470130214456797"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470130013031137"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470128472641772"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470128440060377"
+      }, {
+        "timestamp_usec": "1470128445261728"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470128433368670"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470128294800326"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470128283211593"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127825073790"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127821528734"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127548379288"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127334936178"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127287902410"
+      }, {
+        "timestamp_usec": "1470127330338581"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127206662801"
+      }, {
+        "timestamp_usec": "1470127212088983"
+      }, {
+        "timestamp_usec": "1470127216075720"
+      }, {
+        "timestamp_usec": "1470127217283527"
+      }, {
+        "timestamp_usec": "1470127221745778"
+      }, {
+        "timestamp_usec": "1470127224615286"
+      }, {
+        "timestamp_usec": "1470127231729418"
+      }, {
+        "timestamp_usec": "1470127233228401"
+      }, {
+        "timestamp_usec": "1470127234374718"
+      }, {
+        "timestamp_usec": "1470127238039404"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127081705609"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127043064467"
+      }, {
+        "timestamp_usec": "1470127062811863"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470127009406363"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470126790031455"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470126502396166"
+      }, {
+        "timestamp_usec": "1470126506470141"
+      }, {
+        "timestamp_usec": "1470126508362143"
+      }, {
+        "timestamp_usec": "1470126514260506"
+      }, {
+        "timestamp_usec": "1470126515700296"
+      }, {
+        "timestamp_usec": "1470126516736147"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470126050703124"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470124971281382"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470123341764824"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470123325712762"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470123282112574"
+      }, {
+        "timestamp_usec": "1470123293360626"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470119882144590"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470119827576923"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470049437288277"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470049166872742"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470046518147034"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470046418958496"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470046413091242"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470046137092235"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470046134675117"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470045627132513"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470045580062171"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470042451578840"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470042413402092"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470042199263119"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470041472202615"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470038190711431"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470037636244364"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470037085630264"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470036986959406"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470036919354425"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1470036735656971"
+      }, {
+        "timestamp_usec": "1470036747119590"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469997914654517"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469997894184226"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469997856751411"
+      }, {
+        "timestamp_usec": "1469997876926746"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469997838488852"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469990335042062"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469990326976927"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469990319169172"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469990314242256"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469990163083987"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469990001421855"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469988143576254"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469987935685472"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469986892137196"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469970845768560"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469885860043198"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469885779299076"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469697235621510"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469605031542355"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469558869345000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469558860125000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469558853060000"
+      }, {
+        "timestamp_usec": "1469558853541000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469557178745122"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469534690669810"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469533617522000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469533601443000"
+      }, {
+        "timestamp_usec": "1469533604193000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469531046105765"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469530670902190"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469530009372140"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469528389667718"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469528125573222"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469521315563278"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469520771396835"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469473349443639"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469473307419147"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469468900581467"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469467436084485"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469465800666564"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469464395787543"
+      }, {
+        "timestamp_usec": "1469464665921511"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469447181027237"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469446358283435"
+      }, {
+        "timestamp_usec": "1469446582697287"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469445781404150"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469445562722282"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469445558070357"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469445455120385"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469445450577036"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469441339459018"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469441331339869"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469441324651887"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469440604139460"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469438265852674"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469437358888076"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469437296063772"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469437019953082"
+      }, {
+        "timestamp_usec": "1469437039891929"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469436930145489"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469436887937672"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469436869350073"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469436682449138"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469436291919017"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469434762003575"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469364546396778"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469363373032731"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301502680362"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301268396311"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301264970981"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301198586473"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301171445812"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301154418072"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301150549454"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301142538872"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469301042428773"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469300947100182"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469300944752296"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469300679248295"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469300612234889"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469296941893645"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469290953181782"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469290761237513"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469194407208629"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469191330120699"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469189877617116"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469188985778229"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469188977526873"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469186784277391"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469186707294488"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469186698192280"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469185782642164"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469185774355318"
+      }, {
+        "timestamp_usec": "1469185774992242"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469140781520746"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469108007498631"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469107999512247"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469106427390593"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469093072218254"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469089784639282"
+      }, {
+        "timestamp_usec": "1469089809445310"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469088261846832"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469088252880925"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469088068631413"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469088047650951"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469087847600056"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469048997545686"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469047828909880"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469047480151823"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469040731716849"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469034460748832"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469034311114190"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469027124141333"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469025159479957"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469020577676632"
+      }, {
+        "timestamp_usec": "1469020602808281"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469020331915511"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469000415302715"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1469000402825758"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468954882228850"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468954460506074"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468934485834810"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468934209346356"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468843298836098"
+      }, {
+        "timestamp_usec": "1468843372033839"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468664471898412"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468664460716333"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468566009393185"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468564874057868"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468563970243468"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468563871718657"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468555740385179"
+      }, {
+        "timestamp_usec": "1468556173808252"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468507092325127"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468503927291000"
+      }, {
+        "timestamp_usec": "1468503999897831"
+      }, {
+        "timestamp_usec": "1468504290357002"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468495160369665"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468488360548625"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468488346971347"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468435417314721"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468407703673211"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468407699952951"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468407687817555"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468404495544000"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468403903624498"
+      }, {
+        "timestamp_usec": "1468403903626522"
+      }, {
+        "timestamp_usec": "1468403903704595"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468398515769142"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468398492523041"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468397237405331"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468384651637442"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468356997299557"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468356766464620"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468356361364678"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468353424825390"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468350321682274"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468349958165365"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468349672782962"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468349598796008"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468348563810694"
+      }, {
+        "timestamp_usec": "1468348565895390"
+      }, {
+        "timestamp_usec": "1468348568717138"
+      }, {
+        "timestamp_usec": "1468348571589191"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468346775050710"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468346755722245"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468312409788775"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468259359088632"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468252003309645"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468251985977255"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468251826361892"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468246923185152"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468240107191654"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468239063548700"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468233020400629"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468233004430337"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468232990060391"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468184275885125"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468181693512798"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468181689198900"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468180783077209"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468172536567851"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468172523322084"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468172480927965"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468167857185651"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468165372860821"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468160284953998"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468159888616457"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468159696284687"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468157583313004"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468156848353430"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468156644794790"
+      }, {
+        "timestamp_usec": "1468156725550885"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468151117862351"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468149568401872"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468148225404324"
+      }, {
+        "timestamp_usec": "1468148229299745"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468143709130859"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468136450113452"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468136432564602"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468106802631684"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468106618305941"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468106341743390"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468101178778000"
+      }, {
+        "timestamp_usec": "1468102870292864"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468099570686331"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468099530428102"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468099515660521"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468093863345336"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468089125361779"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468078760403962"
+      }, {
+        "timestamp_usec": "1468078771632505"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468078254063762"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468066235670268"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468066220837112"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468066214027022"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1468065693177685"
+      }, {
+        "timestamp_usec": "1468065697595514"
+      }, {
+        "timestamp_usec": "1468065705708698"
+      }, {
+        "timestamp_usec": "1468065707420773"
+      }, {
+        "timestamp_usec": "1468065709977941"
+      }, {
+        "timestamp_usec": "1468065710933645"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467999374660897"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467999363379574"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467997181977718"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467996980873291"
+      }, {
+        "timestamp_usec": "1467996989100523"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467996808454046"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467996595099044"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467996511401574"
+      }, {
+        "timestamp_usec": "1467996513650522"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467994661475325"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467991876427554"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467991352748780"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467991212835407"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467990641543958"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467990152039556"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467990147819851"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467990087156263"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467990015913868"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467989700048521"
+      }, {
+        "timestamp_usec": "1467989702670844"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467989658888216"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467989647830264"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467989641628586"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467983356984024"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467983346135365"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467958607070545"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467958549948099"
+      }, {
+        "timestamp_usec": "1467958554038640"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467950387601666"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467927471957862"
+      }, {
+        "timestamp_usec": "1467927508309717"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467927459484156"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467927420969273"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467927410001983"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467927399605375"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467927373241966"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467922917248935"
+      }, {
+        "timestamp_usec": "1467922920852781"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467922912134598"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467922904072088"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467842144115640"
+      }, {
+        "timestamp_usec": "1467842298388733"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467842138407023"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467835534288702"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467831507365104"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467831467781144"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467831366691908"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467828188260288"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467825930940096"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467822295905237"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467822034077663"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467821994707637"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467821992247547"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467816960063232"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467805306985670"
+      }, {
+        "timestamp_usec": "1467805318340510"
+      }, {
+        "timestamp_usec": "1467805558302230"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467796687852754"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467792819725568"
+      }, {
+        "timestamp_usec": "1467793162959239"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467744312723628"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467743008724069"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467742952742289"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467737323897137"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467737308120327"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467736538133521"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467736490904282"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467729469578082"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467725950012827"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467725917860503"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467725644681857"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467723275374456"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467723116250821"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467723106179617"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467723027847575"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467722584978966"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467717419794455"
+      }, {
+        "timestamp_usec": "1467717429220697"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467716897585897"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467716886114168"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467716872545052"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467716867783713"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467716434390982"
+      }, {
+        "timestamp_usec": "1467716495309517"
+      }, {
+        "timestamp_usec": "1467716502341779"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467713778695658"
+      }, {
+        "timestamp_usec": "1467713781038988"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467711562399951"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467711548911824"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467703259164281"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467703252045250"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467703117247238"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467673505867336"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467673493352421"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467672457033943"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467671900053220"
+      }, {
+        "timestamp_usec": "1467671900794563"
+      }, {
+        "timestamp_usec": "1467671907133730"
+      }, {
+        "timestamp_usec": "1467671919047533"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467671877854120"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467551599532886"
+      }, {
+        "timestamp_usec": "1467551712638502"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467551596320677"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467551573198964"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467548481352848"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467546966173004"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467546767963807"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467544260207409"
+      }, {
+        "timestamp_usec": "1467544262990371"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467543880895915"
+      }, {
+        "timestamp_usec": "1467543886682723"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467540691831798"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467539959000181"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467537664763761"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467535891137103"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467534852251379"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467534844457852"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467533870544403"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467531345945636"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467530868015430"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467496247579056"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467494874740565"
+      }, {
+        "timestamp_usec": "1467494879210350"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467488791976932"
+      }, {
+        "timestamp_usec": "1467488795124190"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467488785829860"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467488658123964"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467488651490093"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467488635240013"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467488631481027"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467476759685117"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467475380865846"
+      }, {
+        "timestamp_usec": "1467475423449530"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467471419638773"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467471412551320"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467471406273751"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467471398631658"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467471389328522"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467470993198930"
+      }, {
+        "timestamp_usec": "1467470996490714"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467470904199925"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467470861142516"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467470858019306"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467470852494136"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467469162609702"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467469160012230"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467469018926806"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467468983494053"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467468979454114"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467468942538241"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467468939625840"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467466813979429"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467466787102461"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467465831304945"
+      }, {
+        "timestamp_usec": "1467465835566917"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467464855005918"
+      }, {
+        "timestamp_usec": "1467464857706548"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467461092841841"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467460823702268"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467460410928709"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467458690868562"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467457956829936"
+      }, {
+        "timestamp_usec": "1467457957472091"
+      }, {
+        "timestamp_usec": "1467457971761326"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467457954259743"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467457937804715"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467457395571316"
+      }, {
+        "timestamp_usec": "1467457400890820"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467415554702441"
+      }, {
+        "timestamp_usec": "1467415583597977"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467401815532658"
+      }, {
+        "timestamp_usec": "1467401817153579"
+      }, {
+        "timestamp_usec": "1467401921635067"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467398699692371"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467398658855189"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467395762153125"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467395723047707"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467393583467731"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467393491210330"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467386850557371"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467386720864730"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467386543845265"
+      }, {
+        "timestamp_usec": "1467386551959527"
+      }, {
+        "timestamp_usec": "1467386582887204"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467385538742682"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467381013307654"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467379364529265"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467379073580684"
+      }, {
+        "timestamp_usec": "1467379076554745"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467378881790093"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467372467169055"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467372268701157"
+      }, {
+        "timestamp_usec": "1467372398025194"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467371512659833"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467371194740178"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467371179110276"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467368669744616"
+      }, {
+        "timestamp_usec": "1467368675122336"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467367868104417"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467367603026453"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467364608944358"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467363878432911"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467363147112799"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467362819168947"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467362801875726"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467360869999836"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467360565959057"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467359856501936"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467358574541421"
+      }],
+      "query_text": "**"
+    }
+  }, {
+    "query": {
+      "id": [{
+        "timestamp_usec": "1467357827310621"
+      }],
+      "query_text": "**"
+    }
+  }]
+}

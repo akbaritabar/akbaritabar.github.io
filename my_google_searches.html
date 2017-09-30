@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Ali" />
+
+<meta name="date" content="2017-09-30" />
+
+<title>A look at my Google searches in last 5 years</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">About Me</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="3AT_cv.html">CV</a>
+</li>
+<li>
+  <a href="R_Projects.html">R Projects</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">A look at my Google searches in last 5 years</h1>
+<h4 class="author"><em>Ali</em></h4>
+<h4 class="date"><em>September 30, 2017</em></h4>
+
+</div>
+
+
+<p>How and when I have been searching in Google for last five years?!</p>
+<p>I wanted to have a look at my Google searches trends in past few years. Google provides this data through <a href="https://myaccount.google.com/dashboard?pli=1">Google Dashboard</a> and <a href="https://takeout.google.com/settings/takeout">Google Takeout</a>. If you have a Gmail account and you have been searching in Google while you were logged in, you can take out data on your search history up until 5 years ago. (No wonder Google knows us better than ourselves!).</p>
+<p>Are you interested to know how <strong>You</strong> have been searching on google? Go to the links above and download your own data, then follow steps I have described in detail below to have a report exactly like this but based on <strong>your</strong> data.</p>
+<p>Bellow I am first reading the <code>json</code> files Google has given me. But before putting them here in public, I have removed all of my search keywords, since I wanted to show only the time trends of “<strong>when</strong>” I have been searching on google.</p>
+<p>For my own analysis I had a look at the search keywords too, which gave me a good insight to know what I have been doing. (In order to remove all the search keywords from the json files you exported, you can use this <strong>regex</strong> inside a decent text editor with regex support in search (like Atom, Sublime text, notepad++) and search for <code>&quot;query_text&quot;: ([&quot;'])(?:(?=(\\?))\2.)*?\1</code> then you can replace that easily with <code>&quot;query_text&quot;: &quot;**&quot;</code> to anonymize your search keywords.</p>
+<div id="code-to-read-google-data-and-have-a-look" class="section level2">
+<h2>Code to read Google data and have a look</h2>
+<p>You can use the following code (applying necessary modifications that I am suggesting in comments) to have a look at your own Google search history. Ping me about the results if you did!</p>
+<pre class="r"><code># clean the R workspace
+rm(list = ls())
+# Load libraries
+# if you don&#39;t have them installed, write &quot;install.packages(&quot;tidyverse&quot;)&quot;
+# tidyverse to allow us to manipulate data, clean it, plot it
+require(tidyverse)
+# jsonlite to allow us to work with json files which google exports
+require(jsonlite)
+# Here there is going to be a for loop to read all the json files you have downloaded from Google takeout
+# Before, we need to build an R list to store the data so:
+# an empty list to store all the time data we take out of each file
+time_data_list &lt;- list()
+# We need to list all the files in the directory which have &quot;.json&quot; extension; to use this script on your own data, you will need to modify the directory url
+json_file_urls &lt;- list.files(&quot;./advanced/google_searches/&quot;, pattern = &quot;.\\json&quot;, full.names = T)
+# after listing the json files,  we are going to read them one by one and make a data frame of the search time stamps in each of them
+for (j in seq_along(json_file_urls)) {
+  # fromJSON is a function in Jsonlite package to read json files
+  tmp_json_txt &lt;- fromJSON(txt = json_file_urls[j])
+  # call to bind_rows to make a dataframe of all the timestamps and store it as j element of our list
+  time_data_list[[j]] &lt;- bind_rows(tmp_json_txt[[&quot;event&quot;]][[&quot;query&quot;]][[&quot;id&quot;]])
+}
+# call bind_rows once more on all the elements of list we built above, which are the timestamps in each file, to be integrated in one complete dataframe
+time_data &lt;- bind_rows(time_data_list)</code></pre>
+<div id="how-close-are-we-me-and-google" class="section level3">
+<h3>How close are we? Me and Google !</h3>
+<p>Let’s say I want to know how many times I have searched in Google in last 5 years ?</p>
+<pre class="r"><code># I call sapply to make simple vector of the &quot;lengths&quot; of each of the dataframes I took out in previous step, summing all of them will be the total number of searches
+sum(sapply(time_data_list, lengths))</code></pre>
+<pre><code>## [1] 34630</code></pre>
+<p>Wow that seems a lot ! it means <strong>6926</strong> searches in a year so how many searches in a day? the answer is <strong>18.98</strong>; hmmm! so many! We will see more later when we divide searches based on actual dates to find most active day.</p>
+</div>
+<div id="converting-time-stamps-to-human-readable-date" class="section level3">
+<h3>Converting time stamps to human readable date</h3>
+<p>We see that the <code>time stamps</code> Google have put inside the <code>json</code> files are not <em>human readable</em> and they are in so called <em>unix</em> or <em>epoch time</em> for example this is the time of first search I have done five years ago (which is the initial point of this dataset) 1346830330912343.</p>
+<p>So what can we do to convert them to the date and time that we know? Below I am using <code>as.POSIXct</code> function in <code>R</code>. You can read more about how this function works and why we give <code>1970-01-01</code> as origin date and <code>GMT</code> as time zone by putting <code>?as.POSIXct</code> in your R console.</p>
+<pre class="r"><code># increasing number of digits R is going to show us not to see time stamps in scientific form
+options(scipen = 25)
+# converting time stamps from character to double to be able to convert them to date later
+time_data$timestamp_usec &lt;- as.double(time_data$timestamp_usec)
+# an example of how to convert dates in the json files to human readable based on GMT
+as.POSIXct(sort(time_data$timestamp_usec)[[1]]/1000000, origin = &quot;1970-01-01&quot;, tz = &quot;GMT&quot;)</code></pre>
+<pre><code>## [1] &quot;2012-09-05 07:32:10 GMT&quot;</code></pre>
+<p>One last step before heading to more interesting questions is to use above function on all the time stamps we have to get a data frame of clearer date and times.</p>
+<pre class="r"><code># from now I will use &quot;dplyr&quot; data frame format which gives more possibilities to work with dataframe
+time_data &lt;- tbl_df(time_data)
+# adding a column which will include clear (human readable time and date)
+time_data &lt;- time_data %&gt;% 
+  mutate(new_date = as.POSIXct(timestamp_usec/1000000, origin = &quot;1970-01-01&quot;, tz = &quot;GMT&quot;))
+# also adding two other columns to separate day from hours to use in visualizations
+time_data &lt;- time_data %&gt;% 
+  separate(col = new_date, into = c(&quot;day&quot;, &quot;hour&quot;), sep = &quot; &quot;, remove = F)
+
+# convert day to &quot;date&quot; format R will understand
+time_data$day &lt;- as.Date(time_data$day)
+
+# adding a column which assigns months of activity (to use later for monthly reports)
+require(lubridate)
+time_data$month &lt;- floor_date(time_data$day, &quot;month&quot;)
+# also let&#39;s add month names &quot;as words&quot; to another column, it will come handy
+time_data$month_name &lt;- months(time_data$day)
+# beside that, let&#39;s take &quot;years&quot; out as well and save them as another column which will be useful to draw meaningfull plots
+time_data$year &lt;- format.Date(time_data$day, &quot;%Y&quot;)
+
+# Now how does our main search in time data frame look like?!
+glimpse(time_data)</code></pre>
+<pre><code>## Observations: 34,630
+## Variables: 7
+## $ timestamp_usec &lt;dbl&gt; 1349016915768563, 1349016882077715, 13487455161...
+## $ new_date       &lt;dttm&gt; 2012-09-30 14:55:15, 2012-09-30 14:54:42, 2012...
+## $ day            &lt;date&gt; 2012-09-30, 2012-09-30, 2012-09-27, 2012-09-26...
+## $ hour           &lt;chr&gt; &quot;14:55:15&quot;, &quot;14:54:42&quot;, &quot;11:31:56&quot;, &quot;18:47:22&quot;,...
+## $ month          &lt;date&gt; 2012-09-01, 2012-09-01, 2012-09-01, 2012-09-01...
+## $ month_name     &lt;chr&gt; &quot;September&quot;, &quot;September&quot;, &quot;September&quot;, &quot;Septemb...
+## $ year           &lt;chr&gt; &quot;2012&quot;, &quot;2012&quot;, &quot;2012&quot;, &quot;2012&quot;, &quot;2012&quot;, &quot;2012&quot;,...</code></pre>
+</div>
+</div>
+<div id="any-trends-exist-in-my-goole-searches" class="section level2">
+<h2>Any trends exist in my Goole searches?</h2>
+<p>First thing I would like to check is the <strong>most active day</strong> which I have done maximum number of searches.</p>
+<pre class="r"><code># I need to first group all the searches based on day then count the number of searches in each day and sort it in descending order to find the most active day, with dplyr verbs it is easy!
+active_days &lt;- time_data %&gt;% 
+  group_by(day) %&gt;% 
+  summarise(searches_in_day = n()) %&gt;% 
+  arrange(desc(searches_in_day)) %&gt;% 
+  print()</code></pre>
+<pre><code>## # A tibble: 1,666 x 2
+##           day searches_in_day
+##        &lt;date&gt;           &lt;int&gt;
+##  1 2017-07-31             277
+##  2 2015-04-18             184
+##  3 2017-08-21             142
+##  4 2017-08-10             132
+##  5 2015-11-27             112
+##  6 2015-11-29              95
+##  7 2017-01-31              88
+##  8 2015-12-19              87
+##  9 2015-12-11              85
+## 10 2017-08-17              84
+## # ... with 1,656 more rows</code></pre>
+<p>OK, that means I have been actively searching for 1666 days in last five years. Also we see that my most active day has been <strong>2017-07-31</strong> with <strong>277</strong> searches! That means <strong>23.08</strong> searches in an hour! WoW ! Google has been teaching me a lot!</p>
+<p>Although, I should mention there has been 82 days with only <code>1</code> search! And in this plot we see that the most active days are only exceptions, not the rule!</p>
+<pre class="r"><code>plot(table(active_days$searches_in_day, exclude = NULL), xlab = &quot;# of searches in a day&quot;, ylab = &quot;Frequency of days with that many searches&quot;)</code></pre>
+<p><img src="my_google_searches_files/figure-html/plot%20of%20search%20activity%20on%20days-1.png" width="672" /></p>
+<p>What about my most active year and month? Is there a year and a month which I have been searching more? Let’s see!</p>
+<pre class="r"><code># Same as what we did for days, I need to first group all the searches based on month then count the number of searches in each month and sort it in descending order to find the most active month, with dplyr verbs it is easy!
+active_months &lt;- time_data %&gt;% 
+  group_by(month_name) %&gt;% 
+  summarise(searches_in_month = n()) %&gt;% 
+  arrange(desc(searches_in_month)) %&gt;% 
+  print()</code></pre>
+<pre><code>## # A tibble: 12 x 2
+##    month_name searches_in_month
+##         &lt;chr&gt;             &lt;int&gt;
+##  1      April              3586
+##  2   December              3492
+##  3     August              3342
+##  4    January              3171
+##  5      March              2972
+##  6        May              2845
+##  7   November              2844
+##  8       July              2840
+##  9  September              2835
+## 10   February              2547
+## 11    October              2290
+## 12       June              1866</code></pre>
+<p>My most active months has been “<strong>April</strong>”. And apparently the order of my active months doesn’t follow the order of a normal year, what about a closer look at each year? If we look at these five years, is there a year with more searches than others? Am I searching more recently or less?</p>
+<pre class="r"><code># Same as what we did for days and months, I need to first group all the searches based on year then months then count the number of searches in each month and sort it in descending order to find the most active month, with dplyr verbs it is easy!
+active_months_in_years &lt;- time_data %&gt;% 
+  group_by(year, month_name) %&gt;% 
+  summarise(searches_in_month = n()) %&gt;% 
+  arrange(searches_in_month)
+
+# first a simple plot of how I have been searching in these years
+plot(table(time_data$year, exclude = NULL), xlab = &quot;Years&quot;, ylab = &quot;# of Searches done&quot;)</code></pre>
+<p><img src="my_google_searches_files/figure-html/reports%20on%20search%20month%20and%20year-1.png" width="672" /></p>
+<p>Oops ! It seems my most active year has been <strong>2015</strong> and in last two years I am searching less. Does this mean me and Google are not as close as before? Or am I learning to search more wisely?!</p>
+<p>Let’s have one last look at the months in each of these years! Does my search follow similar trends in each month in different years? In other words, can I find a month in all these years that is the peak of my searches?</p>
+<pre class="r"><code>ggplot(active_months_in_years, aes(x = month_name, y = searches_in_month, label = year)) +
+  geom_point() + 
+  geom_text(aes(label = year), hjust = 0, vjust = 0) +
+  labs(x = &quot;Months&quot;, y = &quot;# Searches done&quot;) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))</code></pre>
+<p><img src="my_google_searches_files/figure-html/reports%20on%20search%20month%20and%20year%202-1.png" width="100%" /></p>
+<p>It seems not! Apparently in each of these years I have been searching in differnt quantities in different months.</p>
+</div>
+<div id="closing-words" class="section level2">
+<h2>Closing words</h2>
+<p>This was a simple practice firstly for myself to remember to “<strong>learn R by doing R</strong>” and beside that to show how amazingly helpful it can be in getting to know myself and my research behavior through the time.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

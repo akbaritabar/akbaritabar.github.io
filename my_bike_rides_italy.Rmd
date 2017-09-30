@@ -1,0 +1,13 @@
+---
+title: "My bike rides in Italy"
+author: "Ali"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+header-includes:
+    - \usepackage{setspace}\setstretch{1.25}
+csl: apa.csl
+output:
+  html_document:
+bibliography: ref.bibtex
+---
+
+Here I will have a look at how I have been riding bike in Italy!

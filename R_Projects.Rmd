@@ -1,0 +1,29 @@
+---
+title: "R Projects"
+author: "Ali"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+header-includes:
+    - \usepackage{setspace}\setstretch{1.25}
+csl: apa.csl
+output:
+  html_document:
+bibliography: ref.bibtex
+---
+
+## What do I do with R?
+In this page I am going to post links to some R projects I have done in order to "__learn R by doing R__"! 
+
+These include __hobby projects__ which I have done ["_just for fun_"](https://books.google.it/books/about/Just_for_Fun.html?id=DcipQgAACAAJ&source=kp_cover&redir_esc=y) (inspired by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) (creator of Linux)) and __serious projects__ to be used as part of a bigger puzzle I have been trying to solve in my work projects. Examples are bellow!
+
+As always, I owe most parts of what I wrote to [__stackoverflow__](https://stackoverflow.com/questions/tagged/r) and __Google searches__
+
+
+### Hobby R Projects
+
+- [My CV hosted on Github pages](./3AT_cv.html)
+- [How I have Searched on Google in last 5 years!](./my_google_searches.html)
+- [My bike rides in Italy](./my_bike_rides_italy.html)
+
+### Serious R Projects
+
+- [Google Scholar Shiny App](./gScholarShinyApp.html): A brief application to work with google scholar and build and show coauthorship networks

@@ -28,6 +28,7 @@ bibliography: ref.bibtex
     + University of Milan and University of Brescia, Italy
     + __Thesis Title__: Explaining scientific collaborations and research productivity of sociologists
     + __Supervised by__: Prof. Flaminio Squazzoni
+    + Member of __GECS__: Research Group on Experimental and Computational Sociology (see more [here](http://gecs.unibs.it/) & [here](https://www.facebook.com/gecsbrescia))
 - __PhD. of Sociology__ (Social Welfare) (2011-2015)
     + Allameh Tabatabaei University, Tehran, Iran
     + __Thesis Title__: Iranian’s Cyber Social Capital
