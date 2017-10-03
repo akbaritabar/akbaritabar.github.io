@@ -2,8 +2,6 @@
 title: "A look at my Google searches in last 5 years"
 author: "Ali"
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
-header-includes:
-    - \usepackage{setspace}\setstretch{1.25}
 csl: apa.csl
 output:
   html_document:
@@ -165,7 +163,19 @@ ggplot(active_months_in_years, aes(x = month_name, y = searches_in_month, label 
 
 ```
 
+
 It seems not! Apparently in each of these years I have been searching in differnt quantities in different months.
+
+## Time line of my activities
+Use mouse scroll to zoom in and out to explore more, drag to move on the timeline. I am going to use these activities as a baseline of comparison to see if trends of my google searches have been effected by the type of activity I have been doing in that time.
+
+```{r timeline of my activities with timevis, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+require(timevis)
+time_line_data <- read.csv("./advanced/time_line_data.csv")
+time_line_groups <- read.csv("./advanced/time_line_data_groups.csv")
+
+timevis(data = time_line_data, groups = time_line_groups, fit = T)
+```
 
 ## Closing words
 This was a simple practice firstly for myself to remember to "__learn R by doing R__" and beside that to show how amazingly helpful it can be in getting to know myself and my research behavior through the time.

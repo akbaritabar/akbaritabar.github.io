@@ -10,7 +10,7 @@ output:
 bibliography: ref.bibtex
 ---
 
-A brief application to work with google scholar and show coauthorship network
+A brief application to work with google scholar and show coauthorship network [(see video intro here)](https://www.youtube.com/watch?v=NZ5WdBnZ-CE)
 
 - In order to see coauthorship networks graph, copy link to google scholar profile of author __(example: "https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en")__ and put it in the text box provided in the application UI, you will see coauthorship network in seconds
 - This shiny application uses scholar package in R to exctract data from google scholar
