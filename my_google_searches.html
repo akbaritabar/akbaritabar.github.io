@@ -11,7 +11,6 @@
 
 <meta name="author" content="Ali" />
 
-<meta name="date" content="2017-10-03" />
 
 <title>A look at my Google searches in last 5 years</title>
 
@@ -25,6 +24,7 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
 <script src="site_libs/htmlwidgets-0.9/htmlwidgets.js"></script>
@@ -167,6 +167,14 @@ $(document).ready(function () {
 </script>
 
 <!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
 
 
 
@@ -284,7 +292,7 @@ div.tocify {
   <a href="3AT_cv.html">CV</a>
 </li>
 <li>
-  <a href="R_Projects.html">R Projects</a>
+  <a href="Research_projects_ideas.html">Research Projects &amp; Ideas</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -296,11 +304,19 @@ div.tocify {
 
 <div class="fluid-row" id="header">
 
+<div class="btn-group pull-right">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
 
 
 <h1 class="title toc-ignore">A look at my Google searches in last 5 years</h1>
 <h4 class="author"><em>Ali</em></h4>
-<h4 class="date"><em>October 03, 2017</em></h4>
+<h4 class="date"><em>21-09-2017</em></h4>
 
 </div>
 
@@ -326,7 +342,7 @@ require(jsonlite)
 # an empty list to store all the time data we take out of each file
 time_data_list &lt;- list()
 # We need to list all the files in the directory which have &quot;.json&quot; extension; to use this script on your own data, you will need to modify the directory url
-json_file_urls &lt;- list.files(&quot;./advanced/google_searches/&quot;, pattern = &quot;.\\json&quot;, full.names = T)
+json_file_urls &lt;- list.files(&quot;./data/google_searches/&quot;, pattern = &quot;.\\json&quot;, full.names = T)
 # after listing the json files,  we are going to read them one by one and make a data frame of the search time stamps in each of them
 for (j in seq_along(json_file_urls)) {
   # fromJSON is a function in Jsonlite package to read json files
@@ -438,7 +454,7 @@ active_months &lt;- time_data %&gt;%
 ## 10   February              2547
 ## 11    October              2290
 ## 12       June              1866</code></pre>
-<p>My most active months has been “<strong>April</strong>”. And apparently the order of my active months doesn’t follow the order of a normal year, what about a closer look at each year? If we look at these five years, is there a year with more searches than others? Am I searching more recently or less?</p>
+<p>My most active month has been “<strong>April</strong>”. And apparently the order of my active months doesn’t follow the order of a normal year, what about a closer look at each year? If we look at these five years, is there a year with more searches than others? Am I searching more recently or less?</p>
 <pre class="r"><code># Same as what we did for days and months, I need to first group all the searches based on year then months then count the number of searches in each month and sort it in descending order to find the most active month, with dplyr verbs it is easy!
 active_months_in_years &lt;- time_data %&gt;% 
   group_by(year, month_name) %&gt;% 
@@ -460,23 +476,23 @@ plot(table(time_data$year, exclude = NULL), xlab = &quot;Years&quot;, ylab = &qu
 </div>
 <div id="time-line-of-my-activities" class="section level2">
 <h2>Time line of my activities</h2>
-<p>Use mouse scroll to zoom in and out to explore more, drag to move on the timeline. I am going to use these activities as a baseline of comparison to see if trends of my google searches have been effected by the type of activity I have been doing in that time.</p>
+<p>Use mouse scroll to zoom in and out to explore more, drag to move on the timeline. I am going to use these activities as a baseline of comparison to see if trends of my google searches have been affected by the type of activity I have been doing in that time.</p>
 <pre class="r"><code>require(timevis)
-time_line_data &lt;- read.csv(&quot;./advanced/time_line_data.csv&quot;)
-time_line_groups &lt;- read.csv(&quot;./advanced/time_line_data_groups.csv&quot;)
+time_line_data &lt;- read.csv(&quot;./data/time_line_data.csv&quot;)
+time_line_groups &lt;- read.csv(&quot;./data/time_line_data_groups.csv&quot;)
 
 timevis(data = time_line_data, groups = time_line_groups, fit = T)</code></pre>
-<div id="htmlwidget-5094e5d9f06d73406e60" class="timevis html-widget" style="width:672px;height:480px;">
+<div id="htmlwidget-4b2ad6b3057ce2f00743" class="timevis html-widget" style="width:672px;height:480px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-5094e5d9f06d73406e60">{"x":{"items":[{"group":"1","content":"BA","start":"2004-09-21","end":"2008-07-21"},{"group":"1","content":"MA","start":"2008-09-21","end":"2011-07-21"},{"group":"1","content":"1st PhD","start":"2011-09-21","end":"2015-10-30"},{"group":"1","content":"2nd PhD","start":"2015-11-01","end":"2018-10-01"},{"group":"2","content":"1st PhD visit Brest France","start":"2015-02-24","end":"2015-07-30"},{"group":"2","content":"1st PhD visit Barcelona Spain","start":"2015-07-06","end":"2015-07-30"},{"group":"3","content":"ABM Unibs","start":"2017-09-04","end":"2017-09-08"},{"group":"3","content":"Python Trento uni","start":"2017-04-12","end":"2017-04-13"},{"group":"3","content":"ABM Unibs","start":"2016-06-20","end":"2016-06-24"},{"group":"3","content":"Rsiena 2nd EUSN","start":"2016-06-14 09:00","end":"2016-06-14 12:00"},{"group":"3","content":"TERGM 2nd EUSN","start":"2016-06-14 14:00","end":"2016-06-14 17:00"},{"group":"3","content":"SNA Lugano PhD Course","start":"2016-04-29","end":"2016-06-08"},{"group":"3","content":"ERGM Lugano USI","start":"2016-04-18","end":"2016-04-20"},{"group":"3","content":"PNA Barcelona Spain","start":"2015-07-06","end":"2015-07-10"},{"group":"4","content":"Sooremehr R&D","start":"2011-09-21","end":"2013-12-21"},{"group":"4","content":"MCI R&D","start":"2014-01-05","end":"2014-05-05"},{"group":"5","content":"Yazd uni","start":"2012-01-10","end":"2013-07-21"},{"group":"5","content":"AST uni","start":"2012-04-01","end":"2013-07-21"}],"groups":[{"id":"1","content":"Education"},{"id":"2","content":"Research visit"},{"id":"3","content":"Short courses"},{"id":"4","content":"Work"},{"id":"5","content":"Part-time Teaching"}],"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-4b2ad6b3057ce2f00743">{"x":{"items":[{"group":"1","content":"BA","start":"2004-09-21","end":"2008-07-21"},{"group":"1","content":"MA","start":"2008-09-21","end":"2011-07-21"},{"group":"1","content":"1st PhD","start":"2011-09-21","end":"2015-10-30"},{"group":"1","content":"2nd PhD","start":"2015-11-01","end":"2018-10-01"},{"group":"2","content":"1st PhD visit Brest France","start":"2015-02-24","end":"2015-07-30"},{"group":"2","content":"1st PhD visit Barcelona Spain","start":"2015-07-06","end":"2015-07-30"},{"group":"3","content":"ABM Unibs","start":"2017-09-04","end":"2017-09-08"},{"group":"3","content":"Python Trento uni","start":"2017-04-12","end":"2017-04-13"},{"group":"3","content":"ABM Unibs","start":"2016-06-20","end":"2016-06-24"},{"group":"3","content":"Rsiena 2nd EUSN","start":"2016-06-14 09:00","end":"2016-06-14 12:00"},{"group":"3","content":"TERGM 2nd EUSN","start":"2016-06-14 14:00","end":"2016-06-14 17:00"},{"group":"3","content":"SNA Lugano PhD Course","start":"2016-04-29","end":"2016-06-08"},{"group":"3","content":"ERGM Lugano USI","start":"2016-04-18","end":"2016-04-20"},{"group":"3","content":"PNA Barcelona Spain","start":"2015-07-06","end":"2015-07-10"},{"group":"4","content":"Sooremehr R&D","start":"2011-09-21","end":"2013-12-21"},{"group":"4","content":"MCI R&D","start":"2014-01-05","end":"2014-05-05"},{"group":"5","content":"Yazd uni","start":"2012-01-10","end":"2013-07-21"},{"group":"5","content":"AST uni","start":"2012-04-01","end":"2013-07-21"}],"groups":[{"id":"1","content":"Education"},{"id":"2","content":"Research visit"},{"id":"3","content":"Short courses"},{"id":"4","content":"Work"},{"id":"5","content":"Part-time Teaching"}],"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[]},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="closing-words" class="section level2">
 <h2>Closing words</h2>
-<p>This was a simple practice firstly for myself to remember to “<strong>learn R by doing R</strong>” and beside that to show how amazingly helpful it can be in getting to know myself and my research behavior through the time.</p>
+<p>This was a simple practice firstly for myself to remember to “<strong>learn R by doing R</strong>” and beside that to show how amazingly helpful it can be in getting to know myself and my search behavior through the time.</p>
 </div>
 
 

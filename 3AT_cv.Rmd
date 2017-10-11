@@ -1,7 +1,7 @@
 ---
 title: "Aliakbar Akbaritabar (Ali)"
 author: "Curriculum Vitae"
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
+date: '21-09-2017'
 csl: apa.csl
 output:
   html_document:
@@ -15,8 +15,8 @@ Use mouse scroll to zoom in and out to explore more, drag to move on the timelin
 
 ```{r timeline of my activities with timevis, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 require(timevis)
-time_line_data <- read.csv("./advanced/time_line_data.csv")
-time_line_groups <- read.csv("./advanced/time_line_data_groups.csv")
+time_line_data <- read.csv("./data/time_line_data.csv")
+time_line_groups <- read.csv("./data/time_line_data_groups.csv")
 
 timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%')
 ```
@@ -25,6 +25,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 - __Email__: [Akbaritabar@Gmail.com](mailto:Akbaritabar@Gmail.com)
 - __Phone__: [+39-327-6245450](+39-327-6245450)
 - [__Google Scholar Profile__ (https://goo.gl/NOmq0n)](https://goo.gl/NOmq0n)
+- [__CV & introduction to research projects__  (https://akbaritabar.github.io/)](https://akbaritabar.github.io/)
 - __Website__: [www.SocialVillage.me](www.SocialVillage.me)
 - __Website__: [www.OnlineSNA.wordpress.com](www.OnlineSNA.wordpress.com)
 - [__Linkedin Profile__ (http://ir.linkedin.com/in/akbaritabar/)](http://ir.linkedin.com/in/akbaritabar/)
@@ -176,7 +177,7 @@ speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Assoc
 ## Other
 - Founder & Editor In Chief of www.OnlineSNA.wordpress.com website for publishing scientific contents about Social Network Analysis. (In Persian)
 - __Work experience__ as R & D expert and social media strategist in Sooremehr publication company in Iran, September 2011 - December 2013
-- __Work experience__ as data analyst at MCI (Hamrah-e-Avval, first and largest mobile operator company in Iran), January 2013 - May 2013
+- __Work experience__ as data analyst at MCI (Hamrah-e-Avval, first and largest mobile operator company in Iran), January 2014 - May 2014
 - Manager of Persian website of www.Networkanalysis.ir publishing scientific contents about Organizational Network Analysis. (not accessible at the moment)
 - Member of International Network for Social Network Analysis (INSNA), 2015-6
 - Member of Iranian National Association of Social Welfare

@@ -1,0 +1,33 @@
+---
+title: "Research Projects & Ideas"
+author: "Ali"
+date: '21-09-2017'
+csl: apa.csl
+output:
+  html_document:
+bibliography: ref.bibtex
+---
+
+## What do I do?
+In this page I am going to post links to some of my research and work projects including R projects I have done in order to "__learn R by doing R__"! 
+
+These are __hobby projects__ which I have done ["_just for fun_"](https://books.google.it/books/about/Just_for_Fun.html?id=DcipQgAACAAJ&source=kp_cover&redir_esc=y) (inspired by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) (creator of Linux)) and __serious projects__ to be used as part of a bigger puzzle I have been trying to solve in my work projects. Examples are bellow!
+
+As always, I owe most parts of what I wrote to [__stackoverflow__](https://stackoverflow.com/questions/tagged/r) and [__Google searches__](./my_google_searches.html)
+
+
+### Hobby Projects
+
+- [__My CV hosted on Github pages__](./3AT_cv.html)
+- [__How I have Searched on Google in last 5 years!__](./my_google_searches.html)
+- [__Is my mind tricking me to work more?! A closer look at 365 days of an economic migrant’s life!__](./time_track_my_activities.html)
+- [__My bike rides in Italy__](./my_bike_rides_italy.html)
+- __Bicimia__: Brescia bike sharing usage trends
+
+### Serious Projects
+
+- [__Google Scholar Shiny App__](./gScholarShinyApp.html): A brief application to work with google scholar and build and show coauthorship networks [(see video intro here)](https://www.youtube.com/watch?v=NZ5WdBnZ-CE)
+- __CNBLR__: R package to do targeted and curated literature review on Scopus
+- __Facebook Influencers__: Dynamic reports of public Facebook pages and groups most important influencers (using SNA approach)
+- [__Mental & physical health and life satisfaction Shiny app__](./3AT_cv.html): A brief Shiny application to take your idea of how mentally and physically healthy you are and your level of satisfaction with life, and compare it with average of European countries extracted from ESS survey data
+<!-- remember to correct the link to above shiny app -->

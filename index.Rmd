@@ -13,7 +13,7 @@ I am Ali (the simplest version of Aliakbar Akbaritabar, believe me, I have tried
 
 I like to call myself a __Social Data Scientist__ (I don't know when it is going to officially become a thing, till then, it is mainly what data scientists are doing plus a sociological approach which is what I have been studying for most of my academic life).
 
-You can find a detailed __CV__ of me [__here__](./3AT_cv.html) and a list of R projects I have been working on [__here__](./R_Projects.html)
+You can find a detailed __CV__ of me [__here__](./3AT_cv.html) and a list of R projects I have been working on [__here__](./Research_projects_ideas.html)
 <br>
 <center><img src="images/bike_rides.png" width="500px"></center>
 

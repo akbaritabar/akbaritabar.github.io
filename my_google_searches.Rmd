@@ -1,10 +1,11 @@
 ---
 title: "A look at my Google searches in last 5 years"
 author: "Ali"
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
+date: '21-09-2017'
 csl: apa.csl
 output:
   html_document:
+    code_folding: hide
     toc: yes
     toc_float: yes
 bibliography: ref.bibtex
@@ -37,7 +38,7 @@ require(jsonlite)
 # an empty list to store all the time data we take out of each file
 time_data_list <- list()
 # We need to list all the files in the directory which have ".json" extension; to use this script on your own data, you will need to modify the directory url
-json_file_urls <- list.files("./advanced/google_searches/", pattern = ".\\json", full.names = T)
+json_file_urls <- list.files("./data/google_searches/", pattern = ".\\json", full.names = T)
 # after listing the json files,  we are going to read them one by one and make a data frame of the search time stamps in each of them
 for (j in seq_along(json_file_urls)) {
   # fromJSON is a function in Jsonlite package to read json files
@@ -136,7 +137,7 @@ active_months <- time_data %>%
 
 ```
 
-My most active months has been "__April__". And apparently the order of my active months doesn't follow the order of a normal year, what about a closer look at each year? If we look at these five years, is there a year with more searches than others? Am I searching more recently or less?
+My most active month has been "__April__". And apparently the order of my active months doesn't follow the order of a normal year, what about a closer look at each year? If we look at these five years, is there a year with more searches than others? Am I searching more recently or less?
 
 ```{r reports on search month and year, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
 # Same as what we did for days and months, I need to first group all the searches based on year then months then count the number of searches in each month and sort it in descending order to find the most active month, with dplyr verbs it is easy!
@@ -167,15 +168,15 @@ ggplot(active_months_in_years, aes(x = month_name, y = searches_in_month, label 
 It seems not! Apparently in each of these years I have been searching in differnt quantities in different months.
 
 ## Time line of my activities
-Use mouse scroll to zoom in and out to explore more, drag to move on the timeline. I am going to use these activities as a baseline of comparison to see if trends of my google searches have been effected by the type of activity I have been doing in that time.
+Use mouse scroll to zoom in and out to explore more, drag to move on the timeline. I am going to use these activities as a baseline of comparison to see if trends of my google searches have been affected by the type of activity I have been doing in that time.
 
 ```{r timeline of my activities with timevis, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
 require(timevis)
-time_line_data <- read.csv("./advanced/time_line_data.csv")
-time_line_groups <- read.csv("./advanced/time_line_data_groups.csv")
+time_line_data <- read.csv("./data/time_line_data.csv")
+time_line_groups <- read.csv("./data/time_line_data_groups.csv")
 
 timevis(data = time_line_data, groups = time_line_groups, fit = T)
 ```
 
 ## Closing words
-This was a simple practice firstly for myself to remember to "__learn R by doing R__" and beside that to show how amazingly helpful it can be in getting to know myself and my research behavior through the time.
+This was a simple practice firstly for myself to remember to "__learn R by doing R__" and beside that to show how amazingly helpful it can be in getting to know myself and my search behavior through the time.
