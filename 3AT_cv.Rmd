@@ -92,7 +92,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 
 ## Lectures & Workshops Instructed
 - __Workshop Instructor__ and Organizer in research methods and SNA (Social Network Analysis) 
-    + Teaching  more than __10 workshops__ about how to formulate research problems and do network analysis using Pajek and NodeXL
+    + Teaching  more than [__10 workshops__](http://goo.gl/3L6j2U) about how to formulate research problems and do network analysis using Pajek and NodeXL [__see visual history here__](http://goo.gl/3L6j2U)
 - __University lecturer__ in field of Sociology for more than two years;
     + Yazd University (12 credits: Basic Sociology at B.A level, 2 credits (twice); Sociology of Third world countries at B.A level, 2 credits; Sociology of Delinquent Behavior, B.A Level, 2 credits, Sociology of Social Stratifications and Inequalities, B.A Level, 2 credits (twice)
     + University Of Applied Science & Technology (lecturer code: 902022826), 
@@ -117,7 +117,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 A comparative SNA study on a sample of English, French and Persian
 speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Association - June 19th, 2017, Tehran, Iran
 - __Akbaritabar, Aliakbar__, Casnici, Niccolo, Squazzoni, Flaminio (2017) _Where are sociologists embedded? A study on research productivity of sociologists in Italy_, GECS (research Group in Experimental and Computational Sociology) seminars - January 13, 2017, University of Brescia, Brescia, Italy
-- __Akbaritabar, Aliakbar__, (2016) _how do scholars collaborate with each other? Comparative study on Co-authorship Networks of Scholars Worldwide Using Big Data_, Second European Conference on Social Networks (EUSN), June 14-17, 2016, Paris, France [(see here)](https://www.youtube.com/watch?v=h2QIYbMJ3v4&t=7s)
+- __Akbaritabar, Aliakbar__, (2016) _how do scholars collaborate with each other? Comparative study on Co-authorship Networks of Scholars Worldwide Using Big Data_, Second European Conference on Social Networks (EUSN), June 14-17, 2016, Paris, France [(see video here)](https://www.youtube.com/watch?v=h2QIYbMJ3v4&t=7s) and [here](https://eusn2016.sciencesconf.org/conference/eusn2016/program_overview.pdf)
 - __Akbaritabar, Aliakbar__, Hezarjaribi, jafar (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 35th Sunbelt Organized by INSNA, June 23th -28th, Brighton, UK [(see here)](https://www.youtube.com/watch?v=XrfMEmpmFyw&t=1s)
 - __Akbaritabar, Aliakbar__, Eskandaripour, Ebrahim, Ahmadigharacheh, Ehsan (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 1st Annual Computational Social Science Summit: Collaborative Futures, 15-17 May 2015, Kellogg School of Management, Northwestern University, USA (Poster presentation)
 - __Akbaritabar, Aliakbar__ (2013) _Organizational Network Analysis (ONA): How Social Media will change the way Information is shared in Organizations_, Second National Conference on Social Media day, May 2013, Tehran, Iran
@@ -137,7 +137,7 @@ speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Assoc
 
 ### Accepted but not presented (due to financial, visa or personal issues)
 - __Akbaritabar, Aliakbar__, Bianchi, Federico, Jullien, Nicolas (2017) _Fairness and Reciprocity in Online Communities. A Large-Scale Survey Experiment among French Wikipedia Users_, accepted to be presented Orally, 3rd European social networks conference, September 26-29, 2017, Mainz, Germany
-- __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Jullien, Nicolas (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, accepted to be presented Orally and published in The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), August 25-28, 2015, Paris, France
+- __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Jullien, Nicolas (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, accepted to be presented Orally and published in The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), August 25-28, 2015, Paris, France [see here](http://asonam.cpsc.ucalgary.ca/2015/AcceptedMultidisciplinaryTrack.php)
 - __Akbaritabar, Aliakbar__ (2013) _A SNA Study on Iranian Online Social Networks; Case Study of Doreh and U24_, accepted for Oral presentation at 33th Sunbelt Organized by INSNA, May 21th-26th, 2013, Hamburg, Germany
 - __Akbaritabar, Aliakbar__ (2011) _A SNA Study of Social Networking Sites_, accepted for Oral presentation at 7th UKSNA, July 7th-9th, 2011, University of Greenwich, UK
 - __Akbaritabar, Aliakbar__ (2011) _A SNA Study of Online Social Networks_, accepted for Oral presentation at 1st Global Conference on Social Networking Revolutions, September 7-9, 2011, Washington University, USA
@@ -181,5 +181,5 @@ speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Assoc
 - Manager of Persian website of www.Networkanalysis.ir publishing scientific contents about Organizational Network Analysis. (not accessible at the moment)
 - Member of International Network for Social Network Analysis (INSNA), 2015-6
 - Member of Iranian National Association of Social Welfare
-- Interview with M@rsouin institute about Social Village [(__see here__)](https://www.marsouin.org/article667.html)
+- Interview with M@rsouin institute about Social Village [(__see here__](https://www.marsouin.org/article667.html) and [__here__)](http://www.imt-atlantique.fr/lexians/2015/recherche/les-reseaux-sociaux-un-moyen-daugmenter-son-capital-social-interview-de-aliakbar-akbaritabar-doctorant-iranien/)
 - Excellent Teamwork skills

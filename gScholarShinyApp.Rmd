@@ -11,6 +11,12 @@ bibliography: ref.bibtex
 
 A brief application to work with google scholar and show coauthorship network [(see video intro here)](https://www.youtube.com/watch?v=NZ5WdBnZ-CE)
 
+<div align = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZ5WdBnZ-CE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br>
+
 - In order to see coauthorship networks graph, copy link to google scholar profile of author __(example: "https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en")__ and put it in the text box provided in the application UI, you will see coauthorship network in seconds
 - This shiny application uses scholar package in R to exctract data from google scholar
 - As always, I owe most parts of the code and what I wrote to __stackoverflow__ and __google searches__

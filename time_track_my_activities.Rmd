@@ -194,7 +194,7 @@ ggplot(activities_460_days, aes(x = month_day,  group = category)) +
     facet_wrap(~category_2cat) +
     scale_y_continuous(labels = percent) +
       guides(fill = FALSE) +
-  theme(axis.text.x = element_text(angle = 0, hjust = 1)) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
   scale_x_continuous(breaks = pretty_breaks(n = 31)(1:31))
 
 ```
@@ -292,18 +292,52 @@ ggplot() +
 
 This shows the hours and the number of times I have _started_ and _ended_ activities. The time which I have started highest number of `Work` activities have been __`r average_starting_activities_in_day_work$start_hour_of_day[average_starting_activities_in_day_work$number_of_starting_activities_a_day == max(average_starting_activities_in_day_work$number_of_starting_activities_a_day)]`__. And the time which I have started highest number of `Hobby` activities have been __`r average_starting_activities_in_day_hobby$start_hour_of_day[average_starting_activities_in_day_hobby$number_of_starting_activities_a_day == max(average_starting_activities_in_day_hobby$number_of_starting_activities_a_day)]`__.
 
-
-<!-- ### Comparative trends of activities and categories over time -->
-
-
 <!-- ### my recorded activities versus my Googe searches -->
 <!-- - You can summarize the activities over months and weeks and compare it with Google searches data to see if there are similar trends or not? -->
 
 
+### Time trend of activities based on subject
+Here I have tried to answer questions like "What research activity I have spend the most time on?" or "How has been the trend of my workouts in this year?" So I have tried to have a look at the time trend of activities based on their subjects.
 
-<!-- ### Other trends to consider (point 7 on my notes) -->
-<!-- - you can add more detailed questions like "what research activity I have spend the most time on?" or "how has been the trend of my workouts in this year?" -->
+```{r how I have done research, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+research_activities <- activities_460_days %>% 
+  filter(category %in% "Research works & thesis")
 
+ggplot(research_activities, aes(x = month_name,  group = activity)) + 
+    geom_bar(aes(y = ..prop.., fill = factor(..x..)), stat = "count") +
+    # geom_text(aes( label = scales::percent(..prop..),
+    #                y = ..prop.. ), stat = "count", vjust = -.20) +
+    labs(y = "Percent", x = "Months", fill = "activity", scale_color_manual(labels = as.factor(research_activities$activity))) +
+    facet_wrap(~activity) +
+    scale_y_continuous(labels = percent) +
+      guides(fill = FALSE) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+```
+
+Aparently, there are main research activities that I have been spending quite similar share of time on them during the whole period under focus, like _general think and discussions_, _data gathering_ and _literature review_. On the other hand, I have not been _writing reports_ of the researches all the time or in a equal fashion.
+
+```{r how I have done leisure, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+leisure_activities <- activities_460_days %>% 
+  filter(category %in% "Hobbies")
+
+ggplot(leisure_activities, aes(x = month_name,  group = activity)) + 
+    geom_bar(aes(y = ..prop.., fill = factor(..x..)), stat = "count") +
+    # geom_text(aes( label = scales::percent(..prop..),
+    #                y = ..prop.. ), stat = "count", vjust = -.20) +
+    labs(y = "Percent", x = "Months", fill = "activity", scale_color_manual(labels = as.factor(leisure_activities$activity))) +
+    facet_wrap(~activity) +
+    scale_y_continuous(labels = percent) +
+      guides(fill = FALSE) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+```
+
+Seems checking social media and being on internet and watching tv series and movies are among those hobbies I have been allocating quite flat share of time to them, while riding bike or running have experienced ups and downs.
 
 ## Closing words
-This has been another practice for me in using R to analyze and generate a dynamic report based on real empirical data and also to get better in writing code and scripts with expressive and useful comments that can be used to teach R to newbies. Beside that it was an opportunity to know myself better. To have a detailed view towards my research and hobby activities. But, this is not yet finished, I hope to put time on adding other ideas to make this report more insightful first for myself, then to other interested people.
+This has been another practice for me in using R to analyze and generate a dynamic report based on real empirical data and also to get better in writing code and scripts with expressive and useful comments that can be used to teach R. 
+
+Beside that it was an opportunity to know myself better. To have a detailed view towards my research and hobby activities. But, this is not yet finished, I hope to put time on adding other ideas to make this report more insightful, first for myself.
