@@ -64,6 +64,8 @@ my_leaflet_map(activity_data = milan_rides_coordinates)
 
 ```
 
+<br>
+
 ### Bike rides in Iran
 For my summer vacations, I paid a two months visit to my country, Iran, after near 11 tough months on 2016. That was an opportunity to start riding! I only had `r max(iran_rides_coordinates$ride_number)` rides, but for longer time and paths compared to my normal to that date.
 
@@ -72,6 +74,7 @@ my_leaflet_map(activity_data = iran_rides_coordinates)
 
 ```
 
+<br>
 
 ### Bike rides in Brescia, Italy
 Here is most of my bike rides which has happened in Brescia, in Italy. A total of `r max(brescia_rides_coordinates$ride_number)` rides so far which is the most part of my __2,634.9 km__ total rides. You can zoom in to have better view of the rides (thanks to `leaflet`'s amazing visualizations!)
@@ -81,7 +84,7 @@ my_leaflet_map(activity_data = brescia_rides_coordinates)
 
 ```
 
-
+<br>
 
 
 ## My runs in Brescia, Italy
@@ -92,6 +95,7 @@ my_leaflet_map(activity_data = runs_coordinates)
 
 ```
 
+<br>
 
 ## My Free walks
 At the end I have put the _free walks_ paths. This includes places I have visited and walked around, like _Verona, Trento, Ljubljana and Salo_. A total of `r max(free_walks_coordinates$walk_number)` walks. Remember to __zoom in__.
@@ -102,3 +106,5 @@ There is one thing that I am still trying to learn in `leaflet`, and that is how
 my_leaflet_map(activity_data = free_walks_coordinates)
 
 ```
+
+<br>
