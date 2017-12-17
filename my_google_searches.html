@@ -25,8 +25,8 @@
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script src="site_libs/navigation-1.1/codefolding.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <script src="site_libs/htmlwidgets-0.9/htmlwidgets.js"></script>
 <link href="site_libs/vis-4.16.1/vis.min.css" rel="stylesheet" />
 <script src="site_libs/vis-4.16.1/vis.min.js"></script>
@@ -40,10 +40,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -482,13 +484,13 @@ time_line_data &lt;- read.csv(&quot;./data/time_line_data.csv&quot;)
 time_line_groups &lt;- read.csv(&quot;./data/time_line_data_groups.csv&quot;)
 
 timevis(data = time_line_data, groups = time_line_groups, fit = T)</code></pre>
-<div id="htmlwidget-0c1dbd130b90b03350ac" class="timevis html-widget" style="width:672px;height:480px;">
+<div id="htmlwidget-f8fa24df2c86e358295b" class="timevis html-widget" style="width:672px;height:480px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-0c1dbd130b90b03350ac">{"x":{"items":[{"group":"1","content":"BA","start":"2004-09-21","end":"2008-07-21"},{"group":"1","content":"MA","start":"2008-09-21","end":"2011-07-21"},{"group":"1","content":"1st PhD","start":"2011-09-21","end":"2015-10-30"},{"group":"1","content":"2nd PhD","start":"2015-11-01","end":"2018-10-01"},{"group":"2","content":"1st PhD visit Brest France","start":"2015-02-24","end":"2015-07-30"},{"group":"2","content":"1st PhD visit Barcelona Spain","start":"2015-07-06","end":"2015-07-30"},{"group":"3","content":"ABM Unibs","start":"2017-09-04","end":"2017-09-08"},{"group":"3","content":"Python Trento uni","start":"2017-04-12","end":"2017-04-13"},{"group":"3","content":"ABM Unibs","start":"2016-06-20","end":"2016-06-24"},{"group":"3","content":"Rsiena 2nd EUSN","start":"2016-06-14 09:00","end":"2016-06-14 12:00"},{"group":"3","content":"TERGM 2nd EUSN","start":"2016-06-14 14:00","end":"2016-06-14 17:00"},{"group":"3","content":"SNA Lugano PhD Course","start":"2016-04-29","end":"2016-06-08"},{"group":"3","content":"ERGM Lugano USI","start":"2016-04-18","end":"2016-04-20"},{"group":"3","content":"PNA Barcelona Spain","start":"2015-07-06","end":"2015-07-10"},{"group":"4","content":"Sooremehr R&D","start":"2011-09-21","end":"2013-12-21"},{"group":"4","content":"MCI R&D","start":"2014-01-05","end":"2014-05-05"},{"group":"5","content":"Yazd uni","start":"2012-01-10","end":"2013-07-21"},{"group":"5","content":"AST uni","start":"2012-04-01","end":"2013-07-21"}],"groups":[{"id":"1","content":"Education"},{"id":"2","content":"Research visit"},{"id":"3","content":"Short courses"},{"id":"4","content":"Work"},{"id":"5","content":"Part-time Teaching"}],"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-f8fa24df2c86e358295b">{"x":{"items":[{"group":"1","content":"BA","start":"2004-09-21","end":"2008-07-21"},{"group":"1","content":"MA","start":"2008-09-21","end":"2011-07-21"},{"group":"1","content":"1st PhD","start":"2011-09-21","end":"2015-10-30"},{"group":"1","content":"2nd PhD","start":"2015-11-01","end":"2018-10-01"},{"group":"2","content":"1st PhD visit Brest France","start":"2015-02-24","end":"2015-07-30"},{"group":"2","content":"1st PhD visit Barcelona Spain","start":"2015-07-06","end":"2015-07-30"},{"group":"3","content":"ABM Unibs","start":"2017-09-04","end":"2017-09-08"},{"group":"3","content":"Python Trento uni","start":"2017-04-12","end":"2017-04-13"},{"group":"3","content":"ABM Unibs","start":"2016-06-20","end":"2016-06-24"},{"group":"3","content":"Rsiena 2nd EUSN","start":"2016-06-14 09:00","end":"2016-06-14 12:00"},{"group":"3","content":"TERGM 2nd EUSN","start":"2016-06-14 14:00","end":"2016-06-14 17:00"},{"group":"3","content":"SNA Lugano PhD Course","start":"2016-04-29","end":"2016-06-08"},{"group":"3","content":"ERGM Lugano USI","start":"2016-04-18","end":"2016-04-20"},{"group":"3","content":"PNA Barcelona Spain","start":"2015-07-06","end":"2015-07-10"},{"group":"4","content":"Sooremehr R&D","start":"2011-09-21","end":"2013-12-21"},{"group":"4","content":"MCI R&D","start":"2014-01-05","end":"2014-05-05"},{"group":"5","content":"Yazd uni","start":"2012-01-10","end":"2013-07-21"},{"group":"5","content":"AST uni","start":"2012-04-01","end":"2013-07-21"}],"groups":[{"id":"1","content":"Education"},{"id":"2","content":"Research visit"},{"id":"3","content":"Short courses"},{"id":"4","content":"Work"},{"id":"5","content":"Part-time Teaching"}],"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[]},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="closing-words" class="section level2">
 <h2>Closing words</h2>

@@ -24,8 +24,8 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <script src="site_libs/htmlwidgets-0.9/htmlwidgets.js"></script>
 <link href="site_libs/vis-4.16.1/vis.min.css" rel="stylesheet" />
 <script src="site_libs/vis-4.16.1/vis.min.js"></script>
@@ -39,10 +39,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -307,13 +309,13 @@ div.tocify {
 <div id="all-my-activities-in-one-glance" class="section level2">
 <h2>All my activities in one glance</h2>
 <p>Use mouse scroll to zoom in and out to explore more, drag to move on the timeline.</p>
-<div id="htmlwidget-f69c5cfb94077c0034be" class="timevis html-widget" style="width:100%;height:480px;">
+<div id="htmlwidget-4b01bd95cd3a041f4a27" class="timevis html-widget" style="width:100%;height:480px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-f69c5cfb94077c0034be">{"x":{"items":[{"group":"1","content":"BA","start":"2004-09-21","end":"2008-07-21"},{"group":"1","content":"MA","start":"2008-09-21","end":"2011-07-21"},{"group":"1","content":"1st PhD","start":"2011-09-21","end":"2015-10-30"},{"group":"1","content":"2nd PhD","start":"2015-11-01","end":"2018-10-01"},{"group":"2","content":"1st PhD visit Brest France","start":"2015-02-24","end":"2015-07-30"},{"group":"2","content":"1st PhD visit Barcelona Spain","start":"2015-07-06","end":"2015-07-30"},{"group":"3","content":"ABM Unibs","start":"2017-09-04","end":"2017-09-08"},{"group":"3","content":"Python Trento uni","start":"2017-04-12","end":"2017-04-13"},{"group":"3","content":"ABM Unibs","start":"2016-06-20","end":"2016-06-24"},{"group":"3","content":"Rsiena 2nd EUSN","start":"2016-06-14 09:00","end":"2016-06-14 12:00"},{"group":"3","content":"TERGM 2nd EUSN","start":"2016-06-14 14:00","end":"2016-06-14 17:00"},{"group":"3","content":"SNA Lugano PhD Course","start":"2016-04-29","end":"2016-06-08"},{"group":"3","content":"ERGM Lugano USI","start":"2016-04-18","end":"2016-04-20"},{"group":"3","content":"PNA Barcelona Spain","start":"2015-07-06","end":"2015-07-10"},{"group":"4","content":"Sooremehr R&D","start":"2011-09-21","end":"2013-12-21"},{"group":"4","content":"MCI R&D","start":"2014-01-05","end":"2014-05-05"},{"group":"5","content":"Yazd uni","start":"2012-01-10","end":"2013-07-21"},{"group":"5","content":"AST uni","start":"2012-04-01","end":"2013-07-21"}],"groups":[{"id":"1","content":"Education"},{"id":"2","content":"Research visit"},{"id":"3","content":"Short courses"},{"id":"4","content":"Work"},{"id":"5","content":"Part-time Teaching"}],"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-4b01bd95cd3a041f4a27">{"x":{"items":[{"group":"1","content":"BA","start":"2004-09-21","end":"2008-07-21"},{"group":"1","content":"MA","start":"2008-09-21","end":"2011-07-21"},{"group":"1","content":"1st PhD","start":"2011-09-21","end":"2015-10-30"},{"group":"1","content":"2nd PhD","start":"2015-11-01","end":"2018-10-01"},{"group":"2","content":"1st PhD visit Brest France","start":"2015-02-24","end":"2015-07-30"},{"group":"2","content":"1st PhD visit Barcelona Spain","start":"2015-07-06","end":"2015-07-30"},{"group":"3","content":"ABM Unibs","start":"2017-09-04","end":"2017-09-08"},{"group":"3","content":"Python Trento uni","start":"2017-04-12","end":"2017-04-13"},{"group":"3","content":"ABM Unibs","start":"2016-06-20","end":"2016-06-24"},{"group":"3","content":"Rsiena 2nd EUSN","start":"2016-06-14 09:00","end":"2016-06-14 12:00"},{"group":"3","content":"TERGM 2nd EUSN","start":"2016-06-14 14:00","end":"2016-06-14 17:00"},{"group":"3","content":"SNA Lugano PhD Course","start":"2016-04-29","end":"2016-06-08"},{"group":"3","content":"ERGM Lugano USI","start":"2016-04-18","end":"2016-04-20"},{"group":"3","content":"PNA Barcelona Spain","start":"2015-07-06","end":"2015-07-10"},{"group":"4","content":"Sooremehr R&D","start":"2011-09-21","end":"2013-12-21"},{"group":"4","content":"MCI R&D","start":"2014-01-05","end":"2014-05-05"},{"group":"5","content":"Yazd uni","start":"2012-01-10","end":"2013-07-21"},{"group":"5","content":"AST uni","start":"2012-04-01","end":"2013-07-21"}],"groups":[{"id":"1","content":"Education"},{"id":"2","content":"Research visit"},{"id":"3","content":"Short courses"},{"id":"4","content":"Work"},{"id":"5","content":"Part-time Teaching"}],"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[]},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="personal-and-contact-information" class="section level2">
 <h2>Personal and Contact information</h2>
@@ -322,8 +324,8 @@ div.tocify {
 <li><strong>Phone</strong>: <a href="+39-327-6245450" class="uri">+39-327-6245450</a></li>
 <li><a href="https://goo.gl/NOmq0n"><strong>Google Scholar Profile</strong> (https://goo.gl/NOmq0n)</a></li>
 <li><a href="https://akbaritabar.github.io/"><strong>CV &amp; introduction to research projects</strong> (https://akbaritabar.github.io/)</a></li>
-<li><strong>Website</strong>: <a href="www.SocialVillage.me" class="uri">www.SocialVillage.me</a></li>
-<li><strong>Website</strong>: <a href="www.OnlineSNA.wordpress.com" class="uri">www.OnlineSNA.wordpress.com</a></li>
+<li><strong>Website</strong>: <a href="http://www.SocialVillage.me">www.SocialVillage.me</a></li>
+<li><strong>Website</strong>: <a href="https://www.OnlineSNA.wordpress.com">www.OnlineSNA.wordpress.com</a></li>
 <li><a href="http://ir.linkedin.com/in/akbaritabar/"><strong>Linkedin Profile</strong> (http://ir.linkedin.com/in/akbaritabar/)</a></li>
 <li><strong>Nationality</strong>: Iranian</li>
 <li><strong>Date of Birth</strong>: 21-September-1986</li>
@@ -514,11 +516,11 @@ div.tocify {
 <li><strong>Persian (Farsi)</strong> and <strong>Turkish</strong> (as mother tongues)</li>
 <li><strong>English</strong>
 <ul>
-<li>TOEFL IBT 2015; overall score: 96 (R: 23, L: 24, S: 22, W: 27)</li>
-<li>TOEFL IBT 2013; overall score: 82 (R: 16, L: 22, S: 22, W: 22)</li>
-<li>TOEFL PBT 2010; overall score: 550 (W: 4/6)</li>
+<li>TOEFL IBT 2015; overall score: 96/120 (R: 23, L: 24, S: 22, W: 27)</li>
+<li>TOEFL IBT 2013; overall score: 82/120 (R: 16, L: 22, S: 22, W: 22)</li>
+<li>TOEFL PBT 2010; overall score: 550/677 (W: 4/6)</li>
 </ul></li>
-<li><strong>Arabic</strong> (Basic level reading and writing)</li>
+<li><strong>Arabic</strong> (Basic level, only in reading and writing)</li>
 <li><strong>Italian</strong> (Basic level)</li>
 </ul>
 </div>
@@ -527,7 +529,7 @@ div.tocify {
 <ul>
 <li>Excellence in R statistical programming language for diverse tasks in data gathering and web scrapping, data cleaning and manipulation, data analysis and modeling, network analysis and dynamic reports generation with Shiny and R Markdown</li>
 <li>Excellence in Social Network Analysis, Software like: igraph, Pajek, Ucinet, NodeXL, Gephi, Cytoscape</li>
-<li>Excellence in file version control and tracking with Git and Github <a href="https://github.com/akbaritabar">(<strong>see here</strong>)</a></li>
+<li>Excellence in file version control and tracking with Git and Github <a href="https://github.com/akbaritabar">(<strong>see here</strong>)</a> and here read my post on <a href="./git_github_for_academic_writing.html"><strong>Git &amp; Github (or Gitlab) for academic writing</strong></a></li>
 <li>Excellence in Statistical Analysis Software like: SPSS, Stata.</li>
 <li>Excellence in Microsoft Office Programs</li>
 <li>Excellence in VBA (Visual Basic Application) in order to automate tasks in Microsoft Office</li>

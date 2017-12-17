@@ -4,7 +4,7 @@ author: "Ali"
 date: '21-09-2017'
 csl: apa.csl
 output:
-  html_document:
+  html_document: default
 bibliography: ref.bibtex
 ---
 
@@ -21,7 +21,7 @@ As always, I owe most parts of what I wrote to [__stackoverflow__](https://stack
 - [__My CV hosted on Github pages__](./3AT_cv.html)
 - [__How I have Searched on Google in last 5 years!__](./my_google_searches.html)
 - [__Is my mind tricking me to work more?! A closer look at 365 days of an economic migrant’s life!__](./time_track_my_activities.html)
-- [__My bike rides in Italy__](./my_bike_rides_italy.html)
+- [__Keep motivating yourself! My bike rides, runs and free walks visualized on map__](./my_bike_rides_italy.html)
 - __Bicimia__: Brescia bike sharing usage trends
 
 ### Serious Projects
@@ -29,6 +29,6 @@ As always, I owe most parts of what I wrote to [__stackoverflow__](https://stack
 - [__Google Scholar Shiny App__](./gScholarShinyApp.html): A brief application to work with google scholar and build and show coauthorship networks [(see video intro here)](https://www.youtube.com/watch?v=NZ5WdBnZ-CE)
 - __CNBLR__: R package to do targeted and curated _literature review_ on Scopus
 - __Facebook Influencers__: Dynamic reports of public Facebook pages and groups most important influencers (using SNA approach)
-- __Git & Github (or Gitlab) for academic writing__: How do I use git and github to version control my academic writing projects as a social (data) scientist!
+- [__Git & Github (or Gitlab) for academic writing__](./git_github_for_academic_writing.html): How do I use git and github to version control my academic writing projects as a social (data) scientist!
 - [__Mental & physical health and life satisfaction Shiny app__](https://socialdata.shinyapps.io/health/): A brief Shiny application to take your idea of how mentally and physically healthy you are and your level of satisfaction with life, and compare it with average of European countries extracted from ESS survey data
 <!-- remember to correct the link to above shiny app -->

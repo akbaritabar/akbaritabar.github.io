@@ -26,8 +26,8 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 - __Phone__: [+39-327-6245450](+39-327-6245450)
 - [__Google Scholar Profile__ (https://goo.gl/NOmq0n)](https://goo.gl/NOmq0n)
 - [__CV & introduction to research projects__  (https://akbaritabar.github.io/)](https://akbaritabar.github.io/)
-- __Website__: [www.SocialVillage.me](www.SocialVillage.me)
-- __Website__: [www.OnlineSNA.wordpress.com](www.OnlineSNA.wordpress.com)
+- __Website__: [www.SocialVillage.me](http://www.SocialVillage.me)
+- __Website__: [www.OnlineSNA.wordpress.com](https://www.OnlineSNA.wordpress.com)
 - [__Linkedin Profile__ (http://ir.linkedin.com/in/akbaritabar/)](http://ir.linkedin.com/in/akbaritabar/)
 - __Nationality__: Iranian
 - __Date of Birth__: 21-September-1986
@@ -157,17 +157,17 @@ speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Assoc
 ## Language Skills
 - __Persian (Farsi)__ and __Turkish__ (as mother tongues)
 - __English__ 
-    + TOEFL IBT 2015; overall score: 96 (R: 23, L: 24, S: 22, W: 27)
-    + TOEFL IBT 2013; overall score: 82 (R: 16, L: 22, S: 22, W: 22)
-    + TOEFL PBT 2010; overall score: 550 (W: 4/6)
-- __Arabic__ (Basic level reading and writing)
+    + TOEFL IBT 2015; overall score: 96/120 (R: 23, L: 24, S: 22, W: 27)
+    + TOEFL IBT 2013; overall score: 82/120 (R: 16, L: 22, S: 22, W: 22)
+    + TOEFL PBT 2010; overall score: 550/677 (W: 4/6)
+- __Arabic__ (Basic level, only in reading and writing)
 - __Italian__ (Basic level)
 
 
 ## Professional software Skills
 - Excellence in R statistical programming language for diverse tasks in data gathering and web scrapping, data cleaning and manipulation, data analysis and modeling, network analysis and dynamic reports generation with Shiny and R Markdown
 - Excellence in Social Network Analysis, Software like: igraph, Pajek, Ucinet, NodeXL, Gephi, Cytoscape
-- Excellence in file version control and tracking with Git and Github [(__see here__)](https://github.com/akbaritabar)
+- Excellence in file version control and tracking with Git and Github [(__see here__)](https://github.com/akbaritabar) and here read my post on [__Git & Github (or Gitlab) for academic writing__](./git_github_for_academic_writing.html)
 - Excellence in Statistical Analysis Software like: SPSS, Stata. 
 - Excellence in Microsoft Office Programs 
 - Excellence in VBA (Visual Basic Application) in order to automate tasks in Microsoft Office
