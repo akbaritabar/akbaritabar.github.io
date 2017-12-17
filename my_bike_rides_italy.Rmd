@@ -109,17 +109,17 @@ my_leaflet_map(activity_data = free_walks_coordinates)
 
 <br>
 
-### Ideas to change/develop this post further
+<!-- ### Ideas to change/develop this post further -->
 
-- have a look at how to use only one CSV file of coordinates, having a column that separates the type of activity, then ploting different groups in each call to function in leaflet to reduce the clutter and data you read and use
-- also have a look if it is possible to use _clustering markers_ that is used on circles and markers for polylines in leaflet, then you can have all activities on same map with filtering (see how is it possible to put filters and legend on same map) (for this you can have a look at professor from netherlands who was putting his bike rides on a personal website himself for reference here: http://tracklog.studioblueplanet.net/)
-- look into how is it possible to use gps coordinates as if they were nodes in network analysis terms, the see movements as links between them.
-- Look into this experimental R package to work with Strava API (https://github.com/fawda123/rStrava)
+<!-- - have a look at how to use only one CSV file of coordinates, having a column that separates the type of activity, then ploting different groups in each call to function in leaflet to reduce the clutter and data you read and use -->
+<!-- - also have a look if it is possible to use _clustering markers_ that is used on circles and markers for polylines in leaflet, then you can have all activities on same map with filtering (see how is it possible to put filters and legend on same map) (for this you can have a look at professor from netherlands who was putting his bike rides on a personal website himself for reference here: http://tracklog.studioblueplanet.net/) -->
+<!-- - look into how is it possible to use gps coordinates as if they were nodes in network analysis terms, the see movements as links between them. -->
+<!-- - Look into this experimental R package to work with Strava API (https://github.com/fawda123/rStrava) -->
 
-```{r}
-require(igraph)
-# g <- graph_from_edgelist()
-# graph_from_data_frame()
+<!-- ```{r} -->
+<!-- require(igraph) -->
+<!-- # g <- graph_from_edgelist() -->
+<!-- # graph_from_data_frame() -->
 
-```
+<!-- ``` -->
 

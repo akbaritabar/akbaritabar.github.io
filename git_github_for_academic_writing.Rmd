@@ -12,15 +12,6 @@ output:
 bibliography: ref.bibtex
 ---
 
-```{r echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
-# clean the R workspace
-rm(list = ls())
-# load packages
-require(tidyverse)
-
-
-```
-
 This post might not include much of R code or data analysis, but believe me, behind the scenes, it can be one of the most useful things I am going to write!
 
 As a social scientist and sociologist by near 13 years of training, I have mostly been in contact with people who think social science gang are not __Geek__ or __Nerd__ material! Why is that so? Why there is a common sense that as a social scientist as long as you know how to turn on a computer and use Microsoft Word and Excel along with one or two statistical analysis software packages, e.g., SPSS, Lisrel, STATA, you are good to go! And in case you happen to be able to do some more stuff with computers you can be gazed at or called with names, like geek!

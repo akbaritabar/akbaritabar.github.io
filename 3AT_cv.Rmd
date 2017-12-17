@@ -100,7 +100,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 
 ## Research works & publications
 ### Journals
-- __Akbaritabar, Aliakbar__, Casnici, Niccolo, Squazzoni, Flaminio (2017) _The conundrum of research productivity. A study on sociologists in Italy_, Under peer review
+- __Akbaritabar, Aliakbar__, Casnici, Niccolo, Squazzoni, Flaminio (2017) _The conundrum of research productivity: a study on sociologists in Italy_, Scientometrics, [(Access here)](https://doi.org/10.1007/s11192-017-2606-5)
 - Squazzoni, Flaminio, __Akbaritabar, Aliakbar__ (2017) _Internationalizing Sociology in Italy, 1970s-2010s_, Global Dialogue, ISA (International Sociological Association), Volume 7, Issue 3, 10-11
 - __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Jullien, Nicolas (2015) _A tool for dynamic measurement of social capital embedded in Online Social Networks_, Grafo working papers, electronic journal, Issue 4, Nº 04/y1. ISSN: 2014-5993 [(Access here)](http://revistes.uab.cat/grafowp/article/view/14/vol4-n1-Akbaritabar)
 - Eskandaripour, Ebrahim, __Akbaritabar, Aliakbar__ (2014) _How to do a scientific research on media (TV & Radio) related pages on social networking sites A Mixed Method_, Quarterly Journal of Communication Research, Winter 2014, Tehran, Iran (In Persian)
