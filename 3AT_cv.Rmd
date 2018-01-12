@@ -113,7 +113,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 - __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Hosseini, Mostajad (2012) _ICTs and their relationship with Social Welfare_, Society, culture and media (In Persian)
 
 ### Conferences and Talks
-- __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Gender and ethnic patterns of publication in top sociology journals (Success stories only!)_, GECS (research Group in Experimental and Computational Sociology) seminars, January 10, 2018, University of Brescia, Brescia, Italy
+- __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Gender and ethnic patterns of publication in top sociology journals (Success stories only!)_, GECS (research Group in Experimental and Computational Sociology) seminars, January 10, 2018, University of Brescia, Brescia, Italy [here](https://www.facebook.com/events/1781262078846749/)
 - __Akbaritabar, Aliakbar__, (2017) _Iranian’s Cyber Social Capital
 A comparative SNA study on a sample of English, French and Persian
 speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Association - June 19th, 2017, Tehran, Iran
