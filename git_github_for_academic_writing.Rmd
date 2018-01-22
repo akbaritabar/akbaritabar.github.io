@@ -53,6 +53,18 @@ __Briefly, for me "Git" is like a huge "Ctrl + Z" that allows me to go back in t
 ## Advanced topics video: RMD presentation, git branches and stashing!
 In this video I have tried to touch some more advanced topics which were briefly mentioned in 1^st^ video, including how to add R code chunks and prepare the data and do analysis on it, how to use Git branches and where does stashing come in handy?
 
+__Note__:
+If you want to __skip some parts__ of the video and go right on the subject that interests you use this time/subject index:
+
+- 1st video topics reviewed: __1:05__
+- 2nd vide topics: __2:14__
+    + Clone a git repository: __4:00__
+    + A real example of R Markdown with R code chunks: __10:42__
+    + How to go from RMD report to presentation file: __20:28__
+    + Using git branches: __28:24__
+    + Using git stashing: __44:47__
+    + Review and links to further learning: __56:40__
+
 <div align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2T2s8_bKiQ" frameborder="0" allowfullscreen></iframe>
 </div>
