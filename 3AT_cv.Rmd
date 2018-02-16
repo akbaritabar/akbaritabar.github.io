@@ -36,7 +36,8 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 ### Main studies
 - __PhD. candidate of  Economic Sociology__ (Nov 2015-2018)
     + University of Milan and University of Brescia, Italy
-    + __Thesis Title__: Explaining scientific collaborations and research productivity of sociologists
+    + Thematic PhD with a year (3 semesters) of 19 courses on theories, sociological subjects, methodology, and applied research and seminar series
+    + __Thesis Title__: A quantitative sociology of academic work in an era of hypercompetition and rankings
     + __Supervised by__: Prof. Flaminio Squazzoni
     + Member of __GECS__: Research Group on Experimental and Computational Sociology (see more [here](http://gecs.unibs.it/) & [here](https://www.facebook.com/gecsbrescia))
 - __PhD. of Sociology__ (Social Welfare) (2011-2015)
@@ -53,6 +54,10 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
     + __Supervised by__: Prof. Abdol Ali Lahsayi Zadeh
 
 ### Research visits, short courses and schools
+- __PhD. Research Visit__ (2.5 months - February 2018 - April 2018)
+    + CWTS (Centre for Science and Technology Studies), Leiden University, Leiden, The Netherlands
+    + __Project Title__: A quantitative sociology of academic work in an era of hypercompetition and rankings [here](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater)
+    + __Supervised by__: Prof. Vincent Traag
 - Summer School in "__Agent-based modelling for social scientists__" (September 4-8 2017)
     + University of Brescia, Italy
     + __Instructors__: Flaminio Squazzoni, Simone Gabbriellini, Nicolas Payette, Federico Bianchi
@@ -113,6 +118,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 - __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Hosseini, Mostajad (2012) _ICTs and their relationship with Social Welfare_, Society, culture and media (In Persian)
 
 ### Conferences and Talks
+- __Akbaritabar, Aliakbar__ (2018) _A quantitative sociology of academic work in an era of hypercompetition and rankings; a collection of three studies_, CTWS (Centre for Science and Technology Studies) seminars, February 16, 2018, Leiden University, Leiden, The Netherlands [here](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater)
 - __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Gender and ethnic patterns of publication in top sociology journals (Success stories only!)_, GECS (research Group in Experimental and Computational Sociology) seminars, January 10, 2018, University of Brescia, Brescia, Italy [here](https://www.facebook.com/events/1781262078846749/)
 - __Akbaritabar, Aliakbar__, (2017) _Iranian’s Cyber Social Capital
 A comparative SNA study on a sample of English, French and Persian
