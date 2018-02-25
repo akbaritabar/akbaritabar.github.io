@@ -176,6 +176,41 @@ time_line_data <- read.csv("./data/time_line_data.csv")
 time_line_groups <- read.csv("./data/time_line_data_groups.csv")
 
 timevis(data = time_line_data, groups = time_line_groups, fit = T)
+
+# 
+# require(timeline)
+# require(scales)
+# require(ggthemes)
+# 
+# 
+# time_data <- data.frame(
+#   Person = c("Host: Paul Wouters, CWTS"),
+#   Group = c("Leiden University"),
+#   StartDate = as.Date(c("2018-01-15")),
+#   EndDate = as.Date(c("2018-04-15"))
+#   )
+# 
+# time_data <- data.frame(
+#   Person = c("Host: Paul Wouters, CWTS"),
+#   Group = c("Leiden University"),
+#   StartDate = as.Date(c("2018-01-15")),
+#   EndDate = as.Date(c("2018-04-15"))
+#   )
+# 
+# task_data <- data.frame(  
+#   Main_task = c("Evolution of sociological community, ANVUR evaluation and replication"),
+#     Group = c("Leiden University"),
+#   Date = as.Date(c("2018-01-22"))
+# )
+# 
+# ttt <- timeline(df = time_data, text.size = 3, text.color = c('black'), events = task_data, event.group.col = "Group", event.col = "Date", event.line = F, event.above = F, event.text.size = 3, event.text.color = c('black'), border.color = c('black')) +
+#   scale_x_date(date_breaks = "1 month", 
+#                  labels = date_format("%b"),
+#                  limits = as.Date(c('2018-01-01','2018-05-01')))
+# 
+# ttt +  theme_minimal() + theme(legend.position = "none")
+
+
 ```
 
 ## Closing words
