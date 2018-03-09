@@ -118,6 +118,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 - __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Hosseini, Mostajad (2012) _ICTs and their relationship with Social Welfare_, Society, culture and media (In Persian)
 
 ### Conferences and Talks
+- __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Tweet review: a network study on tweets about peer review_, PEERE (New Frontiers of Peer Review) conference, March 7-9 2018, CNRS, Rome, Italy [here](http://www.peere.org/conference/conference-programme/) and [here](https://www.facebook.com/akbaritabar/posts/1891979047479423?pnref=story)
 - __Akbaritabar, Aliakbar__ (2018) _A quantitative sociology of academic work in an era of hypercompetition and rankings; a collection of three studies_, CTWS (Centre for Science and Technology Studies) seminars, February 16, 2018, Leiden University, Leiden, The Netherlands [here](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater)
 - __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Gender and ethnic patterns of publication in top sociology journals (Success stories only!)_, GECS (research Group in Experimental and Computational Sociology) seminars, January 10, 2018, University of Brescia, Brescia, Italy [here](https://www.facebook.com/events/1781262078846749/)
 - __Akbaritabar, Aliakbar__, (2017) _Iranian’s Cyber Social Capital
@@ -190,3 +191,4 @@ speaking users of Facebook & Google plus_, SNA group, Iranian Sociological Assoc
 - Member of Iranian National Association of Social Welfare
 - Interview with M@rsouin institute about Social Village [(__see here__](https://www.marsouin.org/article667.html) and [__here__)](http://www.imt-atlantique.fr/lexians/2015/recherche/les-reseaux-sociaux-un-moyen-daugmenter-son-capital-social-interview-de-aliakbar-akbaritabar-doctorant-iranien/)
 - Excellent Teamwork skills
+- Cycling and running enthusiast [__Strava Profile__](https://www.strava.com/athletes/14470649)
