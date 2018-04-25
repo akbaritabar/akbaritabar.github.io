@@ -38,26 +38,33 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
     + University of Milan and University of Brescia, Italy
     + Thematic PhD with a year (3 semesters) of 19 courses on theories, sociological subjects, methodology, and applied research and seminar series
     + __Thesis Title__: A quantitative sociology of academic work in an era of hypercompetition and rankings
-    + __Supervised by__: Prof. Flaminio Squazzoni
+    + __Supervised by__: Flaminio Squazzoni
     + Member of __GECS__: Research Group on Experimental and Computational Sociology (see more [here](http://gecs.unibs.it/) & [here](https://www.facebook.com/gecsbrescia))
 - __PhD. of Sociology__ (Social Welfare) (2011-2015)
     + Allameh Tabatabaei University, Tehran, Iran
     + __Thesis Title__: Iranian’s Cyber Social Capital [(see here)](https://www.youtube.com/watch?v=VoI8-0-l4Zo&t=142s)
-    + __Supervised by__: Prof. Jafar Hezarjaribi
+    + __Supervised by__: Jafar Hezarjaribi
 - __M.A. of Sociology__ (2008-2011)
     + Tarbiat Modares University, Tehran, Iran
     + __Thesis Title__: A SNA Study on Online Social Networks: Case study of Doreh and U24
-    + __Supervised by__: Prof. Ali Saei
+    + __Supervised by__: Ali Saei
 - __B.A. of Sociology__ (Social Research) (2004-2008)
     + Shiraz University, Shiraz, Iran
     + __Thesis Title__: Factors related with students commitment to university
-    + __Supervised by__: Prof. Abdol Ali Lahsayi Zadeh
+    + __Supervised by__: Abdol Ali Lahsayi Zadeh
 
 ### Research visits, short courses and schools
+- __PhD. Research Visit__ (3 months - April 2018 - July 2018)
+    + Dynamics lab, Geary institute, UCD, Dublin, Ireland
+    + __Project Title__: A quantitative sociology of academic work in an era of hypercompetition and rankings
+    + __Supervised by__: Diane Payne
+- Course on __Bibliometric Network Analysis and Science Mapping Using VOSviewer__ (April 12-13 2018) [see here](https://www.cwts.nl/training-education/bibliometric-network-analysis-and-science-mapping-using-vosviewer)
+    + CWTS, Leiden University, The Netherlands
+    + __Instructors__: Ludo Waltman, Nees Van Eck
 - __PhD. Research Visit__ (2.5 months - February 2018 - April 2018)
     + CWTS (Centre for Science and Technology Studies), Leiden University, Leiden, The Netherlands
     + __Project Title__: A quantitative sociology of academic work in an era of hypercompetition and rankings [here](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater)
-    + __Supervised by__: Prof. Vincent Traag
+    + __Supervised by__: Vincent Traag
 - Summer School in "__Agent-based modelling for social scientists__" (September 4-8 2017)
     + University of Brescia, Italy
     + __Instructors__: Flaminio Squazzoni, Simone Gabbriellini, Nicolas Payette, Federico Bianchi
@@ -79,14 +86,14 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 - __PhD. Research Visit__ (1 month - July 2015)
     + Autonomous University of Barcelona (UAB), Barcelona, Spain
     + __Project Title__: How to measure Cyber Social Capital comparatively among English, French and Persian users of Online social Networks
-    + __Supervised by__: Prof. Jose Luis Molina, Prof. Miranda Jessica Lubbers
+    + __Supervised by__: Jose Luis Molina, Miranda Jessica Lubbers
 - 8th edition of Summer school on __Personal Network Analysis (PNA)__ (July 6-10 2015)
     + Autonomous University of Barcelona (UAB), Barcelona, Spain
     + __Instructors__: Jose Luis Molina, Miranda Jessica Lubbers, Jürgen Lerner, Rafaelle Vacca, Alejandro García Macías
 - __PhD. Research Visit__ (5 months – February - September 2015)
     + Telecom-Bretagne, Brest, France
     + __Project Title__: How to measure Cyber Social Capital comparatively among English, French and Persian users of Online social Networks
-    + __Supervised by__: Prof. Nicolas Jullien
+    + __Supervised by__: Nicolas Jullien
 
 ## Research Interests
 - Social Network Analysis (SNA)
@@ -118,6 +125,7 @@ timevis(data = time_line_data, groups = time_line_groups, fit = T, width = '100%
 - __Akbaritabar, Aliakbar__, Hezarjaribi, Jafar, Hosseini, Mostajad (2012) _ICTs and their relationship with Social Welfare_, Society, culture and media (In Persian)
 
 ### Conferences and Talks
+- __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Co-authorship strategies of Social Networks authors_, Scientific Networks organized panel, XXXVIII Sunbelt conference, June 26-July 1, 2018, Utrecht, The Netherlands (_To be presented_)
 - __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Tweet review: a network study on tweets about peer review_, PEERE (New Frontiers of Peer Review) conference, March 7-9 2018, CNRS, Rome, Italy [here](http://www.peere.org/conference/conference-programme/) and [here](https://www.facebook.com/akbaritabar/posts/1891979047479423?pnref=story)
 - __Akbaritabar, Aliakbar__ (2018) _A quantitative sociology of academic work in an era of hypercompetition and rankings; a collection of three studies_, CTWS (Centre for Science and Technology Studies) seminars, February 16, 2018, Leiden University, Leiden, The Netherlands [here](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater)
 - __Akbaritabar, Aliakbar__, Squazzoni, Flaminio (2018) _Gender and ethnic patterns of publication in top sociology journals (Success stories only!)_, GECS (research Group in Experimental and Computational Sociology) seminars, January 10, 2018, University of Brescia, Brescia, Italy [here](https://www.facebook.com/events/1781262078846749/)
