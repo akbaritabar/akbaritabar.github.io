@@ -27,6 +27,7 @@ free_walks_coordinates <- read.csv("./data/runs_bike_rides/free_walks_coordinate
 free_walks_coordinates_rotterdam <- read.csv("./data/runs_bike_rides/walk_rotterdam_netherlands_coordinates.csv")
 runs_coordinates_netherlands <- read.csv("./data/runs_bike_rides/runs_netherlands_coordinates.csv")
 rides_coordinates_netherlands <- read.csv("./data/runs_bike_rides/rides_netherlands_coordinates.csv")
+all_coordinates_dublin <- read.csv("./data/runs_bike_rides/dublin_coordinates.csv")
 
 
 # in order to sty DRY (Don't Repeat Yourself) ! I am going to write a small function to call leaflet mapping functions and use it in following sections to avoid writing same code multiple times
@@ -142,6 +143,14 @@ my_leaflet_map(activity_data = free_walks_coordinates_rotterdam)
 
 <br>
 
+## First two weeks in Dublin (Runs and free walks)
+
+```{r ireland activities, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+my_leaflet_map(activity_data = all_coordinates_dublin)
+
+```
+
+<br>
 
 
 
