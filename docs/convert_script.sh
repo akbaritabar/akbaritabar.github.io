@@ -36,7 +36,7 @@ read -r -d '' html_needed <<'EOF'
 
 EOF
 
-for filename in `ls ./docs/*/*.pdf | sort -r` ; do
+for filename in `ls ./*/*.pdf | sort -r` ; do
     echo "##### importing file: " $filename " "
     printf "\n" >> index.md
     printf "$html_needed" $filename $filename $filename $filename >> index.md
