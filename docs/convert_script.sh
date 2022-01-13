@@ -45,6 +45,7 @@ for filename in `ls ./*/*.pdf | sort -r` ; do
     # write year's markdown url to index
     printf "["$filename"]($(dirname "$filename").html)" >> index.md
     printf "\n" >> index.md
+    printf "\n" >> index.md
 
     echo "##### importing file: " $filename " "
     printf "\n" >> "$(dirname "$filename").md"
