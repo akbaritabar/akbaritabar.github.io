@@ -2,7 +2,6 @@
 
 cat > index.md <<'EOF'
 # Presentations by Aliakbar Akbaritabar 
-## On reverse chronological order
 
 See here for the files of all presentations available under GPL-3.0 License: [https://github.com/akbaritabar/presentations](https://github.com/akbaritabar/presentations) 
 
@@ -19,6 +18,9 @@ See here for the files of all presentations available under GPL-3.0 License: [ht
   copyright = {GPL-3.0}
 }
 ```
+## On reverse chronological order
+
+Click on links to open each year's presentations.
 
 <!-- pdfs here -->
 
@@ -37,10 +39,17 @@ read -r -d '' html_needed <<'EOF'
 EOF
 
 for filename in `ls ./*/*.pdf | sort -r` ; do
+
+    # create a markdown file per year
+    # echo $(dirname "$filename")
+    # write year's markdown url to index
+    printf "["$filename"]($(dirname "$filename").html)" >> index.md
+    printf "\n" >> index.md
+
     echo "##### importing file: " $filename " "
-    printf "\n" >> index.md
-    printf "$html_needed" $filename $filename $filename $filename >> index.md
-    printf "\n" >> index.md
+    printf "\n" >> "$(dirname "$filename").md"
+    printf "$html_needed" $filename $filename $filename $filename >> "$(dirname "$filename").md"
+    printf "\n" >> "$(dirname "$filename").md"
 done
 
 # Learned and adopted many hints on bash script from here: http://www.compciv.org/topics/web/heredocs_and_html/
