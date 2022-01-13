@@ -484,6 +484,38 @@ See here for the files of all presentations available under GPL-3.0 License: [ht
     </embed>
 </object>
 
+### ./2011_2014/20120129_SNA_workshop_4_Software_How_to_use_2_pajek.pdf
+
+<object data="./2011_2014/20120129_SNA_workshop_4_Software_How_to_use_2_pajek.pdf" type="application/pdf" width="500px" height="500px">
+    <embed src="./2011_2014/20120129_SNA_workshop_4_Software_How_to_use_2_pajek.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./2011_2014/20120129_SNA_workshop_4_Software_How_to_use_2_pajek.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### ./2011_2014/20120129_SNA_workshop_3_Software_How_to_use_1_nodexl.pdf
+
+<object data="./2011_2014/20120129_SNA_workshop_3_Software_How_to_use_1_nodexl.pdf" type="application/pdf" width="500px" height="500px">
+    <embed src="./2011_2014/20120129_SNA_workshop_3_Software_How_to_use_1_nodexl.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./2011_2014/20120129_SNA_workshop_3_Software_How_to_use_1_nodexl.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### ./2011_2014/20120129_SNA_workshop_2_Methodology_Research_experience.pdf
+
+<object data="./2011_2014/20120129_SNA_workshop_2_Methodology_Research_experience.pdf" type="application/pdf" width="500px" height="500px">
+    <embed src="./2011_2014/20120129_SNA_workshop_2_Methodology_Research_experience.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./2011_2014/20120129_SNA_workshop_2_Methodology_Research_experience.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### ./2011_2014/20120129_SNA_workshop_1_Intro.pdf
+
+<object data="./2011_2014/20120129_SNA_workshop_1_Intro.pdf" type="application/pdf" width="500px" height="500px">
+    <embed src="./2011_2014/20120129_SNA_workshop_1_Intro.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./2011_2014/20120129_SNA_workshop_1_Intro.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### ./2011_2014/20110704_Master_thesis_defense.pdf
 
 <object data="./2011_2014/20110704_Master_thesis_defense.pdf" type="application/pdf" width="500px" height="500px">
