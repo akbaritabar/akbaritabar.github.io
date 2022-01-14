@@ -30,11 +30,9 @@ read -r -d '' html_needed <<'EOF'
 
 ### %s
 
-<object data="%s" type="application/pdf" width="500px" height="500px">
-    <embed src="%s">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="%s">Download PDF</a>.</p>
-    </embed>
-</object>
+<object data="%s" type="application/pdf" frameborder="0" width="700px" height="600px" style="padding: 20px;">
+    <embed src="https://docs.google.com/viewer?url=https://github.com/akbaritabar/presentations/raw/main/docs/%s&embedded=true" width="700px" height="600px"/>
+</object>     
 
 EOF
 
@@ -49,7 +47,7 @@ for filename in `ls ./*/*.pdf | sort -r` ; do
 
     echo "##### importing file: " $filename " "
     printf "\n" >> "$(dirname "$filename").md"
-    printf "$html_needed" $filename $filename $filename $filename >> "$(dirname "$filename").md"
+    printf "$html_needed" $filename $filename $filename >> "$(dirname "$filename").md"
     printf "\n" >> "$(dirname "$filename").md"
 done
 
