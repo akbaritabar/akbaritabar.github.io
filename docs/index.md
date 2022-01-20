@@ -15,7 +15,11 @@ See here for the files of all presentations available under GPL-3.0 License: [ht
   copyright = {GPL-3.0}
 }
 ```
-## On reverse chronological order
+
+## CV
+You can see a CV of me [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
+
+## Presentations on reverse chronological order
 
 Click on links to open each year's presentations.
 
