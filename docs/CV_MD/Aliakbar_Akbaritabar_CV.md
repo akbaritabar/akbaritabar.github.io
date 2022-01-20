@@ -98,7 +98,7 @@ __Akbaritabar, Aliakbar__, Stahlschmidt, Stephan (2019) _Merits and Limits: Appl
 
 __Akbaritabar, Aliakbar__ (2019) _A spatial scientometric and network analysis of Higher Education Research and Science Studies (HERSS)_, International symposium on Academia in the Age of Comparison: Methodological and Empirical Perspectives in an Interdisciplinary Dialogue, Leibniz Center for Science and Society (LCSS) of Hanover University, 13-14/06/2019, Hanover, Germany
 
-__Akbaritabar, Aliakbar__ (2019) _Dashboards for academic reports? Introducing_ [_HERSS Dashboard_](./herss_world_map_flexdashboard.html) _(Key Actors in Higher Education Research and Science Studies)_, Research Colloquium, German Center for Higher Education Research and Science Studies (DZHW), 19/02/2018, Berlin, Germany
+__Akbaritabar, Aliakbar__ (2019) _Dashboards for academic reports? Introducing HERSS Dashboard _(Key Actors in Higher Education Research and Science Studies)_, Research Colloquium, German Center for Higher Education Research and Science Studies (DZHW), 19/02/2018, Berlin, Germany
 
 __Akbaritabar, Aliakbar__ (2018) _A quantitative sociology of academic work in an era of hypercompetition and rankings; a collection of three studies_, CTWS (Centre for Science and Technology Studies) seminars, 16/02/2018, Leiden University, Leiden, Netherlands [here](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater)
 
@@ -150,7 +150,7 @@ __Akbaritabar, Aliakbar__, (2016) _how do scholars collaborate with each other? 
 
 __Akbaritabar, Aliakbar__, Hezarjaribi, jafar (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 35th Sunbelt Organized by INSNA, 23-28/06/2015, Brighton, UK [(here)](https://www.youtube.com/watch?v=XrfMEmpmFyw&t=1s)
 
-__Akbaritabar, Aliakbar__, Eskandaripour, Ebrahim, Ahmadigharacheh, Ehsan (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 1st Annual Computational Social Science Summit: Collaborative Futures, 15-17/05/2015, Kellogg School of Management, Northwestern University, USA ([Poster presentation](./images/poster_presentation_2015_1.jpg) and [here](./images/poster_presentation_2015_2.jpg))
+__Akbaritabar, Aliakbar__, Eskandaripour, Ebrahim, Ahmadigharacheh, Ehsan (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 1st Annual Computational Social Science Summit: Collaborative Futures, 15-17/05/2015, Kellogg School of Management, Northwestern University, USA (Poster presentation)
 
 __Akbaritabar, Aliakbar__ (2011) _Factors Related with Students’ Commitment to University_, INTED2011 (International Technology, Education and Development Conference), 7-9/03/2011, Valencia, Spain
 
