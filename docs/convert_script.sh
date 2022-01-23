@@ -34,8 +34,8 @@ read -r -d '' html_needed <<'EOF'
 
 ### %s
 
-<object data="%s" type="application/pdf" frameborder="0" width="700px" height="600px" style="padding: 20px;">
-    <embed src="https://docs.google.com/viewer?url=https://github.com/akbaritabar/presentations/raw/main/docs/%s&embedded=true" width="700px" height="600px"/>
+<object data="%s" type="application/pdf" frameborder="0" width="600px" height="550px" style="padding: 20px;">
+    <embed src="https://docs.google.com/viewer?url=https://github.com/akbaritabar/presentations/raw/main/docs/%s&embedded=true" width="600px" height="550px"/>
 </object>     
 
 EOF

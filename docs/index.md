@@ -105,7 +105,7 @@ Click on links to open each year's presentations.
 
 [./2016/20160624_UNIBS_ABM_school.pdf](./2016.html)
 
-[./2016/20160618_EUSN_Paris.pdf](./2016.html)
+[./2016/20160618_EUSN_Paris_GScholars_collaboartion.pdf](./2016.html)
 
 [./2016/20160526_UNIMI_inequalities_social_capital.pdf](./2016.html)
 
@@ -125,9 +125,9 @@ Click on links to open each year's presentations.
 
 [./2015/20150728_PNAUAB_Barcelona_Spain1.pdf](./2015.html)
 
-[./2015/20150626_INSNA_Sunbelt_Brighton_UK.pdf](./2015.html)
+[./2015/20150626_INSNA_Sunbelt_Brighton_UK_cyber_social_capital.pdf](./2015.html)
 
-[./2015/20150517_Kollegg_School_Northwestern_USA_poster.pdf](./2015.html)
+[./2015/20150517_Kollegg_School_Northwestern_USA_cyber_social_capital_poster.pdf](./2015.html)
 
 [./2015/20150428_cyber_social_capital_Brest_Telecom_Bretagne.pdf](./2015.html)
 
@@ -139,7 +139,7 @@ Click on links to open each year's presentations.
 
 [./2011_2014/20130729_organizational_networks_analysis.pdf](./2011_2014.html)
 
-[./2011_2014/20120631_research_methods_4_online_networks.pdf](./2011_2014.html)
+[./2011_2014/20120631_research_methods_for_online_networks.pdf](./2011_2014.html)
 
 [./2011_2014/20120129_SNA_workshop_4_Software_How_to_use_2_pajek.pdf](./2011_2014.html)
 
