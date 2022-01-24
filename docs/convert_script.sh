@@ -22,6 +22,9 @@ See here for the files of all presentations available under GPL-3.0 License: [ht
 ## CV
 You can see a CV of me [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
+## Computational Social Science Events Worldwide
+You can see the calendar I am publicly maintaining [here](./CV_MD/CSS_events_calendar.html)
+
 ## Presentations on reverse chronological order
 
 Click on links to open each year's presentations.
