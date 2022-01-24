@@ -38,6 +38,8 @@ German Centre for Higher Education Research and Science Studies (DZHW), [Researc
 ## Research works & publications
 ### Peer-Reviewed Journals
 
+__Akbaritabar, Aliakbar__; Stephen, Dimity; Squazzoni, Flaminio (2022, forthcoming) _A study of referencing changes in preprint-publication pairs across multiple fields_, Journal of Informetrics 
+
 Piolatto, Matteo; Bianchi, Federico; Rota, Matteo; Marengoni, Alessandra; __Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2022, forthcoming) _The effect of social relationships on cognitive decline in older adults: An updated systematic review and meta-analysis of longitudinal cohort studies_, BMC Public Health
 
 __Akbaritabar, Aliakbar__ (2021) _A Quantitative View of the Structure of Institutional Scientific Collaborations Using the Example of Berlin_, Quantitative Science Studies, [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131)
@@ -78,11 +80,11 @@ __Akbaritabar, Aliakbar__ (2012) _A Meta-Analysis of SNA Textbooks, special issu
 
 ### Pre-prints & Working papers
 
-__Akbaritabar, Aliakbar__; Stephen, Dimity (2021) _A Disciplinary View of Changes in Publications' Reference Lists After Peer Review_, arXiv [(Access here)](https://arxiv.org/abs/2102.03110)
+__Akbaritabar, Aliakbar__; Stephen, Dimity (2021) _A Disciplinary View of Changes in Publications' Reference Lists After Peer Review_, arXiv [(Access here)](https://arxiv.org/abs/2102.03110), (*Accepted in Journal of Informetrics*)
 
 __Akbaritabar, Aliakbar__ (2021) _Quantitative View of the Structure of Institutional Scientific Collaborations Using the Examples of Halle, Jena and Leipzig_, arXiv [(Access here)](https://arxiv.org/abs/2101.05784)
 
-__Akbaritabar, Aliakbar__ (2020) _Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations_, arXiv [(Access here)](https://arxiv.org/abs/2008.08355)
+__Akbaritabar, Aliakbar__ (2020) _Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations_, arXiv [(Access here)](https://arxiv.org/abs/2008.08355), (*Published in Quantitative Science Studies*)
 
 __Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Applying Crossref and Unpaywall information to identify gold, hidden gold, hybrid and delayed Open Access publications in the KB corpus._,  SocArXiv [(Access here)](https://doi.org/10.31235/osf.io/sdzft)
 
@@ -321,7 +323,7 @@ __Akbaritabar, Aliakbar__; Eskandaripour, Ebrahim; Zanjari, Nasibe (2011) _A SNA
 
 ## Other
 - Member of organizing team of [second satRday conference in Berlin](https://berlin2020.satrdays.org/team/), 15/06/2020, Berlin, Germany [canceled]
-- I have __peer reviewed__ scientific articles (see my Publons reviewer profile [here](https://publons.com/researcher/1487027/aliakbar-akbaritabar/)) for [Scientometrics](https://www.springer.com/journal/11192), [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics), [Science and Public Policy](https://academic.oup.com/spp), [European Journal of Education
+- I have __peer reviewed__ scientific articles (see my Publons reviewer profile [here](https://publons.com/researcher/1487027/aliakbar-akbaritabar/)) for [Social Networks](https://www.journals.elsevier.com/social-networks), [Scientometrics](https://www.springer.com/journal/11192), [Journal of Informetrics](https://www.journals.elsevier.com/journal-of-informetrics), [Science and Public Policy](https://academic.oup.com/spp), [European Journal of Education
 ](https://onlinelibrary.wiley.com/journal/14653435), STI2018 ([Science, Technology and Innovation indicators in transition](https://sti2018.cwts.nl/organization)), [ISSI&STI2019](https://www.issi2019.org/) and [Sunbelt 2020](https://www.insna.org/events/sunbelt-2020) by INSNA conferences.
 - I co-organized the [first Berlin satRday conference](https://berlin2019.satrdays.org/#team) with a group of local academics and data scientists on 15/06/2019
 - Founder of www.OnlineSNA.wordpress.com website for publishing scientific contents about Social Network Analysis. (In Persian)
