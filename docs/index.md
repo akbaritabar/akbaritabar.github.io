@@ -142,6 +142,14 @@ Click on links to open each year's presentations.
 
 [./2011_2014/20130729_organizational_networks_analysis.pdf](./2011_2014.html)
 
+[./2011_2014/20121111_SNA_workshop_4_How_to_use_Pajek.pdf](./2011_2014.html)
+
+[./2011_2014/20121111_SNA_workshop_3_Methodological_considerations.pdf](./2011_2014.html)
+
+[./2011_2014/20121111_SNA_workshop_2_Theoretical_considerations.pdf](./2011_2014.html)
+
+[./2011_2014/20121111_SNA_workshop_1_Intro.pdf](./2011_2014.html)
+
 [./2011_2014/20120631_research_methods_for_online_networks.pdf](./2011_2014.html)
 
 [./2011_2014/20120129_SNA_workshop_4_Software_How_to_use_2_pajek.pdf](./2011_2014.html)
