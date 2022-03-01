@@ -39,7 +39,6 @@ Research Group on Experimental and Computational Sociology ([GECS](https://gecs.
 | Scholarly mobility and migration | Scientific collaborations and co-authorship |
 | Online social networks   | Social capital and cyber social capital    |
 
-\newpage 
 
 ## Education
 
@@ -116,7 +115,7 @@ __Akbaritabar, Aliakbar__; Stephen, Dimity (2021) _A Disciplinary View of Change
 
 __Akbaritabar, Aliakbar__ (2021) _Quantitative View of the Structure of Institutional Scientific Collaborations Using the Examples of Halle, Jena and Leipzig_, arXiv ([access](https://arxiv.org/abs/2101.05784))
 
-__Akbaritabar, Aliakbar__ (2020) _Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations_, arXiv ([access](https://arxiv.org/abs/2008.08355)), (*Published in Quantitative Science Studies*)
+__Akbaritabar, Aliakbar__ (2020) _Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations_, arXiv ([access](https://arxiv.org/abs/2008.08355)), (*Published in Quantitative Science Studies: [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131)*)
 
 __Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Applying Crossref and Unpaywall information to identify gold, hidden gold, hybrid and delayed Open Access publications in the KB corpus._,  SocArXiv ([access](https://doi.org/10.31235/osf.io/sdzft))
 
