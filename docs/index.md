@@ -28,6 +28,8 @@ Click on links to open each year's presentations.
 
 <!-- pdfs here -->
 
+[./2022/20220221_MichiganUni_dask_duckdb_dbeaver_tutorial.pdf](./2022.html)
+
 [./2021/20211214_MPIDR_DCoDe_informal_gathering_quiz.pdf](./2021.html)
 
 [./2021/20211125_ICM_Paris_Akbaritabar_Zhao_Zagheni_Internal_vs_international_scholarly_mobility.pdf](./2021.html)
