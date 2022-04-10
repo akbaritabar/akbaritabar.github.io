@@ -28,6 +28,10 @@ Click on links to open each year's presentations.
 
 <!-- pdfs here -->
 
+[./2022/20220408_PAA2022_Internal_vs_international_scholarly_mobility_poster.pdf](./2022.html)
+
+[./2022/20220408_PAA2022_Internal_vs_international_scholarly_mobility_flash_talk.pdf](./2022.html)
+
 [./2022/20220221_MichiganUni_dask_duckdb_dbeaver_tutorial.pdf](./2022.html)
 
 [./2021/20211214_MPIDR_DCoDe_informal_gathering_quiz.pdf](./2021.html)

@@ -164,6 +164,10 @@ __Akbaritabar, Aliakbar__; Saei, Ali; Khodaei, Ebrahim (2011) _Youth Responsibil
 
 ### Conferences presentations
 
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, 2022 Annual Meeting Population Association of America ([PAA2022](https://www.populationassociation.org/paa2022/)), Flash talk, 08/04/2022
+
+Abdi Nur, Aasli ; __Akbaritabar, Aliakbar__; Vignau-Loría, María ; Coolman, Noah ; Fan, Xinguang; Curran, Sara  (2022) _The Diffusion of Scientific Knowledge on Family Planning Behavior: When, Where, and by Whom Is Research Being Done?_, 2022 Annual Meeting Population Association of America ([PAA2022](https://www.populationassociation.org/paa2022/)), poster presentation, 07/04/2022
+
 __Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, International Union for the Scientific Study of Population (IUSSP), International Population Conference (IPC2021), 06/12/2021 ([access](https://ipc2021.popconf.org/abstracts/211016))
 
 Abdi Nur, Aasli ; __Akbaritabar, Aliakbar__; Vignau-Loría, María ; Coolman, Noah ; Fan, Xinguang; Curran, Sara  (2021) _The diffusion of scientific knowledge on family planning behavior: when, where, how and by whom is research being done?_, International Union for the Scientific Study of Population (IUSSP), International Population Conference (IPC2021), poster presentation, 06/12/2021 ([access](https://ipc2021.popconf.org/abstracts/211073))
@@ -205,7 +209,7 @@ Jabbareh, Mohammad Amin; __Akbaritabar, Aliakbar__; Abdolah Zade, Amir (2010) _S
 ## Academic service
 ### Teaching activities
 
-2022, Using bibliometric data in demographic research, together with Xinyi Zhao, Population Association of America 2022 Annual Meeting ([PAA2022](https://www.populationassociation.org/paa2022/paa2022-related-events/2022-workshops)), Atlanta, Georgia, USA
+2022 [cancelled], Using bibliometric data in demographic research, together with Xinyi Zhao, Population Association of America 2022 Annual Meeting ([PAA2022](https://www.populationassociation.org/paa2022/paa2022-related-events/2022-workshops)), Atlanta, Georgia, USA
 
 2022, Guest lecture on parallelized analysis of bibliometric data using Python and SQL, invited by Misha Teplitskiy, School of Information, University of Michigan (online), ([video](https://youtu.be/pYDVrBcIuYI))
 
