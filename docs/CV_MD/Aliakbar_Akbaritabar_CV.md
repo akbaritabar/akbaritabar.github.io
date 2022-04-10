@@ -288,6 +288,8 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 
 ### Membership of scientific societies
 
+2022 - 2024, European Association for Population Studies (EAPS)
+
 2020 - 2021, Member of International Network for Social Network Analysis (INSNA)
 
 2015 - 2016, Member of International Network for Social Network Analysis (INSNA)
