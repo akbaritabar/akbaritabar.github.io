@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Ali" />
+
+
+<title>A short guide to writing and version control with R markdown, git and GitHub!</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">A short guide to writing and version control with R markdown, git and GitHub!</h1>
+<h3 class="subtitle">Near one year of my data analysis and writing projects with R markdown and Git</h3>
+<h4 class="author">Ali</h4>
+<h4 class="date">01-11-2017</h4>
+
+</div>
+
+
+<p>This post might not include much of R code or data analysis, but believe me, behind the scenes, it can be one of the most useful things I am going to write!</p>
+<p>As a social scientist and sociologist by near 13 years of training, I have mostly been in contact with people who think social science gang are not <strong>Geek</strong> or <strong>Nerd</strong> material! Why is that so? Why there is a common sense that as a social scientist as long as you know how to turn on a computer and use Microsoft Word and Excel along with one or two statistical analysis software packages, e.g., SPSS, Lisrel, STATA, you are good to go! And in case you happen to be able to do some more stuff with computers you can be gazed at or called with names, like geek!</p>
+<p>Isn’t technology supposed to ease our lives? To facilitate our thinking and research process in a way that we can be focused on the main job we want to do and not on <em>how to do it?!</em> Don’t we deserve not to lose time on <em>crashing software packages</em> and waiting for them to do what we want them in <em>a timely manner</em>!?</p>
+<p>Let me head back to the main goal of this post. Computer scientists and software developers have been using version control systems for a long time! And I can swear they have been living a much easier life because of this usage!</p>
+<p>Imagine a hypothetical scenario in which you have been working on a document file for a while, doing some corrections, revisions, modifications (both addition and removals). You have shared this document with a colleague or your supervisor too, and either they have modified parts or gave you comments on what to change.</p>
+<p>Now looking at the folder you have been using for that project, you might have couple of, or even a dozen of versions of that file, maybe you have experienced putting names like <em>final report</em>, and then <em>final report 2</em>, or <em>final final report</em>. Then if I ask: can you please tell me what has changed from one of these versions to the other, as it happens to me, you must probably have no idea what has changed, and in case you are using comparison tools like <em>Microsoft Word</em>’s review pane, you will be able to have a view to changes. But most probably you won’t have a personal note on what did you do and why did you do that between those two versions.</p>
+<p>So in case you need to go back in time and correct a mistake that has happened somewhere along the way, or a distortion in the direction or path that might have been better to go right instead of left at one point, you can have trouble finding the version which points to that time to take it and modify it based on the new insight, suggestion, comment or thought you have come across.</p>
+<p>That is what <em>version control</em> systems and technologies are for. <strong>To help you be in control of what is happening, why it is happening</strong>, and explore different directions along the way, in case of new ideas, just give it a shot and see what can be the results of that new idea. If you were satisfied with what you find, keep it, if not, just throw it away and keep going on with your previous line of work (in case of academic writing, with previous version of your report!).</p>
+<p>OK! If the above description was enough, watch this <strong>20 min</strong> video on simple steps where to start with these tools to live an easier academic life!</p>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RXDSNyKKZ-Q" frameborder="0" allowfullscreen>
+</iframe>
+</div>
+<p><br></p>
+<p><strong>Briefly, for me “Git” is like a huge “Ctrl + Z” that allows me to go back in time to whatever extent that I want and correct my mistakes, isn’t that amazing?</strong></p>
+<p><br></p>
+<div id="links-for-further-learning" class="section level2">
+<h2>Links for further learning</h2>
+<ul>
+<li><a href="https://learnxinyminutes.com/docs/markdown/">Markdown in 20 min</a></li>
+<li><a href="http://rmarkdown.rstudio.com/formats.html">Learn R markdown formats</a></li>
+<li><a href="http://rogerdudler.github.io/git-guide/">Learn Git</a></li>
+<li><a href="https://github.com/akbaritabar/writing_with_git">Github repository of this post</a></li>
+<li><a href="http://plain-text.co/index.html#introduction">Kieran Healy’s nice to read article on things social science graduate students and researchers need to consider</a></li>
+</ul>
+</div>
+<div id="advanced-topics-video-rmd-presentation-git-branches-and-stashing" class="section level2">
+<h2>Advanced topics video: RMD presentation, git branches and stashing!</h2>
+<p>In this video I have tried to touch some more advanced topics which were briefly mentioned in 1<sup>st</sup> video, including how to add R code chunks and prepare the data and do analysis on it, how to use Git branches and where does stashing come in handy?</p>
+<p><strong>Note</strong>: If you want to <strong>skip some parts</strong> of the video and go right on the subject that interests you use this time/subject index:</p>
+<ul>
+<li>1st video topics reviewed: <strong>1:05</strong></li>
+<li>2nd vide topics: <strong>2:14</strong>
+<ul>
+<li>Clone a git repository: <strong>4:00</strong></li>
+<li>A real example of R Markdown with R code chunks: <strong>10:42</strong></li>
+<li>How to go from RMD report to presentation file: <strong>20:28</strong></li>
+<li>Using git branches: <strong>28:24</strong></li>
+<li>Using git stashing: <strong>44:47</strong></li>
+<li>Review and links to further learning: <strong>56:40</strong></li>
+</ul></li>
+</ul>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2T2s8_bKiQ" frameborder="0" allowfullscreen>
+</iframe>
+</div>
+<p><br></p>
+</div>
+<div id="links-mentioned-in-2nd-video-advanced-topics" class="section level2">
+<h2>Links mentioned in 2nd video (advanced topics)</h2>
+<ul>
+<li><a href="http://rmarkdown.rstudio.com/formats.html">Learn R markdown formats</a></li>
+<li><a href="https://github.com/akbaritabar/writing_with_git_advanced/raw/master/rmarkdown_2nd_video_subjects_presentation.pdf">Presentation file of topics in 2nd video</a></li>
+<li><a href="https://github.com/akbaritabar/writing_with_git_advanced">Github repository of 2nd video</a></li>
+</ul>
+<p><strong>Question?!</strong></p>
+<p>Drop me a line at <em>akbaritabar [at] gmail.com</em></p>
+<!-- From here add points on how to use git and github, and cut some parts of above text to be shorter and more straight to the point! -->
+<!-- points to cover: -->
+<!-- - write every sentence in one line, rmarkdown supports that not to put paragraph unless you add an empty line, so keep using enter! -->
+<!-- - use two computers to work on the same project with git, (not neccessarily to have another person, but you on different machines) -->
+<!-- - maybe you can turn this post into introduction to rmarkown and git and github and how amazing they match and branches of git which let you explore ideas and how can cooperate with people who prefer other output fomats like word ... -->
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>out_of_memory_ETL</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="parallelized-and-out-of-memory-data-analysis-using-dask-in-python-and-duckdb-and-dbeaver-in-sql" class="section level1">
+<h1>Parallelized and out of memory data analysis using Dask in Python and DuckDB and DBeaver in SQL</h1>
+<div id="using-example-of-publicly-accessible-orcid-2019-xml-files" class="section level2">
+<h2>Using example of publicly accessible ORCID 2019 XML files</h2>
+</div>
+<div id="outline" class="section level2">
+<h2>Outline</h2>
+<p>I am going to briefly go over these topics:</p>
+<ol style="list-style-type: decimal">
+<li>Why do we need to learn about parallelization and out of memory computation?</li>
+<li>Data preparation using Dask in Python</li>
+<li>Further processing and analyzing data with SQL, using DuckDB and DBeaver</li>
+</ol>
+<p><strong>All files and scripts described here are publicly accessible under GPL-3.0 License on GitHub: <a href="https://github.com/akbaritabar/dask-duckdb-dbeaver">https://github.com/akbaritabar/dask-duckdb-dbeaver</a></strong></p>
+<div id="why-do-we-need-to-learn-more-about-parallelization-and-out-of-memory-computation" class="section level3">
+<h3>1. Why do we need to learn more about parallelization and out of memory computation?</h3>
+<p>First thing that might come to mind is “<em>why do I need to bother with out of memory computing and parallelization when there is so much RAM available these days?</em>”</p>
+<p>My answer would be with the increase in size of data (e.g., big data) and also embarrassingly repetitive tasks that are independent from each other, it is pretty necessary to learn how to do things in parallel. Because processing multiple data files simultaneously simply saves a lot of time. Hence, spending some time learning about parallelization would pay back and also it would help handling data that does not fit into machine’s memory by analyzing it in chunks and in parallel.</p>
+<p>In late 2018, I needed to process thousands of files and while they were separate from each other, I did not know how to do that in parallel. My go to method (e.g., in R or Python) was to write functions that process the data, then feed them to a for loop and add error handling and exceptions and let it run for a while to finish processing those files. In late 2019, when I faced the same challenge, I searched more before using my previous approach and came across multiple solutions discussing parallelization. I can imagine that for those with computer science and programming background in graduate school, this is a pretty basic subject as they learn about it pretty early. For social scientists, this might not be thought at all. So, investing a couple of weeks and few months, I learned how to process multiple files simultaneously and in parallel. This saved me so much time. I will show an example below.</p>
+<p>As a practical example, I am going to use ORCID 2019 researcher profiles that are publicly available here: <a href="https://orcid.figshare.com/articles/dataset/ORCID_Public_Data_File_2019/9988322">https://orcid.figshare.com/articles/dataset/ORCID_Public_Data_File_2019/9988322</a></p>
+<p>You can download the zipped file named “ORCID_2019_summaries.tar.gz”, which is 10.76GB. Be patient for it to be unzipped since it includes one XML file per ORCID profile and will take a lot of time to unzip. Here I will show you only one folder with <code>500</code> XML files, but the same method and script below will allow you to process all of the 13 million profiles (you might need to do some error handling of course).</p>
+</div>
+<div id="data-preparation-using-dask-in-python" class="section level3">
+<h3>2. Data preparation using Dask in Python</h3>
+<p><a href="https://dask.org/"><strong>Dask</strong></a> is a Python library that allows you to use familiar data structures like Pandas data frame and Numpy array and process them in parallel. In addition, Dask comes with a set of functionalities that are very much helpful to parse unstructured data (i.e., text) using <a href="https://docs.dask.org/en/latest/bag.html"><em>bag</em></a> or to parallelize custom Python code through using <a href="https://docs.dask.org/en/latest/futures.html"><em>futures</em></a> or <a href="https://docs.dask.org/en/latest/delayed.html"><em>delayed</em></a> actions.</p>
+<p>This was <a href="https://www.google.de/books/edition/Data_Science_with_Python_and_Dask/KTkzEAAAQBAJ?hl=en&amp;gbpv=0">the book</a> that walked me step by step to understand how Dask works and adopt it to my own use-case. Of course many videos and tutorials by the Dask team in (<a href="https://examples.dask.org/applications/embarrassingly-parallel.html">https://examples.dask.org/applications/embarrassingly-parallel.html</a> make sure to see best practices <a href="https://docs.dask.org/en/stable/best-practices.html">https://docs.dask.org/en/stable/best-practices.html</a>) was helpful as well.</p>
+<p>Using above example, imagine having to parse millions of XML files, filter them, convert them into a tabular or structured form and export them into a file to analyse further. Here, each of those XML files are independent from each other and if you try to do them in a linear fashion, they will be processed in order, while you can process multiple of them simultaneously in parallel and at the end join the results to construct a big table or data frame (or array if you wish).</p>
+<div id="example-of-parsing-500-xml-files-using-dask-delayed" class="section level4">
+<h4>Example of parsing 500 XML files using Dask delayed</h4>
+<p>Here I have taken only part of one XML file for a researcher named “Paul Bilsborrow” (see here: <a href="https://orcid.org/0000-0002-6840-9000" class="uri">https://orcid.org/0000-0002-6840-9000</a>). The part I have chosen to show includes the profile details such as ORCID id, first and last names and when the profile was created (2017) or updated:</p>
+<pre class="xml"><code>    &lt;person:person path=&quot;/0000-0002-6840-9000/person&quot;&gt;
+        &lt;person:name visibility=&quot;public&quot; path=&quot;0000-0002-6840-9000&quot;&gt;
+            &lt;common:created-date&gt;2017-10-10T09:04:00.232Z&lt;/common:created-date&gt;
+            &lt;common:last-modified-date&gt;2017-10-10T09:04:00.464Z&lt;/common:last-modified-date&gt;
+            &lt;personal-details:given-names&gt;Paul&lt;/personal-details:given-names&gt;
+            &lt;personal-details:family-name&gt;Bilsborrow&lt;/personal-details:family-name&gt;
+        &lt;/person:name&gt;
+        &lt;other-name:other-names path=&quot;/0000-0002-6840-9000/other-names&quot;/&gt;
+        &lt;researcher-url:researcher-urls path=&quot;/0000-0002-6840-9000/researcher-urls&quot;/&gt;
+        &lt;email:emails path=&quot;/0000-0002-6840-9000/email&quot;/&gt;
+        &lt;address:addresses path=&quot;/0000-0002-6840-9000/address&quot;/&gt;
+        &lt;keyword:keywords path=&quot;/0000-0002-6840-9000/keywords&quot;/&gt;
+        &lt;external-identifier:external-identifiers path=&quot;/0000-0002-6840-9000/external-identifiers&quot;/&gt;
+    &lt;/person:person&gt;
+</code></pre>
+<p>All other <code>499</code> files have a section that includes these information. Below, I have written a brief Python script that takes the XML file, parses it with BeautifulSoup library, extracts 3 pieces of information (ORCID ID, last name, given name) and when it finishes with all these files, it exports the results as one table. <strong>The most important thing here is that since my machine has 4 CPU cores, it assigns 2 threads per core and processes 8 files at a time instead of one</strong>.</p>
+<pre class="python"><code># Reading all XML files in parallel, parsing and taking info we want
+import dask.dataframe as dd
+import pandas as pd
+from bs4 import BeautifulSoup  # to read XML, you need to install &quot;lxml&quot; (use: &quot;pip install lxml&quot;)
+import time
+import glob
+import os
+# using dask delayed to take my custom function below, but run it in parallel
+from dask import delayed
+from dask.distributed import Client, progress
+# here you can define number of workers to be made for parallel processing (each worker will handle one file/process)
+# like this: `client = Client(n_workers=100, threads_per_worker=1)`
+# I am leaving it empty to have workers equal to the number of cores on my machine
+client = Client()
+# having a look at dask dashboard which shows progress of parallel tasks (see dask documentation on it and a photo below)
+client
+</code></pre>
+<pre class="python"><code># ============================
+#### Parsing ORCID 2019 XML files ####
+# ============================
+
+# XMLs from: https://orcid.figshare.com/articles/dataset/ORCID_Public_Data_File_2019/9988322
+
+# orcid XML files (you need to change to your download directory)
+data_dir = os.path.join(&#39;/&#39;, &#39;XML_files&#39;)
+# results
+res_dir = os.path.join(&#39;/&#39;, &#39;output&#39;)
+
+# ============================
+#### function to take scholar&#39;s info ####
+# ============================
+# find all author first/last names and orcid IDs
+def orcid_files(xml2use):
+    try:
+        aut_id = xml2use.find(&quot;common:path&quot;).text
+    except AttributeError:
+        aut_id = &#39;Problematic_ORCIDid&#39;
+    try:
+        aut_fname = xml2use.find(&quot;personal-details:given-names&quot;).text
+    except AttributeError:
+        aut_fname = &#39;Problematic_fname&#39;            
+    try:
+        aut_lname = xml2use.find(&quot;personal-details:family-name&quot;).text
+    except AttributeError:
+        aut_lname = &#39;Problematic_lname&#39;            
+    aut_dt = pd.DataFrame({&quot;orcid_id&quot;:aut_id, &quot;first_name&quot;: aut_fname, &quot;last_name&quot;: aut_lname}, index=[0])
+    return aut_dt
+
+# ============================
+#### Function with dask delay ####
+# ============================
+def load_parse_delayed(filedir):
+    t1 = time.time()
+    print(&#39;Time is now: &#39;, t1)
+    # lists all XML files in the sub-directories of data_dir
+    files = sorted(glob.glob(os.path.join(filedir, &#39;**&#39;, &#39;*.xml&#39;), recursive=True))
+    output_dfs = []
+    for file2use in files:
+        # &quot;delayed&quot; tells dask what is the step to be done, but does not do it yet, dask scheduler manages these to be done in parallel
+        data = delayed(open)(file2use, encoding=&quot;utf8&quot;)
+        data_read = delayed(BeautifulSoup)(data, features=&quot;xml&quot;)
+        data_normalized = delayed(orcid_files)(data_read)
+        output_dfs.append(data_normalized)
+    dask_dds = dd.from_delayed(output_dfs).repartition(partition_size=&quot;100MB&quot;)
+    dask_dds.to_parquet(path=os.path.join(res_dir),
+                        engine=&#39;pyarrow&#39;, write_index=False)
+    print(&#39;Dask data frame built and wrote to parquet!&#39;)
+    t = time.time()-t1
+    print(&quot;Process took this much minutes:&quot;, t/60)
+    return None
+
+
+# apply it
+parse_files = load_parse_delayed(filedir=data_dir)
+</code></pre>
+<pre><code>Time is now:  1638045415.723347
+Dask data frame built and wrote to parquet!
+Process took this much minutes: 0.5291663845380147</code></pre>
+<p>As you can see from the above, it took my machine <code>52</code> seconds to finish reading those 500 files, parsing and extracting the information.</p>
+<pre class="python"><code># when you are finished, it is good practice to close your client with
+client.close()</code></pre>
+<p>Here I am adding a screenshot of the Dask dashboard that is very useful in showing you the progress of tasks and finding out which steps could be bottlenecks of the process. Each row in the <code>task stream</code> tab (top right in the photo) shows one parallel process and different steps (e.g., reading the file, parsing it as XML, taking the information I need and exporting it).</p>
+<div class="figure">
+<img src="../images/dask_dashboard.png" alt="" />
+<p class="caption">Dask dashboard</p>
+</div>
+</div>
+</div>
+<div id="further-processing-and-analysing-data-with-sql-using-duckdb-and-dbeaver" class="section level3">
+<h3>3. Further processing and analysing data with SQL, using DuckDB and DBeaver</h3>
+<p>Now that we are finished pre-processing our XML files (of course parsing all of ORCID snapshot will take longer depending on the machine you use and computing power), we can go ahead and use the data in our analysis.</p>
+<p>Dask is really powerful in analysis too and dask data frame is very similar to Pandas but it can read files that do not fit into the memory. It is much faster if you use file formats that allow chunking (e.g., parquet which is a column based format, see more: <a href="https://en.wikipedia.org/wiki/Apache_Parquet">https://en.wikipedia.org/wiki/Apache_Parquet</a>).</p>
+<p>In my case, exported files usually are about 100GB (more or less) and in general querying them in Python with or without Dask, takes long. I was introduced by a colleague (Thanks Tom) to <a href="https://duckdb.org/">DuckDB</a> which is amazingly fast in handling large data files and works extremely fast with parquet format.</p>
+<p>It gives multiple interfaces (e.g., to connect and use it in Python, R or other languages) and I very much liked their command line interface that allows using <code>SQL</code> for your queries. This allows me (by keeping a coherent data structure and file/column naming) to use the same SQL scripts I have written before on the newly parsed data.</p>
+<p>To use DuckDB’s CLI in a more structured way, I turned to <a href="https://dbeaver.io/">DBeaver</a> which is an open source database manager tool. I just needed to establish a connection as DuckDB (DBeaver comes with the needed drivers, you need to create an empty <code>.db</code> (database) file, which you can do by downloading the CLI, calling e.g., <code>duckdb.exe mydb.db</code> for windows using CMD, or <code>./duckdb mydb.db</code> on mac/linux terminal). First I am using the pragma keywords to tell DuckDB how much RAM and parallel threads it can use and afterwards create views to my large parquet files (see example SQL script below) and then run my SQL scripts as usual.</p>
+<pre class="sql"><code>
+-- to increase memory and use multiple cores/threads
+PRAGMA memory_limit=&#39;20GB&#39;;
+PRAGMA threads=10;
+
+--- Examples on how to make a view and run some brief queries on our ORCID results
+-- creating a view to the parqut file
+CREATE VIEW ORCID AS SELECT * FROM parquet_scan(&#39;./output/*.parquet&#39;);
+
+-- looking at the first 100 rows
+SELECT * from orcid limit 100;
+
+-- checking count of distinct ORCID IDs, first and last names
+SELECT count(*), count(DISTINCT orcid_id), COUNT(DISTINCT first_name), COUNT(DISTINCT last_name) from main.orcid;
+</code></pre>
+</div>
+<div id="dbeavers-interface-with-result-of-my-first-query-above" class="section level3">
+<h3>DBeaver’s interface with result of my first query above</h3>
+<div class="figure">
+<img src="../images/DBeaver1.png" alt="" />
+<p class="caption">DBeaver’s interface with result of my first query above</p>
+</div>
+</div>
+<div id="dbeavers-interface-with-result-of-my-second-query-above" class="section level3">
+<h3>DBeaver’s interface with result of my second query above</h3>
+<div class="figure">
+<img src="../images/DBeaver2.png" alt="" />
+<p class="caption">DBeaver’s interface with result of my second query above</p>
+</div>
+<p>I hope this would be helpful to give you a head-start on thinking about parallel processing for your own use-cases. Let me know how it goes!</p>
+<pre class="python"><code></code></pre>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

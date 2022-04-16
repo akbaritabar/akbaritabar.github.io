@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Ali" />
+
+
+<title>How to use a Wikidata full json dump, requirements, steps and script</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+
+<div id="header">
+
+
+
+
+<h1 class="title toc-ignore">How to use a Wikidata full json dump, requirements, steps and script</h1>
+<h4 class="author">Ali</h4>
+<h4 class="date">11-05-2019</h4>
+
+</div>
+
+
+<div id="intro" class="section level2">
+<h2>Intro</h2>
+<p>Recently I had a task to take higher education organizations (e.g., universities and research institutes) and obtain their name, country, city, address and geographical coordinates to be confronted with Web of Science information. It was similar to what I did in <a href="./herss_world_map_flexdashboard.html"><strong>Key Actors in Higher Education Research and Science Studies (HERSS), a Flexdashobrd developed in R</strong></a>. To tackle the task, I downloaded and used a full data dump from Wikidata (see <a href="https://www.wikidata.org/wiki/Wikidata:Database_download">here</a> for info on their database downloads and <a href="https://www.mediawiki.org/wiki/Wikibase/DataModel">here</a> for description of their data model/structure).</p>
+<p>I searched a lot online to find best practices on how to handle this relatively large compressed file (33 GB with close to 57 million items, each line is a valid json for an item with all its properties as dump of <em>27th March 2019</em>) and read and use it in reasonable time. Here I am documenting my experience as a “pay back” to the online community I am always learning from. Hopefully someone would read and benefit from this (or future me will be able to replicate the steps, if needed).</p>
+<p><br></p>
+<div id="you-might-ask-what-is-the-use-cases-of-wikidata-information" class="section level4">
+<h4>You might ask, what is the use-cases of Wikidata information?</h4>
+<p><br></p>
+<p>I would suggest you to have a look at their statistics page to see the type of information you can get. As one example, Wikidata has more than 18 million <em>scientific publications</em> indexed (18,771,018, equal to <a href="https://www.wikidata.org/wiki/Wikidata:Statistics">42.4% of all content</a>) which includes different meta-data from title, publication date, author names, source, DOI, pubmed ID and the like (see here for two example articles published in <a href="https://www.wikidata.org/wiki/Q45171445">1986</a> and <a href="https://www.wikidata.org/wiki/Q45171565">2014</a>).</p>
+<p>They have a nicely prepared and documented <a href="https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial">SPARQL service</a> with many exemplar queries that you can see and use. But in case you need to query a large portion of their data or do it repeatedly, you would be better off to read on. As I did, you might prefer to download and parse a full dump of their data.</p>
+<p>I have adapted and modified a short Python script which builds a connection to the <code>.bz2</code> file without decompressing it, reads it line by line and parses it to valid <code>json</code> objects. You then need to subset it to the information of your interest.</p>
+<p><br></p>
+</div>
+</div>
+<div id="main-requirements" class="section level2">
+<h2>Main requirements</h2>
+<ol style="list-style-type: decimal">
+<li>You need to download a full dump from here: <a href="https://dumps.wikimedia.org/wikidatawiki/entities/">https://dumps.wikimedia.org/wikidatawiki/entities/</a>. Following guide uses the <code>.bz2</code> json version for which the latest dump is named as “<code>latest-all.json.bz2</code>”.</li>
+<li>Although following these steps doesn’t require you to know how to code in <code>Python</code>, but you need to have Python 3 installed on your machine
+<ul>
+<li>I would suggest to install <code>Anaconda</code> distribution from here: <a href="https://www.anaconda.com/distribution/" class="uri">https://www.anaconda.com/distribution/</a></li>
+</ul></li>
+<li>You need to be familiar with Wikidata data structure, specifically <code>items</code> and their <code>properties</code>
+<ul>
+<li>In this link you can find a list of all Wikidata properties you might be interested in: <a href="https://www.wikidata.org/wiki/Wikidata:List_of_properties" class="uri">https://www.wikidata.org/wiki/Wikidata:List_of_properties</a></li>
+<li>As some examples: <strong>main city or region</strong> is P131, <strong>Country name</strong> is P17, or <strong>articles DOI</strong> is P356</li>
+</ul></li>
+</ol>
+<p><br></p>
+</div>
+<div id="steps-to-parse-the-full-dump" class="section level2">
+<h2>Steps to parse the full dump</h2>
+<p>In order to use the dump you downloaded and obtain the information you want, follow these steps:</p>
+<ol style="list-style-type: decimal">
+<li>Copy the local URL where you save the full Wikidata dump (33 GB in size) <code>\your_local_directory\wikidata\</code> the file named <code>latest-all.json.bz2</code></li>
+<li>The script below is building a connection to the <code>.bz2</code> file without decompressing it. It reads it line by line and extracts information requested (based on property names discussed above)</li>
+<li>Open my sample Python script (copied below) in editor of your choice (if you code in Python, you don’t need the next steps, modify it the way you want and export your intended data). It is a script I have adapted and modified with others’ helps (thanks to Roland, Arno and Otmane) from <a href="https://www.reddit.com/r/LanguageTechnology/comments/7wc2oi/does_anyone_know_a_good_python_library_code/dtzsh2j/">here</a></li>
+<li>Replace the property names (P followed by a number) with the ones you are interested in
+<ul>
+<li>In the line starting with “<code>if pydash.has(record, 'claims.P625'):</code>” I am defining that if the item currently being read doesn’t have property P625 (which is geographical coordinates) then do not process it and skip to the next item</li>
+<li>Since I know that in Wikidata structure of items and claims (which is where properties are included) my property of interest is located in a nested list like “<code>claims.P625</code>” and it can have more than one value for each item which is saved as a list, so I am passing <code>latitude = pydash.get(record, 'claims.P625[0].mainsnak.datavalue.value.latitude')</code> to obtain only the first element (designated by [0])</li>
+<li>For the main item information like English label, English description, I am passing <code>english_label = pydash.get(record, 'labels.en.value')</code> which only takes the <strong>en</strong> as label, while if you are interested to take labels in other languages, you need to replace it with two letter language codes used in Wikidata e.g. <strong>de</strong>, <strong>es</strong> and <strong>it</strong>.</li>
+<li>See here for an example of how the underlying data in one json per line looks like _<a href="https://www.mediawiki.org/wiki/Wikibase/DataModel/JSON#Example_" class="uri">https://www.mediawiki.org/wiki/Wikibase/DataModel/JSON#Example_</a></li>
+<li>You will need to modify the line <code>df_record_all = pd.DataFrame(columns=['id', 'type', 'english_label', 'longitude', 'latitude', 'english_desc'])</code> which is building an empty table to save the data. You need to provide/modify column names based on the data table you intend to build/gather</li>
+</ul></li>
+<li>To run the script, you need to open a command prompt (i.e. Mac and Linux terminal or on Windows I would suggest using <code>Anaconda prompt</code> which is installed following step 2 in main requirements, or instead, <a href="https://cmder.net/"><code>cmder</code></a> which is the only command prompt GUI in Windows that I have found to be working the way I expect it. You will need to call it while giving two arguments, where the Python script is located, and where the <code>.bz2</code> file is accessible, i.e. <code>python.exe H:\Documents\wikidata.py "\your_local_directory\wikidata\latest-all.json.bz2"</code>
+<ul>
+<li>In case you are not using <code>Anaconda prompt</code>, then you will need to change your directory to where <code>python.exe</code> is installed and run the above command from there. (on Mac and Linux of course you don’t need to change to Python’s installation directory, it will suffice to call python (without <code>.exe</code>) and put the dump URL after it)</li>
+</ul></li>
+<li>Let the script run (it might take from few hours to few days since there are 57 million items in the dump depending on the number of properties you extract and how frequent they exist in items)</li>
+<li>It will export a CSV file in the “<code>extracted</code>” folder that you can use
+<ul>
+<li>While running I have asked it to print the name of current item being processed, and once an output file is exported, it says <code>CSV exported</code></li>
+<li>It will generate a CSV of every 5000 items (not to lose the progress in case something goes wrong and keep output files small/manageable). When the process finishes (and in case the number of items processed was not dividable to 5000) it exports a final CSV including the rest of results named as “final_csv_till_…” and prints a message <code>All items finished, final CSV exported</code></li>
+</ul></li>
+</ol>
+<p><br></p>
+</div>
+<div id="sample-python-script" class="section level2">
+<h2>Sample Python script</h2>
+<p>My sample python script that you can either use based on steps described above, or modify as you wish and run on the dump file. It is a script I have adapted and modified with others’ helps (thanks to Roland, Arno and Otmane) from <a href="https://www.reddit.com/r/LanguageTechnology/comments/7wc2oi/does_anyone_know_a_good_python_library_code/dtzsh2j/">here</a></p>
+<pre class="python"><code>#!/usr/bin/env python3
+
+&quot;&quot;&quot;Get Wikidata dump records as a JSON stream (one JSON object per line)&quot;&quot;&quot;
+# Modified script taken from this link: &quot;https://www.reddit.com/r/LanguageTechnology/comments/7wc2oi/does_anyone_know_a_good_python_library_code/dtzsh2j/&quot;
+
+import bz2
+import json
+import pandas as pd
+import pydash
+
+i = 0
+# an empty dataframe which will save items information
+# you need to modify the columns in this data frame to save your modified data
+df_record_all = pd.DataFrame(columns=[&#39;id&#39;, &#39;type&#39;, &#39;english_label&#39;, &#39;longitude&#39;, &#39;latitude&#39;, &#39;english_desc&#39;])
+
+def wikidata(filename):
+    with bz2.open(filename, mode=&#39;rt&#39;) as f:
+        f.read(2) # skip first two bytes: &quot;{\n&quot;
+        for line in f:
+            try:
+                yield json.loads(line.rstrip(&#39;,\n&#39;))
+            except json.decoder.JSONDecodeError:
+                continue
+
+if __name__ == &#39;__main__&#39;:
+    import argparse
+    parser = argparse.ArgumentParser(
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+        description=__doc__
+    )
+    parser.add_argument(
+        &#39;dumpfile&#39;,
+        help=(
+            &#39;a Wikidata dumpfile from: &#39;
+            &#39;https://dumps.wikimedia.org/wikidatawiki/entities/&#39;
+            &#39;latest-all.json.bz2&#39;
+        )
+    )
+    args = parser.parse_args()
+    for record in wikidata(args.dumpfile):
+        # only extract items with geographical coordinates (P625)
+        if pydash.has(record, &#39;claims.P625&#39;):        
+            print(&#39;i = &#39;+str(i)+&#39; item &#39;+record[&#39;id&#39;]+&#39;  started!&#39;+&#39;\n&#39;)
+            latitude = pydash.get(record, &#39;claims.P625[0].mainsnak.datavalue.value.latitude&#39;)
+            longitude = pydash.get(record, &#39;claims.P625[0].mainsnak.datavalue.value.longitude&#39;)
+            english_label = pydash.get(record, &#39;labels.en.value&#39;)
+            item_id = pydash.get(record, &#39;id&#39;)
+            item_type = pydash.get(record, &#39;type&#39;)
+            english_desc = pydash.get(record, &#39;descriptions.en.value&#39;)
+            df_record = pd.DataFrame({&#39;id&#39;: item_id, &#39;type&#39;: item_type, &#39;english_label&#39;: english_label, &#39;longitude&#39;: longitude, &#39;latitude&#39;: latitude, &#39;english_desc&#39;: english_desc}, index=[i])
+            df_record_all = df_record_all.append(df_record, ignore_index=True)
+            i += 1
+            print(i)
+            if (i % 5000 == 0):
+                pd.DataFrame.to_csv(df_record_all, path_or_buf=&#39;\\wikidata\\extracted\\till_&#39;+record[&#39;id&#39;]+&#39;_item.csv&#39;)
+                print(&#39;i = &#39;+str(i)+&#39; item &#39;+record[&#39;id&#39;]+&#39;  Done!&#39;)
+                print(&#39;CSV exported&#39;)
+                df_record_all = pd.DataFrame(columns=[&#39;id&#39;, &#39;type&#39;, &#39;english_label&#39;, &#39;longitude&#39;, &#39;latitude&#39;, &#39;english_desc&#39;])
+            else:
+                continue
+    pd.DataFrame.to_csv(df_record_all, path_or_buf=&#39;\\wikidata\\extracted\\final_csv_till_&#39;+record[&#39;id&#39;]+&#39;_item.csv&#39;)
+    print(&#39;i = &#39;+str(i)+&#39; item &#39;+record[&#39;id&#39;]+&#39;  Done!&#39;)
+    print(&#39;All items finished, final CSV exported!&#39;)
+</code></pre>
+<p><br></p>
+</div>
+<div id="extensions-other-software-platforms-r-ruby-perl" class="section level2">
+<h2>Extensions &amp; other software platforms, R, Ruby, Perl</h2>
+<p>In case you modified the script above to be more efficient or less prone to errors, or if you can make R, Ruby, Perl or other languages work with the above <code>.bz2</code> file without needing to decompress it, in a more efficient fashion, I will be very much interested to learn about it. Please do let me know. So far my efforts to replicate the above in R was not successful.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Ali" />
+
+
+<title>Google Scholar Shiny Application</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+
+
+
+<h1 class="title toc-ignore">Google Scholar Shiny Application</h1>
+<h4 class="author">Ali</h4>
+<h4 class="date">21-09-2017</h4>
+
+</div>
+
+
+<p>A brief application to work with google scholar and show coauthorship network <a href="https://www.youtube.com/watch?v=NZ5WdBnZ-CE">(see video intro here)</a></p>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZ5WdBnZ-CE?rel=0" frameborder="0" allowfullscreen>
+</iframe>
+</div>
+<p><br></p>
+<ul>
+<li>In order to see coauthorship networks graph, copy link to google scholar profile of author <strong>(example: “<a href="https://scholar.google.com/citations?user=zufgVroAAAAJ&amp;hl=en" class="uri">https://scholar.google.com/citations?user=zufgVroAAAAJ&amp;hl=en</a>”)</strong> and put it in the text box provided in the application UI, you will see coauthorship network in seconds</li>
+<li>This shiny application uses scholar package in R to exctract data from google scholar</li>
+<li>As always, I owe most parts of the code and what I wrote to <strong>stackoverflow</strong> and <strong>google searches</strong></li>
+</ul>
+<div id="how-to-run-the-app-in-rstudio" class="section level2">
+<h2>How to run the app in Rstudio</h2>
+<p>You need to have <code>shiny</code> package installed in R, then install these packages as well, using:</p>
+<p><code>install.packages(c("shinyjs", "graphics", "methods", "scholar", "igraph", "network", "stringdist", "networkD3"))</code></p>
+<p>Then open app.R file inside Rstudio, now you should see a “Run App” button on upper left side of script editor (instead of usual “Run” button), click on “<strong>Run App</strong>” and you should have another window opened on the top of Rstudio editor, follow guides in app (like above) to see google scholar coauthorship network graph.</p>
+</div>
+<div id="shiny-application-code" class="section level2">
+<h2>Shiny application code</h2>
+<p>To run the application you can simply go <a href="https://github.com/akbaritabar/gScholarShinyApp/blob/master/app.R">here</a> and download the code file, or instead copy and paste following code into an R script file and save it as “app.R” and follow above steps to run it with <a href="https://shiny.rstudio.com/">shiny</a>.</p>
+<pre class="r"><code>##################### Information ########################
+#   *------------------------------------------------------
+#   *       File-Name:    Google Scholar shiny app
+#   *       Date:         05/02/2016
+#   *       Author:       3AT
+#   *       Purpose:      build coauthorship network
+#   *       Input File:   google scholar profile link
+#   *       Output File: coauthorship graph, main component, name inconsistencies
+#   *       Data Output:
+#   *       Previous file:
+#   *       Machine:    Ubuntu
+#   *------------------------------------------------------
+#   *------------------------------------------------------
+### in order to see coauthorship networks graph, copy google scholar profile of author (example: &quot;https://scholar.google.com/citations?user=zufgVroAAAAJ&amp;hl=en&quot;) and put it in the text box provided in the application UI, you will see coauthorship network in seconds
+# this application uses scholar package in R to exctract data from google scholar
+# as always, I owe most parts of the code and what I wrote to stackoverflow and google searches
+
+# load libraries
+require(shiny)
+require(shinyjs)
+require(graphics)
+require(methods)
+require(scholar)
+require(igraph)
+# require(network)
+require(stringdist)
+require(networkD3)
+
+# Shiny app
+shinyApp(
+  ui = fluidPage(
+    shinyjs::useShinyjs(),
+    titlePanel(&quot;Who are researchers mostly co-authoring with?&quot;),
+    sidebarPanel(
+      helpText(&quot;see how it works&quot;),
+      HTML(&#39;&lt;iframe width=&quot;350&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/NZ5WdBnZ-CE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&#39;),
+      helpText(&quot;Copy the link to your person of interest Google Scholar profiles (example: &#39;https://scholar.google.com/citations?user=zufgVroAAAAJ&amp;hl=en&#39;) below and see the co-authorships network&quot;, style = &quot;color:green&quot;),
+
+    textInput(&quot;scholarid&quot;,&#39;google scholar profile link&#39;,value = &quot;&quot;),
+    actionButton(&quot;submit&quot;, &quot;Submit&quot;),
+    helpText(&quot;Reference: data for co-authorships and publications are being extracted from google scholar with &#39;scholar&#39; package for R&quot;),
+    helpText(&quot;**: It is the first and earliest version, some issues are knwon and in the process to be solved, some not, I will be happy to hear: akbaritabar[at] gmail.com&quot;)
+
+
+  ),
+  mainPanel(
+    h4(&quot;author&#39;s data&quot;,align=&quot;top&quot;,align=&quot;center&quot;),
+    tableOutput(&quot;sctable&quot;),
+   h4(&quot;Raw co-authorships Graph&quot;,align=&quot;top&quot;,align=&quot;center&quot;),
+   helpText(&quot;use mouse scroll to zoom in and out; further details (including main component) below&quot;, style=&quot;color:green&quot;),
+   simpleNetworkOutput(&quot;evalPlot1&quot;),
+   h4(&quot;Main component&quot;,align=&quot;bottom&quot;,align=&quot;center&quot;),
+
+   plotOutput(&quot;evalPlot2&quot;),
+   h4(&quot;author name&#39;s inconsistencies&quot;,align=&quot;top&quot;,align=&quot;center&quot;),
+   helpText(&quot;if you see similar name with different spellings, means google scholar data has inconsistencies that need to be resolved&quot;, style=&quot;color:green&quot;),
+   textOutput(&quot;sctext&quot;)
+
+    )
+  ),
+  server = function(input, output) {
+
+    observeEvent(input$submit, {
+      citid &lt;- strsplit((strsplit(input$scholarid,&quot;&amp;&quot;,fixed = TRUE)[[1]][1]),&quot;=&quot;,fixed = TRUE)[[1]][2]
+      infosc &lt;- get_profile(citid)
+      pub &lt;- get_publications(citid, flush=TRUE)
+      authnum_articles &lt;- get_num_articles(citid)
+      authdistinc_journal &lt;- get_num_distinct_journals(citid)
+      autholdest_article &lt;- get_oldest_article(citid)
+      authnum_topjournals &lt;- get_num_top_journals(citid)
+      ## tolower does character conversion, and remove the trailing &quot;...&quot;
+      coauthors &lt;- sub(&#39;[ ,.]+$&#39;, &#39;&#39;, tolower(pub$author))
+      coauthors &lt;- coauthors[nzchar(coauthors)]  # only keep entries that aren&#39;t blank
+      ## Add self-loops for single-author entries
+      adjlist &lt;- strsplit(coauthors, &#39;\\s*,\\s*&#39;)
+      lens &lt;- lengths(adjlist)
+      adjlist[lens==1L] &lt;- lapply(adjlist[lens==1L], rep, times=2)  # repeat single author entries
+
+      edgelist &lt;- cbind(
+        unlist(lapply(adjlist, tail, -1L)),                        # col1
+        rep(sapply(adjlist, `[`, 1L), times=lengths(adjlist)-1L)   # col2
+      )
+
+      charr.list &lt;- list()
+      charr.list2 &lt;- list()
+      for (j in seq_along(edgelist[,1])) {
+        charr &lt;- edgelist[,1][j]
+        charr&lt;-unlist(strsplit(charr, &#39;\\s* \\s*&#39;))
+        charr &lt;- charr[max(seq_along(charr))]
+        charr.list[[j]] &lt;- charr
+
+        charr2 &lt;- edgelist[,2][j]
+        charr2&lt;-unlist(strsplit(charr2, &#39;\\s* \\s*&#39;))
+        charr2 &lt;- charr2[max(seq_along(charr2))]
+        charr.list2[[j]] &lt;- charr2
+
+      }
+      edgelist.clean &lt;- cbind(as.character(charr.list),as.character(charr.list2))
+
+      coauthorgraph &lt;- graph_from_edgelist(edgelist.clean,directed = TRUE)
+      # report of author name inconsistencies
+      name.author&lt;-unlist(strsplit(infosc$name, &#39;\\s* \\s*&#39;))
+      name.author &lt;- tolower(name.author[max(seq_along(name.author))])
+      comparisons &lt;- stringdist(name.author,names(V(coauthorgraph)),method = &quot;jw&quot;)
+      node.comparisons &lt;- V(coauthorgraph)[0&lt;comparisons &amp; comparisons&lt;0.3]
+      results &lt;- list(node.comparisons=node.comparisons)
+
+      # author information to be shown on app
+      authordatadownloaded &lt;- cbind.data.frame(
+        &quot;number of articles&quot; = as.character(authnum_articles),
+        &quot;unique journals&quot; = as.character(authdistinc_journal),
+        &quot;oldest article&quot; = as.character(autholdest_article),
+        &quot;number of top journals&quot; = as.character(authnum_topjournals),
+        &quot;h-index&quot; = as.character(infosc$h_index)
+      )
+      networkData &lt;- data.frame(edgelist.clean)
+
+      shinyjs::disable(&quot;submit&quot;)
+      shinyjs::disable(&quot;scholarid&quot;)
+      shinyjs::disable(&quot;scholarid2&quot;)
+      output$evalPlot1 &lt;- renderSimpleNetwork({
+        set.seed(333)
+        # using networkD3 to have zoom possibility
+        simpleNetwork(networkData,zoom = TRUE)
+        })
+
+        output$evalPlot2 &lt;- renderPlot({
+        set.seed(333)
+        ord &lt;- V(coauthorgraph)                                               # node order
+        theta &lt;- seq(0, 2*pi-2*pi/length(ord), 2*pi/length(ord))  # angle
+        theta[theta&gt;pi] &lt;- -(2*pi - theta[theta&gt;pi])              # convert to [0, pi]
+        dists &lt;- rep(c(1, 0.7), length.out=length(ord))           # alternate distance
+
+        ## Plot
+        plot(decompose.graph(coauthorgraph)[[order(clusters(coauthorgraph)$csize,decreasing = TRUE)[1]]], layout=layout.auto, vertex.label.degree=-theta, main = paste(&quot;main component of:&quot;,infosc$name),
+             vertex.label.dist=dists, vertex.label.cex=1.1,
+             vertex.size=5, vertex.color=&#39;#FFFFCC&#39;, edge.color=&#39;#E25822&#39;)
+      })
+
+      output$sctable &lt;- renderTable(authordatadownloaded)
+      output$sctext &lt;- renderPrint(results)
+      })
+      }
+)</code></pre>
+<div id="note" class="section level3">
+<h3>Note</h3>
+<p>If you download this rmarkdown file and add <code>runtime: shiny</code> to the yaml setting before <code>output: html_document:</code> then you can run the shiny application and see the code and how it works in one place (Since this is a static page hosted on github it says “Shiny applications not supported in static R Markdown documents”)</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

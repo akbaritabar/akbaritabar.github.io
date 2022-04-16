@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Ali" />
+
+
+<title>Get publication-ready, fully replicable network visualizations bringing Visone layouts to R</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div id="header">
+
+
+
+
+<h1 class="title toc-ignore">Get publication-ready, fully replicable network visualizations bringing Visone layouts to R</h1>
+<h4 class="author">Ali</h4>
+<h4 class="date">06-07-2018</h4>
+
+</div>
+
+
+<div id="problem" class="section level2">
+<h2>Problem</h2>
+<p><strong>Have you tried to replicate a nice network visualization you achieved once, for a second time to put it in a presentation or manuscript?</strong></p>
+<p><br> <em>What did you do for that?</em></p>
+<p></br></p>
+<p>If you were using a scripting/coding language like <code>R</code> or <code>Python</code> and you had the code saved somewhere, by setting the same <code>seed</code> number and using same graph layout, you could increase your chances to get the same visualization. But, is the quality of visualization what you wanted? How much time do you need to spend to get a nicely laid out graph in <code>R</code> with built-in layouts (e.g., in <code>igraph</code>)?</p>
+<p>How many times have you seen amazing visualizations which make you think, wow, this is how I should present the network! I have felt like that a thousand times. Mostly while looking at visualizations from <a href="http://visone.info"><code>Visone</code></a> or <a href="https://gephi.org"><code>Gephi</code></a>. And mainly while working with large scale networks that makes plotting harder and default layouts don’t give interesting/meaningful outputs.</p>
+<p>For a while I was trying to find a replicable way to bring <code>Visone</code> or <code>Gephi</code> output into <code>R</code> and integrate it with my report or code which is mainly <a href="https://akbaritabar.github.io/git_github_for_academic_writing.html">Rmarkdown</a>. I didn’t want to import a <code>PNG</code> picture, simply because if you change the underlying graph or add/remove attributes, there is no way to replicate the graph. You have to export it from <code>R</code> again. Plot it in an external software, bring it back into Rmarkdown as a PNG file.</p>
+<p>Instead, what if we can replicate the graph itself using nice layouts from <code>Visone</code> or <code>Gephi</code>, but reproduced in <code>R</code>?</p>
+<p><br> <strong>You might still ask, why?</strong></p>
+<p></br></p>
+<p>In case I had modified the graph by sub-setting/adding/removing attributes, I was not able to replicate the visualization with above procedure. In case I could, it was frustrating to get the same quality of visualization since I needed to remember the point &amp; click steps I took! I even went to the <a href="http://www.pfeffer.at">Juergen Pfeffer</a>’s workshop on “<em>Visualizing Social Networks. How to Create Meaningful and Compelling Network Drawings</em>” in <a href="https://sunbelt.sites.uu.nl">Sunbelt 2018 in Utrecht</a> to end this frustration, and he and his colleague gave me a tip, try if you can get the result you want by exporting layout coordinates from external software and adding it to <code>layout</code> function in <code>igraph</code>! Turned out, his suggestion was perfect!</p>
+<p><br> </br></p>
+</div>
+<div id="solution" class="section level2">
+<h2>Solution!</h2>
+<ol style="list-style-type: decimal">
+<li>Work on your graph and add/remove node, graph, and edge attributes in <code>R</code> using <code>igraph</code> package (or any other package which exports to <a href="https://en.wikipedia.org/wiki/GraphML"><code>graphml</code></a> or <code>gml</code> formats).</li>
+<li>Write the graph to an external <code>graphml</code> file. This format exports all <em>character</em> and <em>numeric</em> attributes you have added which is presented in code chunk below (I build a preferential attachment graph with 1000 nodes, set exemplar names to nodes, export it to <code>graphml</code>):</li>
+</ol>
+<pre class="r"><code>require(knitr)
+require(jsonlite)
+require(igraph)
+set.seed(123)
+g_prfatt &lt;- barabasi.game(1000, out.dist = c(.15,.6,.25), directed = FALSE, zero.appeal = 2)
+# naming nodes just to show the most prominent ones on plot
+V(g_prfatt)$name &lt;- paste0(&quot;AA&quot;, 1:1000)
+
+# write the graph to external &quot;graphml&quot; file
+write.graph(g_prfatt, file = &quot;./data/g_prfatt.graphml&quot;, format = c(&quot;graphml&quot;))</code></pre>
+<ol start="3" style="list-style-type: decimal">
+<li>Use <a href="http://visone.info"><code>Visone</code></a> software to draw the network as you want and lay it out the way you want to present it using node and edge attributes and graph layouts from the diverse collection <code>Visone</code> has to offer (this happens only once, so put enough time and get the network vis you wish). I chose <code>Visone</code> because it is fast and works nicely with large graphs. And it was easier for me to learn how to use it! See the photo below.</li>
+</ol>
+<p><img src="../images/plot_in_visone.png" width="1229" /></p>
+<ol start="4" style="list-style-type: decimal">
+<li>Export the network object to a <code>json</code> file from <code>Visone</code> as shown in the picture below.</li>
+</ol>
+<p><img src="../images/save_visone_as_json.png" width="1229" /></p>
+<p>The <code>json</code> output, if you open it with a text editor, will look like the text shown below. You see each node has some attributes for ‘x’ and ‘y’ coordinates, ‘color’, and ‘shape’ as you defined in <code>Visone</code> which you can use in plotting step later.</p>
+<pre class="json"><code>{
+  &quot;nodes&quot;: [
+    {
+      &quot;borderColor&quot;: &quot;#333333&quot;,
+      &quot;color&quot;: &quot;#808080&quot;,
+      &quot;shape&quot;: &quot;Ellipse&quot;,
+      &quot;name&quot;: &quot;AA1000&quot;,
+      &quot;x&quot;: 15.0,
+      &quot;width&quot;: 30.0,
+      &quot;y&quot;: 965.9445326206138,
+      &quot;id&quot;: &quot;1000&quot;,
+      &quot;height&quot;: 30.0
+    },
+    {
+      &quot;borderColor&quot;: &quot;#333333&quot;,
+      &quot;color&quot;: &quot;#808080&quot;,
+      &quot;shape&quot;: &quot;Ellipse&quot;,
+      &quot;name&quot;: &quot;AA999&quot;,
+      &quot;x&quot;: 5485.908442202976,
+      &quot;width&quot;: 30.0,
+      &quot;y&quot;: 1052.9848655627225,
+      &quot;id&quot;: &quot;999&quot;,
+      &quot;height&quot;: 30.0
+    },
+</code></pre>
+<ol start="5" style="list-style-type: decimal">
+<li><p>Read the exported <code>json</code> file to <code>R</code> with <code>jsonlite</code> package for which you can use sample script presented below. It takes out only “nodes” part of the <code>json</code> as a “data.frame”. In next step you can take “x” and “y” columns which are node coordinates or “color” and other attributes to assign to nodes.</p></li>
+<li><p>In <code>igraph</code>, using function <code>set_vertex_attr</code>, assign those “x” and “y” coordinates to network object and voila! Your nodes are at exact positions you laid them out in <code>Visone</code>. If you change the network object by removing/adding attributes and/or sub-setting nodes, they are going to stay on the exact same positions so you can present the effect of changes or focal nodes/groups situation after change.</p></li>
+</ol>
+<pre class="r"><code>g_prfatt_json &lt;- fromJSON(txt = &#39;./data/g_prfatt.json&#39;, simplifyDataFrame = T)$nodes
+
+# join author x, y coordinates to network object as attributes
+g_prfatt &lt;- set_vertex_attr(graph = g_prfatt, name = &quot;x&quot;, index = g_prfatt_json$name, value = g_prfatt_json$x)
+g_prfatt &lt;- set_vertex_attr(graph = g_prfatt, name = &quot;y&quot;, index = g_prfatt_json$name, value = g_prfatt_json$y)
+g_prfatt &lt;- set_vertex_attr(graph = g_prfatt, name = &quot;color&quot;, index = g_prfatt_json$name, value = g_prfatt_json$color)
+
+png(filename = &quot;./images/g_prfatt_visone_json.png&quot;, width = 2000, height = 2000, units = &#39;px&#39;)
+plot.igraph(g_prfatt, vertex.label = ifelse(test = igraph::degree(g_prfatt) &gt; 16, yes = V(g_prfatt)$name, no = NA), vertex.size = ifelse(test = igraph::degree(g_prfatt) &gt; 11, yes = 2, no = 0.2), vertex.color = V(g_prfatt)$color, edge.curved = T, edge.color = &quot;#cccccc&quot;)
+invisible(dev.off())
+
+include_graphics(path = &quot;./images/g_prfatt_visone_json.png&quot;, dpi = 300)</code></pre>
+<p><img src="../images/g_prfatt_visone_json.png" width="640" /></p>
+<p>What if we didn’t do all described above? Below you see an example of visualizing the same graph, using built-in layout <code>layout_components</code> from <code>igraph</code> in <code>R</code>. <em>Be the judge of quality yourself</em>, which one could convey a more meaningful message?</p>
+<pre class="r"><code>png(filename = &quot;./images/g_prfatt_igraph.png&quot;, width = 2000, height = 2000, units = &#39;px&#39;)
+plot.igraph(g_prfatt, vertex.label = ifelse(test = igraph::degree(g_prfatt) &gt; 16, yes = V(g_prfatt)$name, no = NA), vertex.size = ifelse(test = igraph::degree(g_prfatt) &gt; 11, yes = 2, no = 0.2), vertex.color = g_prfatt_json$color, edge.curved = T, edge.color = &quot;#cccccc&quot;, layout = layout_components)
+invisible(dev.off())
+
+include_graphics(path = &quot;./images/g_prfatt_igraph.png&quot;, dpi = 300)</code></pre>
+<p><img src="../images/g_prfatt_igraph.png" width="640" /></p>
+<p>P.S. If you can calculate node coordinates yourself, you can do it and assign them as node attributes, “x” and “y” simply in <code>R</code> without going through <code>Visone</code> and external plotting steps. Or instead of setting attributes to nodes, just give the coordinates as a two-column matrix to <code>igraph</code> plot function.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
