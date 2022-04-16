@@ -48,11 +48,11 @@ My older website (available here: https://akbaritabar.netlify.app/) had some blo
 
 ## Presentations on reverse chronological order
 
-See here for the files of all presentations available under GPL-3.0 License: [https://github.com/akbaritabar/presentations](https://github.com/akbaritabar/presentations) 
+See here for the files of all presentations available under GPL-3.0 License: [https://github.com/akbaritabar/akbaritabar.github.io](https://github.com/akbaritabar/akbaritabar.github.io) 
 
 **To cite**:
 
-> Akbaritabar, A. (2022). Presentations. https://github.com/akbaritabar/presentations/docs/NAME-OF-SPECIFIC-PRESENTATION-FILE
+> Akbaritabar, A. (2022). Presentations. https://github.com/akbaritabar/akbaritabar.github.io/docs/NAME-OF-SPECIFIC-PRESENTATION-FILE
 
 ```bibtex
 @misc{akbaritabar2022,
@@ -75,7 +75,7 @@ read -r -d '' html_needed <<'EOF'
 ### %s
 
 <object data="%s" type="application/pdf" frameborder="0" width="600px" height="550px" style="padding: 20px;">
-    <embed src="https://docs.google.com/viewer?url=https://github.com/akbaritabar/presentations/raw/main/docs/%s&embedded=true" width="600px" height="550px"/>
+    <embed src="https://docs.google.com/viewer?url=https://github.com/akbaritabar/akbaritabar.github.io/raw/main/docs/%s&embedded=true" width="600px" height="550px"/>
 </object>     
 
 EOF

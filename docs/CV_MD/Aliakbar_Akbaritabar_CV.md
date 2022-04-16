@@ -308,7 +308,7 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 2015, PhD thesis research titled as: "Online Social Network Users' Cyber Social Capital" has been awarded a Scholarship (__tuition fee discount__) to be presented in summer course on Big Data and Society in University of Amsterdam, Netherlands, 6-17/07/2015
 
 ### Public outreach and other service
-06/2020 - present, maintaining a public calendar of __Computational Social Science Events Worldwide__ [https://akbaritabar.github.io/presentations/CV_MD/CSS_events_calendar.html](https://akbaritabar.github.io/presentations/CV_MD/CSS_events_calendar.html) 
+06/2020 - present, maintaining a public calendar of __Computational Social Science Events Worldwide__ [https://akbaritabar.github.io/CV_MD/CSS_events_calendar.html](https://akbaritabar.github.io/CV_MD/CSS_events_calendar.html) 
 
 2011 - 2015, Founder of [www.OnlineSNA.wordpress.com](https://onlinesna.wordpress.com/) website for publishing scientific contents about Social Network Analysis. (104 posts in Persian)
 

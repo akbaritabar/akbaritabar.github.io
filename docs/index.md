@@ -45,11 +45,11 @@ My older website (available here: https://akbaritabar.netlify.app/) had some blo
 
 ## Presentations on reverse chronological order
 
-See here for the files of all presentations available under GPL-3.0 License: [https://github.com/akbaritabar/presentations](https://github.com/akbaritabar/presentations) 
+See here for the files of all presentations available under GPL-3.0 License: [https://github.com/akbaritabar/akbaritabar.github.io](https://github.com/akbaritabar/akbaritabar.github.io) 
 
 **To cite**:
 
-> Akbaritabar, A. (2022). Presentations. https://github.com/akbaritabar/presentations/docs/NAME-OF-SPECIFIC-PRESENTATION-FILE
+> Akbaritabar, A. (2022). Presentations. https://github.com/akbaritabar/akbaritabar.github.io/docs/NAME-OF-SPECIFIC-PRESENTATION-FILE
 
 ```bibtex
 @misc{akbaritabar2022,
