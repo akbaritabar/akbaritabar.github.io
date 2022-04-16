@@ -4,7 +4,7 @@
 - __Email__: [Akbaritabar@Gmail.com](mailto:Akbaritabar@Gmail.com)
 - __Google Scholar__: [https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en](https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en)
 - __ORCID__: [https://orcid.org/0000-0003-3828-1533](https://orcid.org/0000-0003-3828-1533)
-- __Public archive of presentations__:  [https://akbaritabar.github.io/presentations](https://akbaritabar.github.io/presentations)
+- __Public archive of presentations__:  [https://akbaritabar.github.io/](https://akbaritabar.github.io/)
 - __Personal website__:  [https://akbaritabar.netlify.app/3at_cv](https://akbaritabar.netlify.app)
 - __Linkedin__: [https://ir.linkedin.com/in/akbaritabar/](https://ir.linkedin.com/in/akbaritabar/)
 - __GitHub__: [https://github.com/akbaritabar](https://github.com/akbaritabar)
@@ -126,7 +126,7 @@ __Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Jullien, Nicolas (2015) _A tool f
 
 ### Invited talks
 
-__Public archive of presentations__:  [https://akbaritabar.github.io/presentations](https://akbaritabar.github.io/presentations)
+__Public archive of presentations__:  [https://akbaritabar.github.io/](https://akbaritabar.github.io/)
 
 __Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, Seminar series of Canada Research Chair on the Transformations of Scholarly Communication, Prof. Vincent Larivière, University of Montreal, Canada
 
