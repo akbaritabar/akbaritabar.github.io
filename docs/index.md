@@ -130,6 +130,8 @@ Click on links to open each year's presentations.
 
 [./2019/20190613_Academia_in_the_Age_of_Comparison_Hanover_HERSS_Poster.pdf](./2019.html)
 
+[./2019/20190416_UNIMI_PhD_defense_speech.pdf](./2019.html)
+
 [./2019/20190416_UNIMI_PhD_defense.pdf](./2019.html)
 
 [./2019/20190219_HERSS_DZHW_seminar.pdf](./2019.html)
