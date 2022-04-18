@@ -45,7 +45,7 @@ Research Group on Experimental and Computational Sociology ([GECS](https://gecs.
 __PhD. of Economic Sociology__ (2019)
 
 - University of Milan and University of Brescia, Italy
-- Thesis title: A quantitative sociology of academic work in an era of hypercompetition and rankings ([access](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16))
+- Thesis title: A quantitative sociology of academic work in an era of hypercompetition and rankings ([read online](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/index.html), [access](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16))
 - Supervised by: Flaminio Squazzoni
 
 __PhD. of Sociology__ (Social Welfare, 2017)
