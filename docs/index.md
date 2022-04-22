@@ -78,6 +78,8 @@ Click on links to open each year's presentations.
 
 <!-- pdfs here -->
 
+[./2022/20220422_Akbaritabar_biases_in_science.pdf](./2022.html)
+
 [./2022/20220408_PAA2022_Internal_vs_international_scholarly_mobility_poster.pdf](./2022.html)
 
 [./2022/20220408_PAA2022_Internal_vs_international_scholarly_mobility_flash_talk.pdf](./2022.html)
@@ -184,7 +186,7 @@ Click on links to open each year's presentations.
 
 [./2015/20150728_PNAUAB_Barcelona_Spain_shortened.pdf](./2015.html)
 
-[./2015/20150728_PNAUAB_Barcelona_Spain1.pdf](./2015.html)
+[./2015/20150728_PNAUAB_Barcelona_Spain.pdf](./2015.html)
 
 [./2015/20150626_INSNA_Sunbelt_Brighton_UK_cyber_social_capital.pdf](./2015.html)
 
