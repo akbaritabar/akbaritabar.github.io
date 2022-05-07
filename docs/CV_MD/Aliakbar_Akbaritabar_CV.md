@@ -130,7 +130,7 @@ __Public archive of presentations__:  [https://akbaritabar.github.io/](https://a
 
 __Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, Seminar series of Canada Research Chair on the Transformations of Scholarly Communication, Prof. Vincent Larivière, University of Montreal, Canada
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, 3rd Thematic workshop "Migration and Big Data", French Collaborative Institute on Migration, CNRS, 25/11/2021 ([access](https://www.icmigrations.cnrs.fr/2021/10/26/thursday-25th-november-2021-2-4pm-online-3rd-thematic-workshop-migration-and-big-data/))
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, 3rd Thematic workshop "Migration and Big Data", French Collaborative Institute on Migration, CNRS, 25/11/2021 ([video](https://youtu.be/S3YRhfqX0-g?t=3736))
 
 __Akbaritabar, Aliakbar__; Vacca, Raffaele; McCarty, Christopher; Squazzoni, Flaminio (2020) _Organized Track: Network Analysis for the Science of Science_, 40th INSNA Sunbelt conference (Virtual), 13-17/07/2020, Online ([access](https://www.pfeffer.at/sunbelt/talks/track_30.html))
 
@@ -192,7 +192,7 @@ __Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2019) _Quantitative Sociology of
 __Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) _Co-authorship strategies of Social Networks authors_, Scientific Networks organized panel, XXXVIII Sunbelt conference, 26/06/2018 
 01/07/2018, Utrecht, Netherlands
 
-__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) _Tweet review: a network study on tweets about peer review_, PEERE (New Frontiers of Peer Review) conference, 7-9/03/2018, CNRS, Rome, Italy ([access](https://www.peere.org/conference/conference-programme/) and [access](https://www.facebook.com/akbaritabar/posts/1891979047479423?pnref=story))
+__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) _Tweet review: a network study on tweets about peer review_, PEERE (New Frontiers of Peer Review) conference, 7-9/03/2018, CNR, Rome, Italy ([access](https://www.peere.org/conference/conference-programme/) and [access](https://www.facebook.com/akbaritabar/posts/1891979047479423?pnref=story))
 
 __Akbaritabar, Aliakbar__(2016) _how do scholars collaborate with each other? Comparative study on Co-authorship Networks of Scholars Worldwide Using Big Data_, Second European Conference on Social Networks (EUSN), 14-17/06/2016, Paris, France ([video](https://www.youtube.com/watch?v=h2QIYbMJ3v4&t=7s) and [access](https://eusn2016.sciencesconf.org/conference/eusn2016/program_overview.pdf))
 
