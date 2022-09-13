@@ -1,34 +1,31 @@
 # Aliakbar Akbaritabar, Curriculum Vitae (CV)
 
 ## Contact information
-- __Email__: [Akbaritabar@Gmail.com](mailto:Akbaritabar@Gmail.com)
+- __Email__: [akbaritabar@gmail.com](mailto:akbaritabar@gmail.com)
 - __Google Scholar__: [https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en](https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en)
 - __ORCID__: [https://orcid.org/0000-0003-3828-1533](https://orcid.org/0000-0003-3828-1533)
-- __Public archive of presentations__:  [https://akbaritabar.github.io/](https://akbaritabar.github.io/)
-- __Personal website__:  [https://akbaritabar.netlify.app/3at_cv](https://akbaritabar.netlify.app)
-- __Linkedin__: [https://ir.linkedin.com/in/akbaritabar/](https://ir.linkedin.com/in/akbaritabar/)
+- __Public archive of presentations__:  [https://akbaritabar.github.io](https://akbaritabar.github.io)
 - __GitHub__: [https://github.com/akbaritabar](https://github.com/akbaritabar)
 - __GitLab__: [https://gitlab.com/akbaritabar](https://gitlab.com/akbaritabar)
+- __Linkedin__: [https://ir.linkedin.com/in/akbaritabar/](https://ir.linkedin.com/in/akbaritabar/)
 - __Shortened CV__: [https://www.demogr.mpg.de/files/cv/en/4098/Aliakbar_Akbaritabar_shortened_CV.pdf](https://www.demogr.mpg.de/files/cv/en/4098/Aliakbar_Akbaritabar_shortened_CV.pdf) 
 
 ## Current affiliation
 
-__Postdoctoral researcher__ (01/2021 - 01/2024)
+__Postdoctoral researcher__ (15/01/2021 - 14/01/2024)
 
-__Research area chair__ of migration and mobility (11/2021 - )
+__Deputy head for training__, DCoDe Department (01/09/2022 - present)
 
-__Seminar series chair__ (02/2022 - 07/2022)
-
-The Max Planck Institute for Demographic Research ([MPIDR](https://www.demogr.mpg.de/en/)), Laboratory of Digital and Computational Demography, Rostock, Germany
+The Max Planck Institute for Demographic Research ([MPIDR](https://www.demogr.mpg.de/en/)), Department of Digital and Computational Demography (DCoDe), Rostock, Germany
 
 
 ## Previous affiliations
 
-__Postdoctoral researcher__ (09/2018 - 01/2021)
+__Postdoctoral researcher__ (01/09/2018 - 14/01/2021)
     
 German Centre for Higher Education Research and Science Studies (DZHW), [Research System and Science Dynamics](https://www.dzhw.eu/en/), Berlin, Germany
 
-__Researcher__ (09/2016 - 09/2018)
+__Researcher__ (01/09/2016 - 31/08/2018)
 
 Research Group on Experimental and Computational Sociology ([GECS](https://gecs.unibs.it/)), University of Brescia, Italy
 
@@ -45,7 +42,7 @@ Research Group on Experimental and Computational Sociology ([GECS](https://gecs.
 __PhD. of Economic Sociology__ (2019)
 
 - University of Milan and University of Brescia, Italy
-- Thesis title: A quantitative sociology of academic work in an era of hypercompetition and rankings ([read online](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/index.html), [access](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16))
+- Thesis title: A quantitative sociology of academic work in an era of hypercompetition and rankings ([access](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16))
 - Supervised by: Flaminio Squazzoni
 
 __PhD. of Sociology__ (Social Welfare, 2017)
@@ -53,18 +50,21 @@ __PhD. of Sociology__ (Social Welfare, 2017)
 - Allameh Tabataba'i University, Tehran, Iran
 - Thesis title: Iranian's Cyber Social Capital ([video](https://www.youtube.com/watch?v=VoI8-0-l4Zo&t=142s))
 - Supervised by: Jafar Hezarjaribi
+- GPA of 20: 17.78 (GPA of 100: 88.9)
 
 __M.A. of Sociology__ (2011)
 
-- Tarbiat Modares University, Tehran, Iran
+- Tarbiat Modares University, Tehran, Iran (ranked 4 in national entrance examination)
 - Thesis title: A SNA Study on Online Social Networks: Case study of Doreh and U24
 - Supervised by: Ali Saei
+- GPA of 20: 16.82 (GPA of 100: 84.1)
 
 __B.A. of Sociology__ (Social Research, 2008)
 
 - Shiraz University, Shiraz, Iran
 - Thesis title: Factors related with students commitment to university
 - Supervised by: Abdol Ali Lahsayi Zadeh
+- GPA of 20: 16.52 (GPA of 100: 82.6)
 
 ## Research output and publications
 ### Peer reviewed journals
@@ -111,26 +111,34 @@ __Akbaritabar, Aliakbar__ (2012) _A Meta-Analysis of SNA Textbooks, special issu
 
 ### Preprints and working papers
 
-__Akbaritabar, Aliakbar__; Stephen, Dimity (2021) _A Disciplinary View of Changes in Publications' Reference Lists After Peer Review_, arXiv ([access](https://arxiv.org/abs/2102.03110)), (*Published in Journal of Informetrics: [https://doi.org/10.1016/j.joi.2022.101258](https://doi.org/10.1016/j.joi.2022.101258)*)
+Castro Torres, Andres. F.; __Akbaritabar, Aliakbar__ (2022). Methodological monotheism across fields of science in contemporary quantitative research. arXiv. ([https://doi.org/10.48550/arXiv.2208.05373](https://doi.org/10.48550/arXiv.2208.05373))
 
-__Akbaritabar, Aliakbar__ (2021) _Quantitative View of the Structure of Institutional Scientific Collaborations Using the Examples of Halle, Jena and Leipzig_, arXiv ([access](https://arxiv.org/abs/2101.05784))
+Kashyap, R.; Rinderknecht, R. G.; __Akbaritabar, A.__; Alburez-Gutierrez, D.; Gil-Clavel, S.; Grow, A.; … Zhao, X. (2022, April 21). _Digital and Computational Demography_. ([https://doi.org/10.31235/osf.io/7bvpt](https://doi.org/10.31235/osf.io/7bvpt))
 
-__Akbaritabar, Aliakbar__ (2020) _Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations_, arXiv ([access](https://arxiv.org/abs/2008.08355)), (*Published in Quantitative Science Studies: [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131)*)
+__Akbaritabar, A.__; Zhao, X.; & Zagheni, E. (2022, April). _Internal Versus International Scholarly Mobility and Migration Worldwide_. In PAA 2022 Annual Meeting. PAA.
 
-__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Applying Crossref and Unpaywall information to identify gold, hidden gold, hybrid and delayed Open Access publications in the KB corpus._,  SocArXiv ([access](https://doi.org/10.31235/osf.io/sdzft))
+__Akbaritabar, Aliakbar__; Stephen, Dimity (2021) _A Disciplinary View of Changes in Publications' Reference Lists After Peer Review_, arXiv ([https://arxiv.org/abs/2102.03110](https://arxiv.org/abs/2102.03110)), (*Published in Journal of Informetrics: [https://doi.org/10.1016/j.joi.2022.101258](https://doi.org/10.1016/j.joi.2022.101258)*)
 
-__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Merits and Limits: Applying open data to monitor open access publications in bibliometric databases_, arXiv ([access](https://arxiv.org/abs/1902.03937))
+__Akbaritabar, Aliakbar__ (2021) _Quantitative View of the Structure of Institutional Scientific Collaborations Using the Examples of Halle, Jena and Leipzig_, arXiv ([https://arxiv.org/abs/2101.05784](https://arxiv.org/abs/2101.05784))
+
+__Akbaritabar, Aliakbar__ (2020) _Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations_, arXiv ([https://arxiv.org/abs/2008.08355](https://arxiv.org/abs/2008.08355)), (*Published in Quantitative Science Studies: [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131)*)
+
+__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Applying Crossref and Unpaywall information to identify gold, hidden gold, hybrid and delayed Open Access publications in the KB corpus._,  SocArXiv ([https://doi.org/10.31235/osf.io/sdzft](https://doi.org/10.31235/osf.io/sdzft))
+
+__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Merits and Limits: Applying open data to monitor open access publications in bibliometric databases_, arXiv ([https://arxiv.org/abs/1902.03937](https://arxiv.org/abs/1902.03937))
 
 __Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Jullien, Nicolas (2015) _A tool for dynamic measurement of social capital embedded in Online Social Networks_, Grafo working papers, electronic journal, Issue 4, Nº 04/y1. ISSN: 2014-5993 ([access](https://revistes.uab.cat/grafowp/article/view/14/vol4-n1-Akbaritabar))
 
 
 ### Invited talks
 
-__Public archive of presentations__:  [https://akbaritabar.github.io/](https://akbaritabar.github.io/)
+__Public archive of presentations__:  [https://akbaritabar.github.io](https://akbaritabar.github.io)
+
+__Akbaritabar, Aliakbar__; Rubin, Beatrix (2022) _Plasticity: the anchor concept of the neurosciences_, Robert Merton Centre for Science Studies, Humboldt University of Berlin, Germany
 
 __Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, Seminar series of Canada Research Chair on the Transformations of Scholarly Communication, Prof. Vincent Larivière, University of Montreal, Canada
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, 3rd Thematic workshop "Migration and Big Data", French Collaborative Institute on Migration, CNRS, 25/11/2021 ([video](https://youtu.be/S3YRhfqX0-g?t=3736))
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, 3rd Thematic workshop "Migration and Big Data", French Collaborative Institute on Migration, CNRS, 25/11/2021 ([access](https://www.icmigrations.cnrs.fr/2021/10/26/thursday-25th-november-2021-2-4pm-online-3rd-thematic-workshop-migration-and-big-data/))
 
 __Akbaritabar, Aliakbar__; Vacca, Raffaele; McCarty, Christopher; Squazzoni, Flaminio (2020) _Organized Track: Network Analysis for the Science of Science_, 40th INSNA Sunbelt conference (Virtual), 13-17/07/2020, Online ([access](https://www.pfeffer.at/sunbelt/talks/track_30.html))
 
@@ -163,6 +171,38 @@ __Akbaritabar, Aliakbar__ (2011) _How to use SNA in study of online social netwo
 __Akbaritabar, Aliakbar__; Saei, Ali; Khodaei, Ebrahim (2011) _Youth Responsibility In Online Social Networks: Case Study of U24.ir_, National Conference on Youth Responsibility, 05/2011, Shiraz University, Shiraz
 
 ### Conferences presentations
+
+**Overview**
+
+**2022**: [PAA](https://www.populationassociation.org/paa2022/home) (virtual), [EPC](https://eaps.nl/epc/european-population-conference-2022) (Groningen), [INSNA-Sunbelt](https://www.insna.org/sunbelt-2022) (virtual), [IMISCOE](https://www.imiscoe.org/events/imiscoe-events/1124-imiscoe-spring-conference-2022) (virtual), [IC2S2](http://ic2s2.org/) (virtual)
+
+**2021** (virtual): [Networks21](https://networks2021.net/), [IC2S2](https://ic2s2-2021.ethz.ch/), [DZHW-Workshop](https://www.dzhw.eu/en/forschung/projekt?pr_id=676), [IPC/IUSSP](https://ipc2021.popconf.org/)
+
+**2020** (virtual): [INSNA-Sunbelt](https://www.insna.org/sunbelt-archives), [PEERE'2](https://www.peere.org/conference/) (Valencia)
+
+**2019**: [IC2S2](https://2019.ic2s2.org/) (Amsterdam), [CNDSS](https://web.uniroma1.it/coris/archivionotizie/iv-conferenza-nazionale-delle-dottorande-e-dei-dottorandi-scienze-sociali) (Rome), [ISSI-STI](https://www.issi-society.org/conferences/) (Rome)
+
+**2018**: [PEERE'1](http://www.peere.org/conference2018/) (Rome), [INSNA-Sunbelt](https://www.insna.org/sunbelt-archives) (Utrecht)
+
+**2016**: [EUSN](https://youtu.be/h2QIYbMJ3v4) (Paris)
+
+**2015**: [Computational Social Science Summit](https://www.kellogg.northwestern.edu/news-events/conference/csss/2015.aspx) (virtual), [INSNA-Sunbelt](https://youtu.be/XrfMEmpmFyw) (Brighton)
+
+**2011**: 12th National Conference on Medical Education (Mashhad), [INTED2011](https://iated.org/archive/inted2011) (Valencia)
+
+**2010**: 4th Integrated Conference of Metallurgy Engineers and Iran's Scientific Committee of Casting (Tehran)
+
+**Details**
+
+__Akbaritabar, Aliakbar__ (2022) _Pandemic calls for revisiting the dichotomy of offline versus online social capital_,  8th International Conference on Computational Social Science (IC2S2) (University of Chicago, Virtual) ([IC2S2 2022](https://iscss.org/ic2s2/conference/)), poster presentation, 19-22/07/2022
+
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_,  XLIInd Social Networks Conference of the International Network for Social Network Analysis (INSNA) (Cairns, Virtual) ([Sunbelt 2022](https://www.insna.org/events/sunbelt-2022)), talk by Xinyi Zhao, 15/07/2022
+
+__Akbaritabar, Aliakbar__ (2022) _Pandemic calls for revisiting the dichotomy of offline versus online social capital_,  XLIInd Social Networks Conference of the International Network for Social Network Analysis (INSNA) (Cairns, Virtual) ([Sunbelt 2022](https://www.insna.org/events/sunbelt-2022)), talk by Xinyi Zhao, 13/07/2022
+
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, European Population Conference, University of Groningen, The Netherlands ([EPC2022](https://epc2022.eaps.nl/)), talk, 30/06/2022
+
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, 19th IMISCOE annual conference, University of Oslo, Norway (Online) ([IMISCOE](https://www.imiscoe.org/events/imiscoe-events/1380-19th-imiscoe-annual-conference)), talk, 30/06/2022
 
 __Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, 2022 Annual Meeting Population Association of America ([PAA2022](https://www.populationassociation.org/paa2022/)), Flash talk, 08/04/2022
 
@@ -209,17 +249,34 @@ Jabbareh, Mohammad Amin; __Akbaritabar, Aliakbar__; Abdolah Zade, Amir (2010) _S
 ## Academic service
 ### Teaching activities
 
-2022 [cancelled], Using bibliometric data in demographic research, together with Xinyi Zhao, Population Association of America 2022 Annual Meeting ([PAA2022](https://www.populationassociation.org/paa2022/paa2022-related-events/2022-workshops)), Atlanta, Georgia, USA
+2022, together with Xinyi Zhao, 3 hours 45 minutes workshop on Using bibliometric data in demographic research, European Population Conference 2022 ([EPC2022](https://eaps.nl/epc/european-population-conference-2022)), Groningen, The Netherlands, hosted by the IUSSP panel on digital demography (workshop materials: [https://github.com/akbaritabar/bibliometric_data_for_demographic_research](https://github.com/akbaritabar/bibliometric_data_for_demographic_research))
+
+2022, 2 hours tutorial on "Introduction to text analysis and bibliometric data" with hands-on coding session, [Population and Social Data Science Summer Incubator Program](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/population_and_social_data_science_summer_incubator_program_10619), Max Planck Institute for Demographic Research, Germany
+
+2022 [cancelled], together with Xinyi Zhao, Using bibliometric data in demographic research, Population Association of America 2022 Annual Meeting ([PAA2022](https://www.populationassociation.org/paa2022/paa2022-related-events/2022-workshops)), Atlanta, Georgia, USA
 
 2022, Guest lecture on parallelized analysis of bibliometric data using Python and SQL, invited by Misha Teplitskiy, School of Information, University of Michigan (online), ([video](https://youtu.be/pYDVrBcIuYI))
 
 2019, Introduction to network analysis, Lecture series on methods of science studies, Humboldt University of Berlin, Germany
 
-2013 - 2014, Adjunct professor - Basic Sociology; Sociology of Third world countries; Sociology of Delinquent Behaviour; Sociology of Social Stratification and Inequalities, Yazd University, Iran
+2013 - 2014, Adjunct professor, Yazd University, Iran
 
-2012 - 2013, Adjunct professor - Basic Sociology; Basics of Iranian Social History; University of Applied Science and Technology, Iran
+**Courses taught**: 
+
+- Basic Sociology (two times taught)
+- Sociology of Third world countries
+- Sociology of Delinquent Behaviour
+- Sociology of Social Stratification and Inequalities (two times taught)
+
+2012 - 2013, Adjunct professor, University of Applied Science and Technology, Iran
+
+**Courses taught**: 
+
+- Basic Sociology
+- Basics of Iranian Social History
 
 2011 - 2015, Workshop instructor - Social network analysis, invited by various institutions, Iran, ([_visual history_](https://goo.gl/3L6j2U))
+
 
 
 ### Supervision of graduate students
@@ -238,6 +295,10 @@ German Centre for Higher Education Research and Science Studies, Germany
 ### Peer review
 
 Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbaritabar/](https://publons.com/researcher/1487027/aliakbar-akbaritabar/)
+
+2022, Peer Reviewer, The 26th International Conference on Science, Technology and Innovation Indicators ([STI2022](https://sti2022.org/))
+
+2022, Peer Reviewer, [Humanities and Social Sciences Communications - Nature](https://www.nature.com/palcomms/)
 
 2022 - present, Peer Reviewer, [Applied Network Science](https://appliednetsci.springeropen.com/)
 
@@ -278,17 +339,21 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 
 ### Institutional responsibilities
 
-02/2022 - present, Seminar series chair, Laboratory of Digital and Computational Demography, Max Planck Institute for Demographic Research
+01/09/2022 - present, Deputy head for training, Department of Digital and Computational Demography, Max Planck Institute for Demographic Research
 
-01/2022 - present, Responsible for local friend system (supporting newcomers' settlement), Laboratory of Digital and Computational Demography, Max Planck Institute for Demographic Research
+01/11/2021 - 31/08/2022, Research area chair of migration and mobility, Department of Digital and Computational Demography, Max Planck Institute for Demographic Research
 
-11/2021 - present, Research area chair of migration and mobility, Laboratory of Digital and Computational Demography, Max Planck Institute for Demographic Research
+01/02/2022 - 31/08/2022, Seminar series chair, Department of Digital and Computational Demography, Max Planck Institute for Demographic Research. Organized and chaired 18 weekly seminars, out of which 14 had external invited speakers.
 
-11/2021 - present, Executive committee member, Laboratory of Digital and Computational Demography, Max Planck Institute for Demographic Research
+01/2022 - present, Responsible for local friend system (supporting newcomers' settlement), Department of Digital and Computational Demography, Max Planck Institute for Demographic Research
+
+01/11/2021 - present, Executive committee member, Department of Digital and Computational Demography, Max Planck Institute for Demographic Research
 
 ### Membership of scientific societies
 
 2022 - 2024, European Association for Population Studies (EAPS)
+
+2022 - 2023, IMISCOE (International Migration Research Network)
 
 2020 - 2021, Member of International Network for Social Network Analysis (INSNA)
 
@@ -297,7 +362,7 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 2011 - 2015, Member of Iranian National Association of Social Welfare 
 
 ### Funding, grants and awards
-2022, __Co-I__ on a [Templeton grant](https://ces-transformationfund.org/) (submitted by D. Susie Lee as the PI, under review)
+2022, __Co-I__ on a [Templeton grant](https://ces-transformationfund.org/) (submitted by D. Susie Lee as the PI, not selected in the second round of review)
 
 2015-2018, __3-years PhD scholarship__ in Economic Sociology, University of Milan, Funded by University of Brescia, Italy
 
@@ -309,6 +374,12 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 
 ### Public outreach and other service
 06/2020 - present, maintaining a public calendar of __Computational Social Science Events Worldwide__ [https://akbaritabar.github.io/CV_MD/CSS_events_calendar.html](https://akbaritabar.github.io/CV_MD/CSS_events_calendar.html) 
+
+24/05/2022, Interview with MPIDR's press department on "How to Use Bibliometric Data for Demographic Research", [https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/how_to_use_bibliometric_data_for_demographic_research_10784](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/how_to_use_bibliometric_data_for_demographic_research_10784)
+
+21/05/2022, invited talk in African Science Day entitled "Development and Global Migration of Scholars: Trends and Patterns revealed by Bibliometric Data", a collaboration with: Emilio Zagheni, Tom Theile, Asli Ebru Sanliturk, and Maciej J. Dańko, hosted by African Development Initiative e.V. (ADI e.V.), Rostock, Germany
+
+01/2021, Interview with MPIDR's press department: "Aliakbar Akbaritabar Is New Researcher at the Digital and Computational Demography Lab", [https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/aliakbar_akbaritabar_is_new_researcher_at_the_digital_and_computational_demography_lab_8769](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/aliakbar_akbaritabar_is_new_researcher_at_the_digital_and_computational_demography_lab_8769)
 
 2011 - 2015, Founder of [www.OnlineSNA.wordpress.com](https://onlinesna.wordpress.com/) website for publishing scientific contents about Social Network Analysis. (104 posts in Persian)
 
