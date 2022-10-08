@@ -1,5 +1,6 @@
 # Aliakbar Akbaritabar, Curriculum Vitae (CV)
 
+
 ## Contact information
 - __Email__: [akbaritabar@gmail.com](mailto:akbaritabar@gmail.com)
 - __Google Scholar__: [https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en](https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en)
@@ -42,7 +43,7 @@ Research Group on Experimental and Computational Sociology ([GECS](https://gecs.
 __PhD. of Economic Sociology__ (2019)
 
 - University of Milan and University of Brescia, Italy
-- Thesis title: A quantitative sociology of academic work in an era of hypercompetition and rankings ([access](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16))
+- Thesis title: A quantitative sociology of academic work in an era of hypercompetition and rankings (access [1](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16), [2](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/))
 - Supervised by: Flaminio Squazzoni
 
 __PhD. of Sociology__ (Social Welfare, 2017)
@@ -103,7 +104,7 @@ __Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Hosseini, Mostajad (2012) _ICTs a
 
 ### Dissertation and other journals
 
-__Akbaritabar, Aliakbar__ (2019) _Quantitative Sociology of Academic Work in An Era of Hyper-competition and Rankings_, PhD Dissertation, Università degli Studi di Milano, [https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16)
+__Akbaritabar, Aliakbar__ (2019) _Quantitative Sociology of Academic Work in An Era of Hyper-competition and Rankings_, PhD Dissertation, Università degli Studi di Milano, [https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16) ([access](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/))
 
 Squazzoni, Flaminio; __Akbaritabar, Aliakbar__ (2017) _Internationalizing Sociology in Italy, 1970s-2010s_, Global Dialogue, ISA (International Sociological Association), Volume 7, Issue 3, 10-11 ([access](https://globaldialogue.isa-sociology.org/internationalizing-sociology-in-italy-1970s-2010s/) and [access](https://globaldialogue.isa-sociology.org/wp-content/uploads/2017/08/v7i3-english.pdf))
 
@@ -403,7 +404,7 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
     + __Instructors__: Juergen Pfeffer, Mirco Schonfeld
 - __PhD. Research Visit__ (2.5 months - 04/2018 - 06/2018)
     + Dynamics lab, Geary institute, UCD, Dublin, Ireland
-    + __Project Title__: A quantitative sociology of academic work in an era of hypercompetition and rankings ([access](https://www.ucd.ie/socscilaw/phdcscss/currentandpaststudents/))
+    + __Project Title__: A quantitative sociology of academic work in an era of hypercompetition and rankings ([access](https://www.ucd.ie/spire/study/prospectivephdstudents/phdcomplexsystemsandcomputationalsocialsciences/))
     + __Supervised by__: Diane Payne
 - Course on __Bibliometric Network Analysis and Science Mapping Using VOSviewer__ (12-13/04/2018) ([access](https://www.cwts.nl/training-education/bibliometric-network-analysis-and-science-mapping-using-vosviewer))
     + CWTS, Leiden University, Netherlands
