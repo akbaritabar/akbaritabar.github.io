@@ -32,6 +32,8 @@ cat > index.md <<'EOF'
 ## CV
 You can see a CV of me [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
+<hr />
+
 ## How to reach me?
 Twitter: @akbaritabar, [@Akbaritabar@mastodon.social](https://mastodon.social/@Akbaritabar) or email (akbaritabar [at] demogr.mpg.de)!
 
