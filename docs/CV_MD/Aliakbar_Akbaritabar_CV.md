@@ -9,7 +9,7 @@
 - __GitHub__: [https://github.com/akbaritabar](https://github.com/akbaritabar)
 - __GitLab__: [https://gitlab.com/akbaritabar](https://gitlab.com/akbaritabar)
 - __Linkedin__: [https://ir.linkedin.com/in/akbaritabar/](https://ir.linkedin.com/in/akbaritabar/)
-- __Shortened CV__: [https://www.demogr.mpg.de/files/cv/en/4098/Aliakbar_Akbaritabar_shortened_CV.pdf](https://www.demogr.mpg.de/files/cv/en/4098/Aliakbar_Akbaritabar_shortened_CV.pdf) 
+
 
 ## Current affiliation
 
@@ -42,14 +42,14 @@ Research Group on Experimental and Computational Sociology ([GECS](https://gecs.
 
 __PhD. of Economic Sociology__ (2019)
 
-- University of Milan and University of Brescia, Italy
+- University of Milan, Italy
 - Thesis title: A quantitative sociology of academic work in an era of hypercompetition and rankings (access [1](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16), [2](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/))
 - Supervised by: Flaminio Squazzoni
 
 __PhD. of Sociology__ (Social Welfare, 2017)
 
 - Allameh Tabataba'i University, Tehran, Iran
-- Thesis title: Iranian's Cyber Social Capital ([video](https://www.youtube.com/watch?v=VoI8-0-l4Zo&t=142s))
+- Thesis title: Iranian's Cyber Social Capital; Background Factors and Outcome ([video](https://www.youtube.com/watch?v=VoI8-0-l4Zo&t=142s))
 - Supervised by: Jafar Hezarjaribi
 - GPA of 20: 17.78 (GPA of 100: 88.9)
 
@@ -70,116 +70,132 @@ __B.A. of Sociology__ (Social Research, 2008)
 ## Research output and publications
 ### Peer reviewed journals
 
-__Akbaritabar, Aliakbar__; Stephen, Dimity; Squazzoni, Flaminio (2022) _A study of referencing changes in preprint-publication pairs across multiple fields_, Journal of Informetrics, [https://doi.org/10.1016/j.joi.2022.101258](https://doi.org/10.1016/j.joi.2022.101258) 
+Sanliturk, E.; Zagheni, E; Dańko. J. M.; Theile, T; & __Akbaritabar, Aliakbar__ (2023) Global patterns of migration of scholars with economic development, _Proceedings of the National Academy of Sciences (PNAS)_, [https://doi.org/10.1073/pnas.2217937120](https://doi.org/10.1073/pnas.2217937120) (__equal__ contribution of all authors).
 
-Piolatto, Matteo; Bianchi, Federico; Rota, Matteo; Marengoni, Alessandra; __Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2022) _The effect of social relationships on cognitive decline in older adults: An updated systematic review and meta-analysis of longitudinal cohort studies_, BMC Public Health, [https://doi.org/10.1186/s12889-022-12567-5](https://doi.org/10.1186/s12889-022-12567-5)
+Zhao, X.; __Akbaritabar, Aliakbar__; Kashyap, R.; Zagheni, E (2023) A gender perspective on the global migration of scholars, _Proceedings of the National Academy of Sciences (PNAS)_, [https://doi.org/10.1073/pnas.2214664120](https://doi.org/10.1073/pnas.2214664120).
 
-__Akbaritabar, Aliakbar__ (2021) _A Quantitative View of the Structure of Institutional Scientific Collaborations Using the Example of Berlin_, Quantitative Science Studies, [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131)
+__Akbaritabar, Aliakbar__; Stephen, Dimity; Squazzoni, Flaminio (2022) A study of referencing changes in preprint-publication pairs across multiple fields, _Journal of Informetrics_, [https://doi.org/10.1016/j.joi.2022.101258](https://doi.org/10.1016/j.joi.2022.101258) 
 
-__Akbaritabar, Aliakbar__; Bravo, Giangiacomo; Squazzoni, Flaminio (2021) _The Impact of a National Research Assessment on the Publications of Sociologists in Italy_, Science and Public Policy, [https://doi.org/10.1093/scipol/scab013](https://doi.org/10.1093/scipol/scab013)
+Piolatto, Matteo; Bianchi, Federico; Rota, Matteo; Marengoni, Alessandra; __Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2022) The effect of social relationships on cognitive decline in older adults: An updated systematic review and meta-analysis of longitudinal cohort studies, _BMC Public Health_, [https://doi.org/10.1186/s12889-022-12567-5](https://doi.org/10.1186/s12889-022-12567-5)
 
-Gao, Dehua; __Akbaritabar, Aliakbar__ (2021) _Using Agent-based Modeling in Routine Dynamics Research: A Quantitative and Content Analysis of Literature_, Review of Managerial Science, [https://doi.org/10.1007/s11846-021-00446-z](https://doi.org/10.1007/s11846-021-00446-z)
+__Akbaritabar, Aliakbar__ (2021) A Quantitative View of the Structure of Institutional Scientific Collaborations Using the Example of Berlin, _Quantitative Science Studies_, [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131)
 
-__Akbaritabar, Aliakbar__; Barbato, Giovanni (2021) _Internationalized Europe Versus Continent Oriented Americas: A Network Analysis Study on Higher Education Research_, European Journal of Education, [https://doi.org/10.1111/ejed.12446](https://doi.org/10.1111/ejed.12446)
+__Akbaritabar, Aliakbar__; Bravo, Giangiacomo; Squazzoni, Flaminio (2021) The Impact of a National Research Assessment on the Publications of Sociologists in Italy, _Science and Public Policy_, [https://doi.org/10.1093/scipol/scab013](https://doi.org/10.1093/scipol/scab013)
 
-__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2020) _Gender patterns of publication in top sociological journals_, Science, Technology and Human Values (ST&HV), [https://doi.org/10.1177%2F0162243920941588](https://doi.org/10.1177%2F0162243920941588)
+Gao, Dehua; __Akbaritabar, Aliakbar__ (2021) Using Agent-based Modeling in Routine Dynamics Research: A Quantitative and Content Analysis of Literature, _Review of Managerial Science_, [https://doi.org/10.1007/s11846-021-00446-z](https://doi.org/10.1007/s11846-021-00446-z)
 
-__Akbaritabar, Aliakbar__; Traag, A., Vincent; Caimo, Alberto; Squazzoni, Flaminio (2020) _Italian sociologists: a community of disconnected groups_, Scientometrics, [https://doi.org/10.1007/s11192-020-03555-w](https://doi.org/10.1007/s11192-020-03555-w), ([video](https://youtu.be/Vo3t9K0YHbk))
+__Akbaritabar, Aliakbar__; Barbato, Giovanni (2021) Internationalized Europe Versus Continent Oriented Americas: A Network Analysis Study on Higher Education Research, _European Journal of Education_, [https://doi.org/10.1111/ejed.12446](https://doi.org/10.1111/ejed.12446)
 
-__Akbaritabar, Aliakbar__; Casnici, Niccolo; Squazzoni, Flaminio (2018) _The conundrum of research productivity: a study on sociologists in Italy_, Scientometrics, [https://doi.org/10.1007/s11192-017-2606-5](https://doi.org/10.1007/s11192-017-2606-5)
+__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2020) Gender patterns of publication in top sociological journals, _Science, Technology and Human Values (ST&HV)_, [https://doi.org/10.1177/0162243920941588](https://doi.org/10.1177/0162243920941588)
 
-Eskandaripour, Ebrahim; __Akbaritabar, Aliakbar__ (2014) _How to do a scientific research on media (TV and Radio) related pages on social networking sites A Mixed Method_, Quarterly Journal of Communication Research, Winter 2014, Tehran, Iran, [https://dx.doi.org/10.22082/cr.2013.23567](https://dx.doi.org/10.22082/cr.2013.23567) (In Persian)
+__Akbaritabar, Aliakbar__; Traag, A., Vincent; Caimo, Alberto; Squazzoni, Flaminio (2020) Italian sociologists: a community of disconnected groups, _Scientometrics_, [https://doi.org/10.1007/s11192-020-03555-w](https://doi.org/10.1007/s11192-020-03555-w), ([video](https://youtu.be/Vo3t9K0YHbk))
 
-Nazifi, Morteza; Mokarami, Hamidreza; __Akbaritabar, Aliakbar__; Kalte, Haji Omid; Rahi, Amid (2014) _Psychometric Properties of the Persian Translation of Pittsburgh Sleep Quality Index_, Health Scope, 3(2): 1-4, [https://dx.doi.org/10.17795/jhealthscope-15547](https://dx.doi.org/10.17795/jhealthscope-15547)
+__Akbaritabar, Aliakbar__; Casnici, Niccolo; Squazzoni, Flaminio (2018) The conundrum of research productivity: a study on sociologists in Italy, _Scientometrics_, [https://doi.org/10.1007/s11192-017-2606-5](https://doi.org/10.1007/s11192-017-2606-5)
 
-Nazifi, M.; Mokarami, H.; __Akbaritabar, Aliakbar__; Faraji Kujerdi, M.; Tabrizi, R.; Rahi, A. (2014). _Reliability, Validity and Factor Structure of the Persian Translation of General Health Questionnaire (GHQ-28) in Hospitals of Kerman University of Medical Sciences_, Journal of Fasa University of Medical Sciences, 3(4), 336-342, [https://jabs.fums.ac.ir/article-1-528-en.html](https://jabs.fums.ac.ir/article-1-528-en.html) (In Persian)
+Eskandaripour, Ebrahim; __Akbaritabar, Aliakbar__ (2014) How to do a scientific research on media (TV and Radio) related pages on social networking sites A Mixed Method, _Quarterly Journal of Communication Research_, Winter 2014, Tehran, Iran, [https://dx.doi.org/10.22082/cr.2013.23567](https://dx.doi.org/10.22082/cr.2013.23567) (In Persian)
 
-Shaverdi, Meisam; Eskandaripour, Ebrahim; __Akbaritabar, Aliakbar__ (2013) _Developing sustainable SCM evaluation model using fuzzy AHP in publishing industry_, Elsevier (Procedia Computer Science series), 10/03/2013, This paper have been published in proceeding of International Conference on Information Technology and Quantitative Management (ITQM 2013), 16-18/05/2013 in Suzhou, China, [https://doi.org/10.1016/j.procs.2013.05.044](https://doi.org/10.1016/j.procs.2013.05.044)
+Nazifi, Morteza; Mokarami, Hamidreza; __Akbaritabar, Aliakbar__; Kalte, Haji Omid; Rahi, Amid (2014) Psychometric Properties of the Persian Translation of Pittsburgh Sleep Quality Index, _Health Scope_, 3(2): 1-4, [https://dx.doi.org/10.17795/jhealthscope-15547](https://dx.doi.org/10.17795/jhealthscope-15547)
 
-__Akbaritabar, Aliakbar__; Mokarami, H.; Nazifi, M.; Rahi, A.; Hosseinpouri, M. (2013). _Psychometric properties of Spector's job satisfaction survey in the Iranian population_, Koomesh, 14(3), 335-341, [https://koomeshjournal.semums.ac.ir/article-1-1787-en.html](https://koomeshjournal.semums.ac.ir/article-1-1787-en.html) (In Persian)
+Nazifi, M.; Mokarami, H.; __Akbaritabar, Aliakbar__; Faraji Kujerdi, M.; Tabrizi, R.; Rahi, A. (2014). Reliability, Validity and Factor Structure of the Persian Translation of General Health Questionnaire (GHQ-28) in Hospitals of Kerman University of Medical Sciences, _Journal of Fasa University of Medical Sciences_, 3(4), 336-342, [https://jabs.fums.ac.ir/article-1-528-en.html](https://jabs.fums.ac.ir/article-1-528-en.html) (In Persian)
 
-Hosseini, Mostajad; Hezarjaribi, Jafar; __Akbaritabar, Aliakbar__ (2012) _Globalization and its impacts on Social Welfare_, Welfare planning and social development, 4, 71-122, also presented in the first Iranian conference on Social welfare (In Persian)
+Shaverdi, Meisam; Eskandaripour, Ebrahim; __Akbaritabar, Aliakbar__ (2013) Developing sustainable SCM evaluation model using fuzzy AHP in publishing industry, _Elsevier (Procedia Computer Science series)_, 10/03/2013, This paper have been published in proceeding of International Conference on Information Technology and Quantitative Management (ITQM 2013), 16-18/05/2013 in Suzhou, China, [https://doi.org/10.1016/j.procs.2013.05.044](https://doi.org/10.1016/j.procs.2013.05.044)
 
-__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Hosseini, Mostajad (2012) _ICTs and their relationship with Social Welfare_, Society, culture and media (In Persian)
+__Akbaritabar, Aliakbar__; Mokarami, H.; Nazifi, M.; Rahi, A.; Hosseinpouri, M. (2013). Psychometric properties of Spector's job satisfaction survey in the Iranian population, _Koomesh_, 14(3), 335-341, [https://koomeshjournal.semums.ac.ir/article-1-1787-en.html](https://koomeshjournal.semums.ac.ir/article-1-1787-en.html) (In Persian)
 
-### Dissertation and other journals
+Hosseini, Mostajad; Hezarjaribi, Jafar; __Akbaritabar, Aliakbar__ (2012) Globalization and its impacts on Social Welfare, _Welfare planning and social development_, 4, 71-122, also presented in the first Iranian conference on Social welfare (In Persian)
 
-__Akbaritabar, Aliakbar__ (2019) _Quantitative Sociology of Academic Work in An Era of Hyper-competition and Rankings_, PhD Dissertation, Università degli Studi di Milano, [https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16) ([access](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/))
+__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Hosseini, Mostajad (2012) ICTs and their relationship with Social Welfare, _Society, culture and media_ (In Persian)
 
-Squazzoni, Flaminio; __Akbaritabar, Aliakbar__ (2017) _Internationalizing Sociology in Italy, 1970s-2010s_, Global Dialogue, ISA (International Sociological Association), Volume 7, Issue 3, 10-11 ([access](https://globaldialogue.isa-sociology.org/internationalizing-sociology-in-italy-1970s-2010s/) and [access](https://globaldialogue.isa-sociology.org/wp-content/uploads/2017/08/v7i3-english.pdf))
+### Dissertation, other journals, databases and dashboards
 
-__Akbaritabar, Aliakbar__ (2012) _A Meta-Analysis of SNA Textbooks, special issue on Social Networks_, Ketab-e-Mah magazine, Tehran, Iran (In Persian)
+__Akbaritabar, Aliakbar__; Tom Theile; Emilio Zagheni (2023) Scholarly Migration Database, a publicly accessible database on migration scholars worldwide based on Scopus data (to be inaugurated at the upcoming PAA2023).
+
+__Akbaritabar, Aliakbar__ (2019) Quantitative Sociology of Academic Work in An Era of Hyper-competition and Rankings, PhD Dissertation, Università degli Studi di Milano, [https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16](https://doi.org/10.13130/AKBARITABAR-ALIAKBAR_PHD2019-04-16) ([access](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/))
+
+__Akbaritabar, Aliakbar__ (2018) Interactive dashboard on key Actors in Higher Education Research and Science Studies (HERSS), developed at German Center for Higher Education Research and Science Studies (DZHW) on request of Federal Ministry of Education and Research (BMBF), ([https://akbaritabar.github.io/CV_MD/herss_world_map_flexdashboard.html](https://akbaritabar.github.io/CV_MD/UNIMI_thesis/))
+
+Squazzoni, Flaminio; __Akbaritabar, Aliakbar__ (2017) Internationalizing Sociology in Italy, 1970s-2010s, Global Dialogue, ISA (International Sociological Association), Volume 7, Issue 3, 10-11 ([access](https://globaldialogue.isa-sociology.org/internationalizing-sociology-in-italy-1970s-2010s/) and [access](https://globaldialogue.isa-sociology.org/wp-content/uploads/2017/08/v7i3-english.pdf))
+
+__Akbaritabar, Aliakbar__ (2012) A Meta-Analysis of SNA Textbooks, special issue on Social Networks, Ketab-e-Mah magazine, Tehran, Iran (In Persian)
 
 ### Preprints and working papers
 
-Castro Torres, Andres. F.; __Akbaritabar, Aliakbar__ (2022). Methodological monotheism across fields of science in contemporary quantitative research. arXiv. ([https://doi.org/10.48550/arXiv.2208.05373](https://doi.org/10.48550/arXiv.2208.05373))
+ __Akbaritabar, Aliakbar__ (2022) Dichotomy of Offline Versus Online Social Capital. Available at SSRN: ([http://dx.doi.org/10.2139/ssrn.4311832](http://dx.doi.org/10.2139/ssrn.4311832))
 
-Kashyap, R.; Rinderknecht, R. G.; __Akbaritabar, A.__; Alburez-Gutierrez, D.; Gil-Clavel, S.; Grow, A.; … Zhao, X. (2022, April 21). _Digital and Computational Demography_. ([https://doi.org/10.31235/osf.io/7bvpt](https://doi.org/10.31235/osf.io/7bvpt))
+Castro Torres, Andres. F.; __Akbaritabar, Aliakbar__ (2022). Methodological monotheism across fields of science in contemporary quantitative research. _arXiv_. ([https://doi.org/10.48550/arXiv.2208.05373](https://doi.org/10.48550/arXiv.2208.05373))
 
-__Akbaritabar, A.__; Zhao, X.; & Zagheni, E. (2022, April). _Internal Versus International Scholarly Mobility and Migration Worldwide_. In PAA 2022 Annual Meeting. PAA.
+Kashyap, R.; Rinderknecht, R. G.; __Akbaritabar, A.__; Alburez-Gutierrez, D.; Gil-Clavel, S.; Grow, A.; … Zhao, X. (2022, April 21). Digital and Computational Demography. ([https://doi.org/10.31235/osf.io/7bvpt](https://doi.org/10.31235/osf.io/7bvpt))
 
-__Akbaritabar, Aliakbar__; Stephen, Dimity (2021) _A Disciplinary View of Changes in Publications' Reference Lists After Peer Review_, arXiv ([https://arxiv.org/abs/2102.03110](https://arxiv.org/abs/2102.03110)), (*Published in Journal of Informetrics: [https://doi.org/10.1016/j.joi.2022.101258](https://doi.org/10.1016/j.joi.2022.101258)*)
+__Akbaritabar, A.__; Zhao, X.; & Zagheni, E. (2022, April). Internal Versus International Scholarly Mobility and Migration Worldwide. In PAA 2022 Annual Meeting. PAA.
 
-__Akbaritabar, Aliakbar__ (2021) _Quantitative View of the Structure of Institutional Scientific Collaborations Using the Examples of Halle, Jena and Leipzig_, arXiv ([https://arxiv.org/abs/2101.05784](https://arxiv.org/abs/2101.05784))
+__Akbaritabar, Aliakbar__; Stephen, Dimity (2021) A Disciplinary View of Changes in Publications' Reference Lists After Peer Review, arXiv ([https://arxiv.org/abs/2102.03110](https://arxiv.org/abs/2102.03110)), (Published in *Journal of Informetrics*: [https://doi.org/10.1016/j.joi.2022.101258](https://doi.org/10.1016/j.joi.2022.101258))
 
-__Akbaritabar, Aliakbar__ (2020) _Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations_, arXiv ([https://arxiv.org/abs/2008.08355](https://arxiv.org/abs/2008.08355)), (*Published in Quantitative Science Studies: [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131)*)
+__Akbaritabar, Aliakbar__ (2021) Quantitative View of the Structure of Institutional Scientific Collaborations Using the Examples of Halle, Jena and Leipzig, arXiv ([https://arxiv.org/abs/2101.05784](https://arxiv.org/abs/2101.05784))
 
-__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Applying Crossref and Unpaywall information to identify gold, hidden gold, hybrid and delayed Open Access publications in the KB corpus._,  SocArXiv ([https://doi.org/10.31235/osf.io/sdzft](https://doi.org/10.31235/osf.io/sdzft))
+__Akbaritabar, Aliakbar__ (2020) Berlin: A Quantitative View of the Structure of Institutional Scientific Collaborations, _arXiv_ ([https://arxiv.org/abs/2008.08355](https://arxiv.org/abs/2008.08355)), (Published in *Quantitative Science Studies*: [https://doi.org/10.1162/qss_a_00131](https://doi.org/10.1162/qss_a_00131))
 
-__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Merits and Limits: Applying open data to monitor open access publications in bibliometric databases_, arXiv ([https://arxiv.org/abs/1902.03937](https://arxiv.org/abs/1902.03937))
+__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) Applying Crossref and Unpaywall information to identify gold, hidden gold, hybrid and delayed Open Access publications in the KB corpus.,  _SocArXiv_ ([https://doi.org/10.31235/osf.io/sdzft](https://doi.org/10.31235/osf.io/sdzft))
 
-__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Jullien, Nicolas (2015) _A tool for dynamic measurement of social capital embedded in Online Social Networks_, Grafo working papers, electronic journal, Issue 4, Nº 04/y1. ISSN: 2014-5993 ([access](https://revistes.uab.cat/grafowp/article/view/14/vol4-n1-Akbaritabar))
+__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) Merits and Limits: Applying open data to monitor open access publications in bibliometric databases, _arXiv_ ([https://arxiv.org/abs/1902.03937](https://arxiv.org/abs/1902.03937))
+
+__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Jullien, Nicolas (2015) A tool for dynamic measurement of social capital embedded in Online Social Networks, _Grafo working papers_, electronic journal, Issue 4, Nº 04/y1. ISSN: 2014-5993 ([access](https://revistes.uab.cat/grafowp/article/view/14/vol4-n1-Akbaritabar))
 
 
 ### Invited talks
 
 __Public archive of presentations__:  [https://akbaritabar.github.io](https://akbaritabar.github.io)
 
-__Akbaritabar, Aliakbar__; Rubin, Beatrix (2022) _Plasticity: the anchor concept of the neurosciences_, Robert Merton Centre for Science Studies, Humboldt University of Berlin, Germany
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio; Dańko, Maciej J. (2022) Internal and international migration of scholars worldwide: Trends, patterns, and inter-relationships, [RISIS research seminars](https://www.risis2.eu/2022/11/21/internal-versus-international-scholarly-mobility-and-migration-worldwide/), Lugano, Switzerland (online)
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, Seminar series of Canada Research Chair on the Transformations of Scholarly Communication, Prof. Vincent Larivière, University of Montreal, Canada
+Castro Torres, Andres. F.; __Akbaritabar, Aliakbar__ (2022). Methodological monotheism across fields of science in contemporary quantitative research, Seminar series of Canada Research Chair on the Transformations of Scholarly Communication, Prof. Vincent Larivière, University of Montreal, Canada (talk delivered by Andres Castro)
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, 3rd Thematic workshop "Migration and Big Data", French Collaborative Institute on Migration, CNRS, 25/11/2021 ([access](https://www.icmigrations.cnrs.fr/2021/10/26/thursday-25th-november-2021-2-4pm-online-3rd-thematic-workshop-migration-and-big-data/))
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) Internal versus international scholarly mobility and migration worldwide, University of Koblenz, Germany
 
-__Akbaritabar, Aliakbar__; Vacca, Raffaele; McCarty, Christopher; Squazzoni, Flaminio (2020) _Organized Track: Network Analysis for the Science of Science_, 40th INSNA Sunbelt conference (Virtual), 13-17/07/2020, Online ([access](https://www.pfeffer.at/sunbelt/talks/track_30.html))
+__Akbaritabar, Aliakbar__; Rubin, Beatrix (2022) Plasticity: the anchor concept of the neurosciences, Robert Merton Centre for Science Studies, Humboldt University of Berlin, Germany
 
-__Akbaritabar, Aliakbar__ (2020) _Italian sociologists: a community of disconnected groups_, The Mitchell Centre for Social Network Analysis seminars, 24/06/2020, Manchester, UK (Virtual) ([video](https://youtu.be/Vo3t9K0YHbk))
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) Internal versus international scholarly mobility and migration worldwide, Seminar series of Canada Research Chair on the Transformations of Scholarly Communication, Prof. Vincent Larivière, University of Montreal, Canada
 
-__Akbaritabar, Aliakbar__; Barbato, Giovanni (2020) _A Network Analysis Study on the Internationalization of Higher Education Research_, University College London (UCL) Virtual workshop for special issue of European Journal of Education, 06/05/2020, London, UK
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) Internal versus international scholarly mobility and migration worldwide, 3rd Thematic workshop "Migration and Big Data", French Collaborative Institute on Migration, CNRS, 25/11/2021 ([access](https://www.icmigrations.cnrs.fr/2021/10/26/thursday-25th-november-2021-2-4pm-online-3rd-thematic-workshop-migration-and-big-data/))
 
-__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Merits and Limits: Applying open data to monitor open access publications in bibliometric databases_, Workshop on Matching procedures for Unpaywall and Web of Science, Bielefeld University, 18/06/2019, Bielefeld, Germany
+__Akbaritabar, Aliakbar__; Vacca, Raffaele; McCarty, Christopher; Squazzoni, Flaminio (2020) Organized Track: Network Analysis for the Science of Science, 40th INSNA Sunbelt conference (Virtual), 13-17/07/2020, Online ([access](https://www.pfeffer.at/sunbelt/talks/track_30.html))
 
-__Akbaritabar, Aliakbar__ (2019) _A spatial scientometric and network analysis of Higher Education Research and Science Studies (HERSS)_, International symposium on Academia in the Age of Comparison: Methodological and Empirical Perspectives in an Interdisciplinary Dialogue, Leibniz Center for Science and Society (LCSS) of Hanover University, 13-14/06/2019, Hanover, Germany
+__Akbaritabar, Aliakbar__ (2020) Italian sociologists: a community of disconnected groups, The Mitchell Centre for Social Network Analysis seminars, 24/06/2020, Manchester, UK (Virtual) ([video](https://youtu.be/Vo3t9K0YHbk))
 
-__Akbaritabar, Aliakbar__ (2019) _Dashboards for academic reports? Introducing HERSS Dashboard (Key Actors in Higher Education Research and Science Studies)_, Research Colloquium, German Center for Higher Education Research and Science Studies (DZHW), 19/02/2018, Berlin, Germany
+__Akbaritabar, Aliakbar__; Barbato, Giovanni (2020) A Network Analysis Study on the Internationalization of Higher Education Research, University College London (UCL) Virtual workshop for special issue of European Journal of Education, 06/05/2020, London, UK
 
-__Akbaritabar, Aliakbar__ (2018) _A quantitative sociology of academic work in an era of hypercompetition and rankings; a collection of three studies_, CTWS (Centre for Science and Technology Studies) seminars, 16/02/2018, Leiden University, Leiden, Netherlands ([access](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater))
+__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) Merits and Limits: Applying open data to monitor open access publications in bibliometric databases, Workshop on Matching procedures for Unpaywall and Web of Science, Bielefeld University, 18/06/2019, Bielefeld, Germany
 
-__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) _Gender and ethnic patterns of publication in top sociology journals (Success stories only!)_, GECS (research Group in Experimental and Computational Sociology) seminars, 10/01/2018, University of Brescia, Brescia, Italy ([access](https://www.facebook.com/events/1781262078846749/))
+__Akbaritabar, Aliakbar__ (2019) A spatial scientometric and network analysis of Higher Education Research and Science Studies (HERSS), International symposium on Academia in the Age of Comparison: Methodological and Empirical Perspectives in an Interdisciplinary Dialogue, Leibniz Center for Science and Society (LCSS) of Hanover University, 13-14/06/2019, Hanover, Germany
 
-__Akbaritabar, Aliakbar__ (2017) _Iranian's Cyber Social Capital A comparative SNA study on a sample of English, French and Persian speaking users of Facebook and Google plus_, SNA group, Iranian Sociological Association, 19/06/2017, Tehran, Iran
+__Akbaritabar, Aliakbar__ (2019) Dashboards for academic reports? Introducing HERSS Dashboard (Key Actors in Higher Education Research and Science Studies), Research Colloquium, German Center for Higher Education Research and Science Studies (DZHW), 19/02/2018, Berlin, Germany
 
-__Akbaritabar, Aliakbar__; Casnici, Niccolo; Squazzoni, Flaminio (2017) _Contexts that matter the most: Institutional embeddedness of research productivity of sociologists in Italy_, GECS (research Group in Experimental and Computational Sociology) seminars, 13/01/2017, University of Brescia, Brescia, Italy ([access](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1310183629046483/?type=3))
+__Akbaritabar, Aliakbar__ (2018) A quantitative sociology of academic work in an era of hypercompetition and rankings; a collection of three studies, CTWS (Centre for Science and Technology Studies) seminars, 16/02/2018, Leiden University, Leiden, Netherlands ([access](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1711217065609802/?type=3&theater))
 
-__Akbaritabar, Aliakbar__ (2013) _Organizational Network Analysis (ONA): How Social Media will change the way Information is shared in Organizations_, Second National Conference on Social Media day, 30/05/2013, Tehran, Iran
+__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) Gender and ethnic patterns of publication in top sociology journals (Success stories only!), GECS (research Group in Experimental and Computational Sociology) seminars, 10/01/2018, University of Brescia, Brescia, Italy ([access](https://www.facebook.com/events/1781262078846749/))
 
-__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar (2013) _How Online Social Networks shape youth's Lifestyle and Leisure time_, National Congress on Lifestyle and leisure Time, 14/08/2013, Shiraz University, Iran
+__Akbaritabar, Aliakbar__ (2017) Iranian's Cyber Social Capital A comparative SNA study on a sample of English, French and Persian speaking users of Facebook and Google plus, SNA group, Iranian Sociological Association, 19/06/2017, Tehran, Iran
 
-__Akbaritabar, Aliakbar__ (2011) _Book-based Group Activities in Social Networking Sites, Case study of U24.ir_, Conference on Book and Social Media, 01/2011, Tehran, Iran
+__Akbaritabar, Aliakbar__; Casnici, Niccolo; Squazzoni, Flaminio (2017) Contexts that matter the most: Institutional embeddedness of research productivity of sociologists in Italy, GECS (research Group in Experimental and Computational Sociology) seminars, 13/01/2017, University of Brescia, Brescia, Italy ([access](https://www.facebook.com/gecsbrescia/photos/a.438297832901738.105880.421773057887549/1310183629046483/?type=3))
 
-__Akbaritabar, Aliakbar__ (2011) _How to use SNA in study of online social networks_, Conference on Online Social Networks and Everyday Life, 05/2011, Tehran University, Tehran, Iran
+__Akbaritabar, Aliakbar__ (2013) Organizational Network Analysis (ONA): How Social Media will change the way Information is shared in Organizations, Second National Conference on Social Media day, 30/05/2013, Tehran, Iran
 
-__Akbaritabar, Aliakbar__; Saei, Ali; Khodaei, Ebrahim (2011) _Youth Responsibility In Online Social Networks: Case Study of U24.ir_, National Conference on Youth Responsibility, 05/2011, Shiraz University, Shiraz
+__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar (2013) How Online Social Networks shape youth's Lifestyle and Leisure time, National Congress on Lifestyle and leisure Time, 14/08/2013, Shiraz University, Iran
+
+__Akbaritabar, Aliakbar__ (2011) Book-based Group Activities in Social Networking Sites, Case study of U24.ir, Conference on Book and Social Media, 01/2011, Tehran, Iran
+
+__Akbaritabar, Aliakbar__ (2011) How to use SNA in study of online social networks, Conference on Online Social Networks and Everyday Life, 05/2011, Tehran University, Tehran, Iran
+
+__Akbaritabar, Aliakbar__; Saei, Ali; Khodaei, Ebrahim (2011) Youth Responsibility In Online Social Networks: Case Study of U24.ir, National Conference on Youth Responsibility, 05/2011, Shiraz University, Shiraz
 
 ### Conferences presentations
 
 **Overview**
 
-**2022**: [PAA](https://www.populationassociation.org/paa2022/home) (virtual), [EPC](https://eaps.nl/epc/european-population-conference-2022) (Groningen), [INSNA-Sunbelt](https://www.insna.org/sunbelt-2022) (virtual), [IMISCOE](https://www.imiscoe.org/events/imiscoe-events/1124-imiscoe-spring-conference-2022) (virtual), [IC2S2](http://ic2s2.org/) (virtual)
+**2022** (virtual): [PAA](https://www.populationassociation.org/paa2022/home), [EPC](https://eaps.nl/epc/european-population-conference-2022) (Groningen), [INSNA-Sunbelt](https://www.insna.org/sunbelt-2022), [IMISCOE](https://www.imiscoe.org/events/imiscoe-events/1124-imiscoe-spring-conference-2022), [IC2S2](http://ic2s2.org/)
 
 **2021** (virtual): [Networks21](https://networks2021.net/), [IC2S2](https://ic2s2-2021.ethz.ch/), [DZHW-Workshop](https://www.dzhw.eu/en/forschung/projekt?pr_id=676), [IPC/IUSSP](https://ipc2021.popconf.org/)
 
-**2020** (virtual): [INSNA-Sunbelt](https://www.insna.org/sunbelt-archives), [PEERE'2](https://www.peere.org/conference/) (Valencia)
+**2020** (virtual): [INSNA-Sunbelt](https://www.insna.org/sunbelt-archives), [PEERE'2](https://www.peere.org/conference/)
 
 **2019**: [IC2S2](https://2019.ic2s2.org/) (Amsterdam), [CNDSS](https://web.uniroma1.it/coris/archivionotizie/iv-conferenza-nazionale-delle-dottorande-e-dei-dottorandi-scienze-sociali) (Rome), [ISSI-STI](https://www.issi-society.org/conferences/) (Rome)
 
@@ -195,70 +211,75 @@ __Akbaritabar, Aliakbar__; Saei, Ali; Khodaei, Ebrahim (2011) _Youth Responsibil
 
 **Details**
 
-__Akbaritabar, Aliakbar__ (2022) _Pandemic calls for revisiting the dichotomy of offline versus online social capital_,  8th International Conference on Computational Social Science (IC2S2) (University of Chicago, Virtual) ([IC2S2 2022](https://iscss.org/ic2s2/conference/)), poster presentation, 19-22/07/2022
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio; Dańko, Maciej J. (2023) Internal and international migration of scholars worldwide: Trends, patterns, and inter-relationships, [AISP-SIS, PopDays 2023](https://www.sis-aisp.it/ocs-2.3.4/index.php/popdays2023/popdays2023/), Rome, Italy
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_,  XLIInd Social Networks Conference of the International Network for Social Network Analysis (INSNA) (Cairns, Virtual) ([Sunbelt 2022](https://www.insna.org/events/sunbelt-2022)), talk by Xinyi Zhao, 15/07/2022
+__Akbaritabar, Aliakbar__ (2022) Pandemic calls for revisiting the dichotomy of offline versus online social capital,  8th International Conference on Computational Social Science (IC2S2) (University of Chicago, Virtual) ([IC2S2 2022](https://iscss.org/ic2s2/conference/)), poster presentation, 19-22/07/2022
 
-__Akbaritabar, Aliakbar__ (2022) _Pandemic calls for revisiting the dichotomy of offline versus online social capital_,  XLIInd Social Networks Conference of the International Network for Social Network Analysis (INSNA) (Cairns, Virtual) ([Sunbelt 2022](https://www.insna.org/events/sunbelt-2022)), talk by Xinyi Zhao, 13/07/2022
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) Internal versus international scholarly mobility and migration worldwide,  XLIInd Social Networks Conference of the International Network for Social Network Analysis (INSNA) (Cairns, Virtual) ([Sunbelt 2022](https://www.insna.org/events/sunbelt-2022)), talk delivered by Xinyi Zhao, 15/07/2022
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, European Population Conference, University of Groningen, The Netherlands ([EPC2022](https://epc2022.eaps.nl/)), talk, 30/06/2022
+__Akbaritabar, Aliakbar__ (2022) Pandemic calls for revisiting the dichotomy of offline versus online social capital,  XLIInd Social Networks Conference of the International Network for Social Network Analysis (INSNA) (Cairns, Virtual) ([Sunbelt 2022](https://www.insna.org/events/sunbelt-2022)), 13/07/2022
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, 19th IMISCOE annual conference, University of Oslo, Norway (Online) ([IMISCOE](https://www.imiscoe.org/events/imiscoe-events/1380-19th-imiscoe-annual-conference)), talk, 30/06/2022
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) Internal versus international scholarly mobility and migration worldwide, European Population Conference, University of Groningen, The Netherlands ([EPC2022](https://epc2022.eaps.nl/)), talk, 30/06/2022
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) _Internal versus international scholarly mobility and migration worldwide_, 2022 Annual Meeting Population Association of America ([PAA2022](https://www.populationassociation.org/paa2022/)), Flash talk, 08/04/2022
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) Internal versus international scholarly mobility and migration worldwide, 19th IMISCOE annual conference, University of Oslo, Norway (Online) ([IMISCOE](https://www.imiscoe.org/events/imiscoe-events/1380-19th-imiscoe-annual-conference)), talk, 30/06/2022
 
-Abdi Nur, Aasli ; __Akbaritabar, Aliakbar__; Vignau-Loría, María ; Coolman, Noah ; Fan, Xinguang; Curran, Sara  (2022) _The Diffusion of Scientific Knowledge on Family Planning Behavior: When, Where, and by Whom Is Research Being Done?_, 2022 Annual Meeting Population Association of America ([PAA2022](https://www.populationassociation.org/paa2022/)), poster presentation, 07/04/2022
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2022) Internal versus international scholarly mobility and migration worldwide, 2022 Annual Meeting Population Association of America ([PAA2022](https://www.populationassociation.org/paa2022/)), Flash talk, 08/04/2022
 
-__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, International Union for the Scientific Study of Population (IUSSP), International Population Conference (IPC2021), 06/12/2021 ([access](https://ipc2021.popconf.org/abstracts/211016))
+Abdi Nur, Aasli; __Akbaritabar, Aliakbar__; Vignau-Loría, María; Coolman, Noah; Fan, Xinguang; Curran, Sara  (2022) The Diffusion of Scientific Knowledge on Family Planning Behavior: When, Where, and by Whom Is Research Being Done?, 2022 Annual Meeting Population Association of America ([PAA2022](https://www.populationassociation.org/paa2022/)), poster presentation, 07/04/2022
 
-Abdi Nur, Aasli ; __Akbaritabar, Aliakbar__; Vignau-Loría, María ; Coolman, Noah ; Fan, Xinguang; Curran, Sara  (2021) _The diffusion of scientific knowledge on family planning behavior: when, where, how and by whom is research being done?_, International Union for the Scientific Study of Population (IUSSP), International Population Conference (IPC2021), poster presentation, 06/12/2021 ([access](https://ipc2021.popconf.org/abstracts/211073))
+__Akbaritabar, Aliakbar__; Zhao, Xinyi; Zagheni, Emilio (2021) Internal versus international scholarly mobility and migration worldwide, International Union for the Scientific Study of Population (IUSSP), International Population Conference (IPC2021), 06/12/2021 ([access](https://ipc2021.popconf.org/abstracts/211016))
 
-__Akbaritabar, Aliakbar__; Zagheni, Emilio (2021) _Internal versus international scholarly mobility and migration worldwide_, Workshop on [Methodological Innovations in Research on Spatial Mobility: Potentials and Pitfalls.](https://www.dzhw.eu/en/forschung/projekt?pr_id=676), 27-28/09/2021, German Centre for Higher Education Research and Science Studies (DZHW), Hanover (Virtual)
+Abdi Nur, Aasli; __Akbaritabar, Aliakbar__; Vignau-Loría, María; Coolman, Noah; Fan, Xinguang; Curran, Sara  (2021) The diffusion of scientific knowledge on family planning behavior: when, where, how and by whom is research being done?, International Union for the Scientific Study of Population (IUSSP), International Population Conference (IPC2021), poster presentation, 06/12/2021 ([access](https://ipc2021.popconf.org/abstracts/211073))
 
-__Akbaritabar, Aliakbar__ (2021) _A quantitative view of the structure of institutional scientific collaborations_, 7th International Conference on Computational Social Science ([IC^2^S^2^ 2021](https://ic2s2-2021.ethz.ch/)), 28/07/2021, ETH Zurich, Switzerland (Virtual)
+__Akbaritabar, Aliakbar__; Zagheni, Emilio (2021) Internal versus international scholarly mobility and migration worldwide, Workshop on [Methodological Innovations in Research on Spatial Mobility: Potentials and Pitfalls.](https://www.dzhw.eu/en/forschung/projekt?pr_id=676), 27-28/09/2021, German Centre for Higher Education Research and Science Studies (DZHW), Hanover (Virtual)
 
-__Akbaritabar, Aliakbar__ (2021) _A quantitative view of the structure of institutional scientific collaborations_, [Networks 2021: A Joint Sunbelt and NetSci Conference](https://networks2021.net/), 10/07/2021, Indiana University Network Science Institute, USA (Virtual)
+__Akbaritabar, Aliakbar__ (2021) A quantitative view of the structure of institutional scientific collaborations, 7th International Conference on Computational Social Science ([IC^2^S^2^ 2021](https://ic2s2-2021.ethz.ch/)), 28/07/2021, ETH Zurich, Switzerland (Virtual)
 
-__Akbaritabar, Aliakbar__; Stephen, Dimity; Hartstein, Judith; Heger, Christophe (2020) _Changing the shoulders I am standing on! Describing the changes that occurred in publications' reference lists after peer review_, The 2nd PEERE International Conference on Peer Review (Virtual), 29/09/2020 
-01/10/2020, Online ([access](https://www.peere.org/conference/)) (talk given by Dimity Stephen)
+__Akbaritabar, Aliakbar__ (2021) A quantitative view of the structure of institutional scientific collaborations, [Networks 2021: A Joint Sunbelt and NetSci Conference](https://networks2021.net/), 10/07/2021, Indiana University Network Science Institute, USA (Virtual)
 
-Barbato, Giovanni; __Akbaritabar, Aliakbar__ (2020) _Spatial Network Analysis of Internationalization in Higher Education field_, 40^th^ INSNA Sunbelt conference (Virtual), 13-17/07/2020, Online ([access](https://www.pfeffer.at/sunbelt/talks/track_30.html))
+__Akbaritabar, Aliakbar__; Stephen, Dimity; Hartstein, Judith; Heger, Christophe (2020) Changing the shoulders I am standing on! Describing the changes that occurred in publications' reference lists after peer review, The 2nd PEERE International Conference on Peer Review (Virtual), 29/09/2020-01/10/2020, Online ([access](https://www.peere.org/conference/)) (talk given by Dimity Stephen)
 
-__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) _Merits and Limits: Applying open data to monitor Open access publications in bibliometric databases_, 17^th^ International Conference on  Scientometrics and Informetrics (ISSI), Sapienza University, 2-5/09/2019, Rome, Italy ([access](https://issi-society.org/publications/issi-conference-proceedings/))
+Barbato, Giovanni; __Akbaritabar, Aliakbar__ (2020) Spatial Network Analysis of Internationalization in Higher Education field, 40^th^ INSNA Sunbelt conference (Virtual), 13-17/07/2020, Online ([access](https://www.pfeffer.at/sunbelt/talks/track_30.html))
 
-__Akbaritabar, Aliakbar__ (2019) _Italian sociology: a community of disconnected groups_, IV Conferenza Nazionale delle Dottorande e dei Dottorandi in Scienze Sociali, Sapienza University, 5-6/09/2019, Rome, Italy
+__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan (2019) Merits and Limits: Applying open data to monitor Open access publications in bibliometric databases, 17^th^ International Conference on  Scientometrics and Informetrics (ISSI), Sapienza University, 2-5/09/2019, Rome, Italy ([access](https://issi-society.org/publications/issi-conference-proceedings/))
 
-__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2019) _Quantitative Sociology of Academic Work_, Science studies organized panel, 5^th^ International Conference on Computational Social Science (IC^2^S^2^), 17-20/07/2019, University of Amsterdam, The Netherlands
+__Akbaritabar, Aliakbar__ (2019) Italian sociology: a community of disconnected groups, IV Conferenza Nazionale delle Dottorande e dei Dottorandi in Scienze Sociali, Sapienza University, 5-6/09/2019, Rome, Italy
 
-__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) _Co-authorship strategies of Social Networks authors_, Scientific Networks organized panel, XXXVIII Sunbelt conference, 26/06/2018 
+__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2019) Quantitative Sociology of Academic Work, Science studies organized panel, 5^th^ International Conference on Computational Social Science (IC^2^S^2^), 17-20/07/2019, University of Amsterdam, The Netherlands
+
+__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) Co-authorship strategies of Social Networks authors, Scientific Networks organized panel, XXXVIII Sunbelt conference, 26/06/2018 
 01/07/2018, Utrecht, Netherlands
 
-__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) _Tweet review: a network study on tweets about peer review_, PEERE (New Frontiers of Peer Review) conference, 7-9/03/2018, CNR, Rome, Italy ([access](https://www.peere.org/conference/conference-programme/) and [access](https://www.facebook.com/akbaritabar/posts/1891979047479423?pnref=story))
+__Akbaritabar, Aliakbar__; Squazzoni, Flaminio (2018) Tweet review: a network study on tweets about peer review, PEERE (New Frontiers of Peer Review) conference, 7-9/03/2018, CNR, Rome, Italy ([access](https://www.peere.org/conference/conference-programme/) and [access](https://www.facebook.com/akbaritabar/posts/1891979047479423?pnref=story))
 
-__Akbaritabar, Aliakbar__(2016) _how do scholars collaborate with each other? Comparative study on Co-authorship Networks of Scholars Worldwide Using Big Data_, Second European Conference on Social Networks (EUSN), 14-17/06/2016, Paris, France ([video](https://www.youtube.com/watch?v=h2QIYbMJ3v4&t=7s) and [access](https://eusn2016.sciencesconf.org/conference/eusn2016/program_overview.pdf))
+__Akbaritabar, Aliakbar__(2016) how do scholars collaborate with each other? Comparative study on Co-authorship Networks of Scholars Worldwide Using Big Data, Second European Conference on Social Networks (EUSN), 14-17/06/2016, Paris, France ([video](https://www.youtube.com/watch?v=h2QIYbMJ3v4&t=7s) and [access](https://eusn2016.sciencesconf.org/conference/eusn2016/program_overview.pdf))
 
-__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 35th Sunbelt Organized by INSNA, 23-28/06/2015, Brighton, UK ([video](https://www.youtube.com/watch?v=XrfMEmpmFyw&t=1s))
+__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar (2015) Virtual/Cyber Social Capital; a new method to measure Online Social Capital, 35th Sunbelt Organized by INSNA, 23-28/06/2015, Brighton, UK ([video](https://www.youtube.com/watch?v=XrfMEmpmFyw&t=1s))
 
-__Akbaritabar, Aliakbar__; Eskandaripour, Ebrahim; Ahmadigharacheh, Ehsan (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, 1st Annual Computational Social Science Summit: Collaborative Futures, 15-17/05/2015, Kellogg School of Management, Northwestern University, USA (Poster presentation)
+__Akbaritabar, Aliakbar__; Eskandaripour, Ebrahim; Ahmadigharacheh, Ehsan (2015) Virtual/Cyber Social Capital; a new method to measure Online Social Capital, 1st Annual Computational Social Science Summit: Collaborative Futures, 15-17/05/2015, Kellogg School of Management, Northwestern University, USA (Poster presentation)
 
-__Akbaritabar, Aliakbar__ (2011) _Factors Related with Students' Commitment to University_, INTED2011 (International Technology, Education and Development Conference), 7-9/03/2011, Valencia, Spain
+__Akbaritabar, Aliakbar__ (2011) Factors Related with Students' Commitment to University, INTED2011 (International Technology, Education and Development Conference), 7-9/03/2011, Valencia, Spain
 
-__Akbaritabar, Aliakbar__; Boostani, Darioush (2011) _Sociological Pathology of Medical Education in Iran_, 12th National Conference on Medical Education, 05/2011, Ferdowsi University of Mashhad, Mashhad, Iran (done with in-depth interview as data collection method)
+__Akbaritabar, Aliakbar__; Boostani, Darioush (2011) Sociological Pathology of Medical Education in Iran, 12th National Conference on Medical Education, 05/2011, Ferdowsi University of Mashhad, Mashhad, Iran (done with in-depth interview as data collection method)
 
-Jabbareh, Mohammad Amin; __Akbaritabar, Aliakbar__; Abdolah Zade, Amir (2010) _Study on Trends of Research in Materials Science_, 4th Integrated Conference of Metallurgy Engineers and Iran's Scientific Committee of Casting, 11/2010, Iran university of Science and Technology, Tehran Iran
+Jabbareh, Mohammad Amin; __Akbaritabar, Aliakbar__; Abdolah Zade, Amir (2010) Study on Trends of Research in Materials Science, 4th Integrated Conference of Metallurgy Engineers and Iran's Scientific Committee of Casting, 11/2010, Iran university of Science and Technology, Tehran Iran
 
 ## Academic service
 ### Teaching activities
 
-2022, together with Xinyi Zhao, 3 hours 45 minutes workshop on Using bibliometric data in demographic research, European Population Conference 2022 ([EPC2022](https://eaps.nl/epc/european-population-conference-2022)), Groningen, The Netherlands, hosted by the IUSSP panel on digital demography (workshop materials: [https://github.com/akbaritabar/bibliometric_data_for_demographic_research](https://github.com/akbaritabar/bibliometric_data_for_demographic_research))
+2022, one day lecture on Scholarly Migration, International Max Planck Research School for Population, Health and Data Science (IMPRS-PHDS), MPIDR and virtual, Germany ([course materials](https://github.com/MPIDR/BiblioDemography_IMPRS_PHDS_2022_IDEM187))
 
-2022, 2 hours tutorial on "Introduction to text analysis and bibliometric data" with hands-on coding session, [Population and Social Data Science Summer Incubator Program](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/population_and_social_data_science_summer_incubator_program_10619), Max Planck Institute for Demographic Research, Germany
+2022, guest lecture on Parallelized analysis of bibliometric and text data using Python and SQL, invited by Samin Aref, University of Toronto, Canada ([course materials](https://github.com/akbaritabar/Parallelised-analysis-of-large-scale-bibliometric-and-text-data))
+
+2022, together with Xinyi Zhao, 3 hours 45 minutes workshop on Using bibliometric data in demographic research, European Population Conference 2022 ([EPC2022](https://eaps.nl/epc/european-population-conference-2022)), Groningen, The Netherlands, hosted by the IUSSP panel on digital demography ([course materials](https://github.com/MPIDR/bibliometric_data_for_demographic_research))
+
+2022, 2 hours tutorial on "Introduction to text analysis and bibliometric data" with hands-on coding session, [Population and Social Data Science Summer Incubator Program](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/population_and_social_data_science_summer_incubator_program_10619), Max Planck Institute for Demographic Research, Germany ([course materials](https://github.com/akbaritabar/bibliometric_data_for_demographic_research))
 
 2022 [cancelled], together with Xinyi Zhao, Using bibliometric data in demographic research, Population Association of America 2022 Annual Meeting ([PAA2022](https://www.populationassociation.org/paa2022/paa2022-related-events/2022-workshops)), Atlanta, Georgia, USA
 
-2022, Guest lecture on parallelized analysis of bibliometric data using Python and SQL, invited by Misha Teplitskiy, School of Information, University of Michigan (online), ([video](https://youtu.be/pYDVrBcIuYI))
+2022, guest lecture on parallelized analysis of bibliometric data using Python and SQL, invited by Misha Teplitskiy, School of Information, University of Michigan ([video](https://youtu.be/pYDVrBcIuYI), [course materials](https://github.com/akbaritabar/Parallelised-analysis-of-large-scale-bibliometric-and-text-data))
 
-2019, Introduction to network analysis, Lecture series on methods of science studies, Humboldt University of Berlin, Germany
+2019, Introduction to network analysis, Lecture series on methods of science studies, Humboldt University of Berlin, Germany ([slides](https://akbaritabar.github.io/2019/20191121_HU_Berlin_Seminar_Network_Analysis.pdf))
 
 2013 - 2014, Adjunct professor, Yazd University, Iran
 
@@ -293,13 +314,19 @@ __2019 - 2021__
 
 German Centre for Higher Education Research and Science Studies, Germany
 
-### Peer review
+### Peer review and award committee memberships
 
 Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbaritabar/](https://publons.com/researcher/1487027/aliakbar-akbaritabar/)
 
-2022, Peer Reviewer, The 26th International Conference on Science, Technology and Innovation Indicators ([STI2022](https://sti2022.org/))
+2022, [IMPRS-PHDS Annual Academy](https://www.imprs-phds.mpg.de/) poster award committee member
+
+2022, Peer Reviewer, [American Sociological Review (ASR)](https://journals.sagepub.com/home/asr)
+
+2022, Peer Reviewer, [Global Networks](https://onlinelibrary.wiley.com/journal/14710374)
 
 2022, Peer Reviewer, [Humanities and Social Sciences Communications - Nature](https://www.nature.com/palcomms/)
+
+2022, Peer Reviewer, The 26th International Conference on Science, Technology and Innovation Indicators ([STI2022](https://sti2022.org/))
 
 2022 - present, Peer Reviewer, [Applied Network Science](https://appliednetsci.springeropen.com/)
 
@@ -315,7 +342,7 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 
 2020, Peer Reviewer, [European Journal of Education](https://onlinelibrary.wiley.com/journal/14653435)
 
-2020, Peer Reviewer, [Journal of Open Source Software](https://joss.theoj.org/)
+2020 - present, Peer Reviewer, [Journal of Open Source Software](https://joss.theoj.org/)
 
 2020, Peer Reviewer, International Network for Social Network Analysis (INSNA), [Sunbelt 2020](https://www.insna.org/events/sunbelt-2020)
 
@@ -363,7 +390,12 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 2011 - 2015, Member of Iranian National Association of Social Welfare 
 
 ### Funding, grants and awards
-2022, __Co-I__ on a [Templeton grant](https://ces-transformationfund.org/) (submitted by D. Susie Lee as the PI, not selected in the second round of review)
+
+2023, __PI__ (lead applicant with 3 international co-applicants) on a Volkswagen grant submitted for the 2023 call on researching research "Science assessment in the age of migration. A research agenda to promote fair scientific progress worldwide"
+
+2022, __PI__ on an ERC starting grant submitted for the 2023 call on "Scholarly (im)mobility, migration and integration (SIMIN)"
+
+2022, __Co-I__ on a [Templeton grant](https://ces-transformationfund.org/) (submitted by D. Susie Lee as the PI which was not selected in the second round of review)
 
 2015-2018, __3-years PhD scholarship__ in Economic Sociology, University of Milan, Funded by University of Brescia, Italy
 
@@ -447,24 +479,24 @@ Publons reviewer profile [https://publons.com/researcher/1487027/aliakbar-akbari
 
 ### Conference presentations accepted but not presented (due to financial, visa or personal issues)
 
-__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan; Clemens, Blumel (2019) _Giving cRedit: Acknowledging R packages in scientific publications_, accepted to be presented, useR!2019, 9-12/07/2019, Toulouse, France
+__Akbaritabar, Aliakbar__; Stahlschmidt, Stephan; Clemens, Blumel (2019) Giving cRedit: Acknowledging R packages in scientific publications, accepted to be presented, useR!2019, 9-12/07/2019, Toulouse, France
 
-__Akbaritabar, Aliakbar__; Bianchi, Federico; Jullien, Nicolas (2017) _Fairness and Reciprocity in Online Communities. A Large-Scale Survey Experiment among French Wikipedia Users_, accepted to be presented, 3rd European social networks conference, 26-29/09/2017, Mainz, Germany
+__Akbaritabar, Aliakbar__; Bianchi, Federico; Jullien, Nicolas (2017) Fairness and Reciprocity in Online Communities. A Large-Scale Survey Experiment among French Wikipedia Users, accepted to be presented, 3rd European social networks conference, 26-29/09/2017, Mainz, Germany
 
-__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Jullien, Nicolas (2015) _Virtual/Cyber Social Capital; a new method to measure Online Social Capital_, accepted to be presented and published in The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 25-28/08/2015, Paris, France ([access](https://asonam.cpsc.ucalgary.ca/2015/AcceptedMultidisciplinaryTrack.php))
+__Akbaritabar, Aliakbar__; Hezarjaribi, Jafar; Jullien, Nicolas (2015) Virtual/Cyber Social Capital; a new method to measure Online Social Capital, accepted to be presented and published in The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 25-28/08/2015, Paris, France ([access](https://asonam.cpsc.ucalgary.ca/2015/AcceptedMultidisciplinaryTrack.php))
 
-__Akbaritabar, Aliakbar__ (2013) _A SNA Study on Iranian Online Social Networks; Case Study of Doreh and U24_, accepted for presentation at 33th Sunbelt Organized by INSNA, 21-26/05/2013, Hamburg, Germany
+__Akbaritabar, Aliakbar__ (2013) A SNA Study on Iranian Online Social Networks; Case Study of Doreh and U24, accepted for presentation at 33th Sunbelt Organized by INSNA, 21-26/05/2013, Hamburg, Germany
 
-__Akbaritabar, Aliakbar__ (2011) _A SNA Study of Social Networking Sites_, accepted for presentation at 7th UKSNA, 7-9/07/2011, University of Greenwich, UK
+__Akbaritabar, Aliakbar__ (2011) A SNA Study of Social Networking Sites, accepted for presentation at 7th UKSNA, 7-9/07/2011, University of Greenwich, UK
 
-__Akbaritabar, Aliakbar__ (2011) _A SNA Study of Online Social Networks_, accepted for presentation at 1st Global Conference on Social Networking Revolutions, 7-9/09/2011, Washington University, USA
+__Akbaritabar, Aliakbar__ (2011) A SNA Study of Online Social Networks, accepted for presentation at 1st Global Conference on Social Networking Revolutions, 7-9/09/2011, Washington University, USA
 
-__Akbaritabar, Aliakbar__; Nosrati Nezhad, Farhad (2011) _Muslim Thinkers Social thoughts; case study of Seyed Hossein Nasr_, accepted for presentation at conference of Social Thoughts and Sociology in Contemporary Middle East, 05/2011, Iranian Sociological Association, Tehran, Iran
+__Akbaritabar, Aliakbar__; Nosrati Nezhad, Farhad (2011) Muslim Thinkers Social thoughts; case study of Seyed Hossein Nasr, accepted for presentation at conference of Social Thoughts and Sociology in Contemporary Middle East, 05/2011, Iranian Sociological Association, Tehran, Iran
 
-__Akbaritabar, Aliakbar__; Eskandaripour, Ebrahim; Zanjari, Nasibe (2011) _A SNA and Netnography Study of Social Networking Sites_, accepted for presentation in 1st Asia-Pacific Conference on Qualitative Research in Web 2.0, Macau China
+__Akbaritabar, Aliakbar__; Eskandaripour, Ebrahim; Zanjari, Nasibe (2011) A SNA and Netnography Study of Social Networking Sites, accepted for presentation in 1st Asia-Pacific Conference on Qualitative Research in Web 2.0, Macau China
 
 ## Language skills
-- __Persian (Farsi)__ and __Turkish__ (as mother tongues)
+- __Persian (Farsi)__ and __Qashqai language__ (as mother tongues)
 - __English__ 
     + TOEFL IBT 2015; overall score: 96/120 (R: 23, L: 24, S: 22, W: 27)
     + TOEFL IBT 2013; overall score: 82/120 (R: 16, L: 22, S: 22, W: 22)
