@@ -39,6 +39,9 @@ Twitter: @akbaritabar, <a rel="me" href="https://mastodon.social/@Akbaritabar">h
 ## Computational Social Science Events Worldwide
 You can see the calendar I am publicly maintaining [here](./CV_MD/CSS_events_calendar.html)
 
+<iframe src="https://calendar.google.com/calendar/embed?src=19jm0329h91akpv0srml6c24ec%40group.calendar.google.com&ctz=Europe%2FRome" style="border: 0" width="600" height="550" frameborder="0" scrolling="no"></iframe>
+
+
 <hr />
 
 
