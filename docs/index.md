@@ -24,15 +24,20 @@
 </ol>
 <p>These are <strong>the main steps</strong>, in short: ask questions, gather data, clean data, model it, interpret, report and present it.</p>
 
+<p>You can read more about these in my paper in EPJ Data Science, here:</p>
+
+<blockquote>
+<code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Sci. 13, 14 (2024). https://doi.org/10.1140/epjds/s13688-023-00443-0</code>
+</blockquote>
 <hr />
 
 ## CV
-You can see a CV of me [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
+You can see my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
 <hr />
 
 ## How to reach me?
-Twitter: @akbaritabar, <a rel="me" href="https://mastodon.social/@Akbaritabar">https://mastodon.social/@Akbaritabar</a> or email (akbaritabar [at] demogr.mpg.de)!
+Twitter: @akbaritabar, <a rel="me" href="https://bsky.app/profile/akbaritabar.bsky.social">https://bsky.app/profile/akbaritabar.bsky.social</a>, <a rel="me" href="https://mastodon.social/@Akbaritabar">https://mastodon.social/@Akbaritabar</a> or email (akbaritabar [at] demogr.mpg.de)!
 
 <hr />
 
