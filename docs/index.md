@@ -29,6 +29,7 @@
 <blockquote>
 <code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Sci. 13, 14 (2024). https://doi.org/10.1140/epjds/s13688-023-00443-0</code>
 </blockquote>
+
 <hr />
 
 ## CV
@@ -90,6 +91,8 @@ See here for the files of all presentations available under GPL-3.0 License: [ht
 Click on links to open each year's presentations.
 
 <!-- pdfs here -->
+
+[./CV_MD/Akbaritabar_CV.pdf](./CV_MD.html)
 
 [./2022/20220422_Akbaritabar_biases_in_science.pdf](./2022.html)
 
