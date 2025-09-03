@@ -92,6 +92,10 @@ Click on links to open each year's presentations.
 
 <!-- pdfs here -->
 
+[./Courses_Syllabus/Course_introduction_to_CSS_Syllabus.pdf](./Courses_Syllabus.html)
+
+[./Courses_Syllabus/Course_computational_approaches_to_migration_research_Syllabus.pdf](./Courses_Syllabus.html)
+
 [./CV_MD/Akbaritabar_CV.pdf](./CV_MD.html)
 
 [./2022/20220422_Akbaritabar_biases_in_science.pdf](./2022.html)
