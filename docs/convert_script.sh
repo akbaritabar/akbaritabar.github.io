@@ -40,6 +40,12 @@ You can see my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
 <hr />
 
+<hr />
+
+## Syllabi for the courses
+You can find the syllabi for the courses that I currently teach at the University of Rostock and MPIDR [here](./Courses_Syllabus.html)
+<hr />
+
 ## How to reach me?
 Twitter: @akbaritabar, <a rel="me" href="https://bsky.app/profile/akbaritabar.bsky.social">https://bsky.app/profile/akbaritabar.bsky.social</a>, <a rel="me" href="https://mastodon.social/@Akbaritabar">https://mastodon.social/@Akbaritabar</a> or email (akbaritabar [at] demogr.mpg.de)!
 
