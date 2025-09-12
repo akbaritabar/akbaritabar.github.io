@@ -36,7 +36,7 @@ cat > index.md <<'EOF'
 <hr />
 
 ## CV
-You can see my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
+You can see and download my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
 <hr />
 
