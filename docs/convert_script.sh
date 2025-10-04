@@ -5,7 +5,7 @@ cat > index.md <<'EOF'
 
 <p>Hello there !</p>
 
-<p>I am Ali (short for Aliakbar Akbaritabar)</p>
+<p>I am Ali (short for Aliakbar Akbaritabar). An Assistant Professor of Computational Social Science at the University of Rostock and Max Planck Institute for Demographic Research.</p>
 
 <p>I like to call myself a <strong>Social Data Scientist</strong>. It is mainly what data scientists are doing plus a sociological approach which is what I have been studying for most of my academic life. A couple of times I have been asked what does it mean, I have added a description below.</p>
 
