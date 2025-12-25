@@ -19,7 +19,7 @@
 <li><strong>Gather</strong>: I need to gather the data. It can mean scrapping the web for it, sending requests to databases to capture it, building API solutions, or spending time and building a tool to make up data from scratch. I have even designed and carried out my own surveys (both online and offline, see in my <a href="./CV_MD/Aliakbar_Akbaritabar_CV.html">CV</a>).</li>
 <li><strong>Clean</strong>: Organizing the data, reshaping it, cleaning it, making it ready to be used is the next step. It can be long and frustrating if previous step has not been done reasonably.</li>
 <li><strong>Model</strong>: Then comes the phase when we need to find out which way is the best way to use this data to answer our starting questions. Modeling the data in statistical, relational (Networks and network analysis is here) and structural or other modeling frameworks appear here. Sometimes, I need to first learn those models, reshape my data according to them and then apply the models. "<em>Social</em>" adjective in above title means some of these models are stemmed from sociological theories or methodologies.</li>
-<li><strong>Report</strong>: At the end, my main job is to prepare reports describing all above steps and main findings. I have put quite a high level of energy to generate reports dynamically from previous steps. It has made my life so much easier, faster, and replicable in future and besides, less prone to errors (read more about it <a href="./CV_MD/git_github_for_academic_writing.html">here</a>).</li>
+<li><strong>Report</strong>: At the end, my main job is to prepare reports describing all above steps and main findings. I have put quite a high level of energy to generate reports dynamically from previous steps. It has made my life so much easier, faster, and replicable in future and besides, less prone to errors (read more about it <a href="./CV_MD/git_github_for_academic_writing.html">here</a>). See the example of my second PhD thesis report, a collection of four articles, written using this approach with bookdown and download its PDF <a href="https://akbaritabar.github.io/CV_MD/UNIMI_thesis/">here</a>.</li>
 <li><strong>Present</strong>: sharing the results in conferences and publishing them, which in itself is another world, is the next step. Of course, then comes getting feedback and repeating all of the above.</li>
 </ol>
 <p>These are <strong>the main steps</strong>, in short: ask questions, gather data, clean data, model it, interpret, report and present it.</p>
@@ -121,6 +121,8 @@ Click on links to open each year's presentations.
 [./Courses_Syllabus/Course_computational_approaches_to_migration_research_Syllabus.pdf](./Courses_Syllabus.html)
 
 [./CV_MD/Akbaritabar_CV.pdf](./CV_MD.html)
+
+[./CV_MD/20190411_Akbaritabar_UNIMI_phd_thesis_report.pdf](./CV_MD.html)
 
 [./2022/20220422_Akbaritabar_biases_in_science.pdf](./2022.html)
 
