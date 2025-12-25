@@ -40,6 +40,14 @@ You can see and download my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
 <hr />
 
+## Recent Publications
+
+To see a complete list of my publications, showcasing the recent research focus:
+
+- Visit [Google Scholar: zufgVroAAAAJ](https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en)
+- Visit [ORCID: 0000-0003-3828-1533](https://orcid.org/0000-0003-3828-1533)
+- Visit [OpenAlex: a5110124154 a5067953991 a5075794287](https://openalex.org/works?filter=authorships.author.id:a5110124154|a5067953991|a5075794287)
+
 <hr />
 
 ## Syllabi for the courses
