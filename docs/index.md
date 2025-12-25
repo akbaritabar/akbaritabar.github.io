@@ -39,11 +39,21 @@ You can see and download my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
 ## Recent Publications
 
-To see a complete list of my publications, showcasing the recent research focus:
+To see a complete list of my publications, showcasing the recent research focus, visit:
 
-- Visit [Google Scholar: zufgVroAAAAJ](https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en)
-- Visit [ORCID: 0000-0003-3828-1533](https://orcid.org/0000-0003-3828-1533)
-- Visit [OpenAlex: a5110124154 a5067953991 a5075794287](https://openalex.org/works?filter=authorships.author.id:a5110124154|a5067953991|a5075794287)
+- [Google Scholar: zufgVroAAAAJ](https://scholar.google.com/citations?user=zufgVroAAAAJ&hl=en)
+- [ORCID: 0000-0003-3828-1533](https://orcid.org/0000-0003-3828-1533)
+- [OpenAlex: a5110124154 a5067953991 a5075794287](https://openalex.org/works?filter=authorships.author.id:a5110124154\|a5067953991\|a5075794287)
+
+<hr />
+
+## Replication materials, code, scripts
+
+To find code, scripts, or data that I publicly share, visit:
+
+- [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Akbaritabar%2C%20Aliakbar%22)
+- [GitHub](https://github.com/akbaritabar)
+- [GitLab](https://gitlab.com/akbaritabar)
 
 <hr />
 
