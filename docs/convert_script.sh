@@ -61,7 +61,13 @@ To find code, scripts, or data that I publicly share, visit:
 <hr />
 
 ## Syllabi for the courses
-You can find the syllabi for the courses that I currently teach at the University of Rostock and MPIDR [here](./Courses_Syllabus.html)
+You can find the syllabi for the courses that I currently teach at the University of Rostock and MPIDR [here](./Courses_Syllabus.html). 
+
+Some of the course materials are publicly available on my [GitHub](https://github.com/akbaritabar):
+
+- [Introduction to computational social science, 2025 edition](https://github.com/akbaritabar/Course-introduction-to-computational-social-science-2025)
+- [Computational Approaches to Migration Research, 2025-2026 edition](https://github.com/akbaritabar/Course_computational_approaches_to_migration_research_2025_26)
+
 <hr />
 
 ## How to reach me?
