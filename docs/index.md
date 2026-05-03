@@ -64,6 +64,7 @@ Some of the course materials are publicly available on my [GitHub](https://githu
 
 - [Introduction to computational social science, 2025 edition](https://github.com/akbaritabar/Course-introduction-to-computational-social-science-2025)
 - [Computational Approaches to Migration Research, 2025-2026 edition](https://github.com/akbaritabar/Course_computational_approaches_to_migration_research_2025_26)
+- [Interactive self-paced course on Git, GitHub, version control, and reproducible collaboration, 2026 edition (to participate, read the instructions on the first page and fork the repository)](https://github.com/akbaritabar/Git-GitHub-Version-Control-Interactive-Self-paced-Course)
 
 <hr />
 
@@ -122,15 +123,15 @@ Click on links to open each year's presentations.
 
 <!-- pdfs here -->
 
+[./CV_MD/Akbaritabar_CV.pdf](./CV_MD.html)
+
+[./CV_MD/20190411_Akbaritabar_UNIMI_phd_thesis_report.pdf](./CV_MD.html)
+
 [./Courses_Syllabus/Course_introduction_to_demographic_methods_00_Course_Syllabus.pdf](./Courses_Syllabus.html)
 
 [./Courses_Syllabus/Course_introduction_to_CSS_Syllabus.pdf](./Courses_Syllabus.html)
 
 [./Courses_Syllabus/Course_computational_approaches_to_migration_research_Syllabus.pdf](./Courses_Syllabus.html)
-
-[./CV_MD/Akbaritabar_CV.pdf](./CV_MD.html)
-
-[./CV_MD/20190411_Akbaritabar_UNIMI_phd_thesis_report.pdf](./CV_MD.html)
 
 [./2022/20220422_Akbaritabar_biases_in_science.pdf](./2022.html)
 
@@ -208,9 +209,9 @@ Click on links to open each year's presentations.
 
 [./2018/20180110_UNIBS_GECS_seminar.pdf](./2018.html)
 
-[./2017/20170929_UNIBS_notte_ricercatori_GECS_broshure.pdf](./2017.html)
-
 [./2017/20170929_UNIBS_notte_ricercatori_GECS.pdf](./2017.html)
+
+[./2017/20170929_UNIBS_notte_ricercatori_GECS_broshure.pdf](./2017.html)
 
 [./2017/20170720_Iranian_sociological_association.pdf](./2017.html)
 
