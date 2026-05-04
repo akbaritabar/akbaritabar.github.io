@@ -125,7 +125,11 @@ Click on links to open each year's presentations.
 
 [./CV_MD/Akbaritabar_CV.pdf](./CV_MD.html)
 
-[./CV_MD/20190411_Akbaritabar_UNIMI_phd_thesis_report.pdf](./CV_MD.html)
+[./CV_MD/20190411_Akbaritabar_2nd_PhD_Thesis_HyperCompetitiveAcademia.pdf](./CV_MD.html)
+
+[./CV_MD/20170613_Akbaritabar_1st_PhD_Thesis_CyberSocialCapital_inPersian.pdf](./CV_MD.html)
+
+[./CV_MD/20110704_Akbaritabar_MA_Thesis_SocialNetworkAnalysis_inPersian.pdf](./CV_MD.html)
 
 [./Courses_Syllabus/Course_introduction_to_demographic_methods_00_Course_Syllabus.pdf](./Courses_Syllabus.html)
 
