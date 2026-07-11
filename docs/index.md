@@ -65,6 +65,7 @@ Some of the course materials are publicly available on my [GitHub](https://githu
 - [Introduction to computational social science, 2025 edition](https://github.com/akbaritabar/Course-introduction-to-computational-social-science-2025)
 - [Computational Approaches to Migration Research, 2025-2026 edition](https://github.com/akbaritabar/Course_computational_approaches_to_migration_research_2025_26)
 - [Interactive self-paced course on Git, GitHub, version control, and reproducible collaboration, 2026 edition (to participate, read the instructions on the first page and fork the repository)](https://github.com/akbaritabar/Git-GitHub-Version-Control-Interactive-Self-paced-Course)
+- [Introduction to Demographic Methods, summer semester 2026](https://github.com/akbaritabar/Course_introduction_to_demographic_methods_2026)
 
 <hr />
 
