@@ -138,6 +138,22 @@ Click on links to open each year's presentations.
 
 [./Courses_Syllabus/Course_computational_approaches_to_migration_research_Syllabus.pdf](./Courses_Syllabus.html)
 
+[./2024/20240919_STI_Berlin_mobility_of_talents.pdf](./2024.html)
+
+[./2024/20240613_EPC_ML_Nationality_SciMigration.pdf](./2024.html)
+
+[./2023/20230705_ISSI2023_iDiv_Berlin_Scientific_Collaborations.pdf](./2023.html)
+
+[./2023/20230629_0712_19_20_Sunbelt_NetSci_IC2S2_2023_SubnationalMigration.pdf](./2023.html)
+
+[./2023/20230629_0712_19_20_Sunbelt_NetSci_IC2S2_2023_Stratification.pdf](./2023.html)
+
+[./2023/20230202_PopDays_Italy_InternalInternational.pdf](./2023.html)
+
+[./2022/20220521_African_Science_Day_Rostock_Scholarly_Migration.pdf](./2022.html)
+
+[./2022/20220510_RMZ_HumboldUni_Berlin_Plasticity.pdf](./2022.html)
+
 [./2022/20220422_Akbaritabar_biases_in_science.pdf](./2022.html)
 
 [./2022/20220408_PAA2022_Internal_vs_international_scholarly_mobility_poster.pdf](./2022.html)
