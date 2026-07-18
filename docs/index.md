@@ -1,8 +1,8 @@
 # Introduction
 
-<p>Hello there !</p>
+<p>Hello there!</p>
 
-<p>I am Ali (short for Aliakbar Akbaritabar). An Assistant Professor of Computational Social Science at the University of Rostock and Max Planck Institute for Demographic Research.</p>
+<p>I am Ali (short for Aliakbar Akbaritabar). An Assistant Professor of Computational Social Science at the University of Rostock and Research Scientist at the Max Planck Institute for Demographic Research.</p>
 
 <p>I like to call myself a <strong>Social Data Scientist</strong>. It is mainly what data scientists are doing plus a sociological approach which is what I have been studying for most of my academic life. A couple of times I have been asked what does it mean, I have added a description below.</p>
 
@@ -27,13 +27,13 @@
 <p>You can read more about these in my paper in EPJ Data Science, here:</p>
 
 <blockquote>
-<code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Sci. 13, 14 (2024). https://doi.org/10.1140/epjds/s13688-023-00443-0</code>
+<code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Science. 13, 14 (2024). [https://doi.org/10.1140/epjds/s13688-023-00443-0](https://doi.org/10.1140/epjds/s13688-023-00443-0)</code>
 </blockquote>
 
 <hr />
 
 ## CV
-You can see and download my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
+See and download [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
 <hr />
 
@@ -69,8 +69,19 @@ Some of the course materials are publicly available on my [GitHub](https://githu
 
 <hr />
 
-## How to reach me?
+## Contact
 Twitter: @akbaritabar, <a rel="me" href="https://bsky.app/profile/akbaritabar.bsky.social">https://bsky.app/profile/akbaritabar.bsky.social</a>, <a rel="me" href="https://mastodon.social/@Akbaritabar">https://mastodon.social/@Akbaritabar</a> or email (akbaritabar [at] demogr.mpg.de)!
+
+<hr />
+
+## Open Science Demography
+
+I have started a new initiative with other enthusiastic colleagues called Open Science Demography, which is a community of demographers and social scientists who are interested in open science practices. You can find more information about it at [https://github.com/OpenScienceDemography](https://github.com/OpenScienceDemography).
+
+As a first step, an Awesome Demographic Methods list has been created and is publicly available at [https://opensciencedemography.github.io/awesome-demographic-methods/](https://opensciencedemography.github.io/awesome-demographic-methods/).
+
+In June 2026, during the European Population Conference at the University of Bologna, the European Association for Population Studies (EAPS) Open Science and Outreach Award for Population Studies [https://eaps.nl/page/Outreach-award](https://eaps.nl/page/Outreach-award) was conferred upon Tom Theile and Aliakbar Akbaritabar in recognition of their contributions to the [Scholarly Migration Database](https://www.scholarlymigration.org/).
+
 
 <hr />
 
@@ -97,7 +108,7 @@ My older website (available here: https://akbaritabar.netlify.app/) had some blo
 
 <hr />
 
-## Presentations on reverse chronological order
+## PDF files of presentations, course materials, and dissertations
 
 See here for the files of all presentations available under GPL-3.0 License: [https://github.com/akbaritabar/akbaritabar.github.io](https://github.com/akbaritabar/akbaritabar.github.io) 
 
@@ -138,9 +149,23 @@ Click on links to open each year's presentations.
 
 [./Courses_Syllabus/Course_computational_approaches_to_migration_research_Syllabus.pdf](./Courses_Syllabus.html)
 
+[./2024/20241113_University_of_Washington_ML_Nationality.pdf](./2024.html)
+
+[./2024/20241018_UN_IOM_Berlin_Scholarly_Migration_Database.pdf](./2024.html)
+
 [./2024/20240919_STI_Berlin_mobility_of_talents.pdf](./2024.html)
 
 [./2024/20240613_EPC_ML_Nationality_SciMigration.pdf](./2024.html)
+
+[./2024/20240413_PAA_poster_2_ML_Nationality.pdf](./2024.html)
+
+[./2024/20240413_PAA_poster_1_ScientificCollaboration_Migration.pdf](./2024.html)
+
+[./2024/20240321_CED_Barcelona_myths_stratification.pdf](./2024.html)
+
+[./2023/20231120_Uni_Granada_mobility_workshop_SMD.pdf](./2023.html)
+
+[./2023/20230911_BSPS_UK_internal_international_migr.pdf](./2023.html)
 
 [./2023/20230705_ISSI2023_iDiv_Berlin_Scientific_Collaborations.pdf](./2023.html)
 

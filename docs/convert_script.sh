@@ -3,9 +3,9 @@
 cat > index.md <<'EOF'
 # Introduction
 
-<p>Hello there !</p>
+<p>Hello there!</p>
 
-<p>I am Ali (short for Aliakbar Akbaritabar). An Assistant Professor of Computational Social Science at the University of Rostock and Max Planck Institute for Demographic Research.</p>
+<p>I am Ali (short for Aliakbar Akbaritabar). An Assistant Professor of Computational Social Science at the University of Rostock and Research Scientist at the Max Planck Institute for Demographic Research.</p>
 
 <p>I like to call myself a <strong>Social Data Scientist</strong>. It is mainly what data scientists are doing plus a sociological approach which is what I have been studying for most of my academic life. A couple of times I have been asked what does it mean, I have added a description below.</p>
 
@@ -30,13 +30,13 @@ cat > index.md <<'EOF'
 <p>You can read more about these in my paper in EPJ Data Science, here:</p>
 
 <blockquote>
-<code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Sci. 13, 14 (2024). https://doi.org/10.1140/epjds/s13688-023-00443-0</code>
+<code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Science. 13, 14 (2024). [https://doi.org/10.1140/epjds/s13688-023-00443-0](https://doi.org/10.1140/epjds/s13688-023-00443-0)</code>
 </blockquote>
 
 <hr />
 
 ## CV
-You can see and download my CV [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
+See and download [here](./CV_MD/Aliakbar_Akbaritabar_CV.html)
 
 <hr />
 
@@ -72,8 +72,19 @@ Some of the course materials are publicly available on my [GitHub](https://githu
 
 <hr />
 
-## How to reach me?
+## Contact
 Twitter: @akbaritabar, <a rel="me" href="https://bsky.app/profile/akbaritabar.bsky.social">https://bsky.app/profile/akbaritabar.bsky.social</a>, <a rel="me" href="https://mastodon.social/@Akbaritabar">https://mastodon.social/@Akbaritabar</a> or email (akbaritabar [at] demogr.mpg.de)!
+
+<hr />
+
+## Open Science Demography
+
+I have started a new initiative with other enthusiastic colleagues called Open Science Demography, which is a community of demographers and social scientists who are interested in open science practices. You can find more information about it at [https://github.com/OpenScienceDemography](https://github.com/OpenScienceDemography).
+
+As a first step, an Awesome Demographic Methods list has been created and is publicly available at [https://opensciencedemography.github.io/awesome-demographic-methods/](https://opensciencedemography.github.io/awesome-demographic-methods/).
+
+In June 2026, during the European Population Conference at the University of Bologna, the European Association for Population Studies (EAPS) Open Science and Outreach Award for Population Studies [https://eaps.nl/page/Outreach-award](https://eaps.nl/page/Outreach-award) was conferred upon Tom Theile and Aliakbar Akbaritabar in recognition of their contributions to the [Scholarly Migration Database](https://www.scholarlymigration.org/).
+
 
 <hr />
 
@@ -100,7 +111,7 @@ My older website (available here: https://akbaritabar.netlify.app/) had some blo
 
 <hr />
 
-## Presentations on reverse chronological order
+## PDF files of presentations, course materials, and dissertations
 
 See here for the files of all presentations available under GPL-3.0 License: [https://github.com/akbaritabar/akbaritabar.github.io](https://github.com/akbaritabar/akbaritabar.github.io) 
 
