@@ -1,16 +1,14 @@
 # Introduction
 
-Hello! I am Ali (Aliakbar Akbaritabar), Assistant Professor of Computational Social Science at the University of Rostock and Research Scientist at the Max Planck Institute for Demographic Research.
+I am Aliakbar Akbaritabar (Ali), Assistant Professor of Computational Social Science at the University of Rostock and Research Scientist at the Max Planck Institute for Demographic Research (since 2021).
 
-I am a computational social scientist with a sociology background, working at the intersection of social data science, demography, high-skilled migration, inequalities in the science system, and reproducible and open science practices.
+I am a computational social scientist with a sociology background, focusing on social data science, demography, high-skilled migration, inequalities in the science system, and reproducible open science.
 
-**Read more**: [Thinking spatially in computational social science (EPJ Data Science, 2024)](https://doi.org/10.1140/epjds/s13688-023-00443-0)
+I hold a PhD in Economic Sociology and Labor Studies (University of Milan) and a PhD in Social Welfare (Allameh Tabataba'i University of Tehran); below is an overview of my research and teaching from 2013 to June 2026.
 
-I am open to tenure-track, tenured, and permanent positions in computational social science, social data science, demography, and sociology, broadly defined.
+I am open to tenure-track, tenured, and permanent positions in computational social science, social data science, demography, and sociology; below you can find my CV, publications, open materials, course resources, and presentation archive.
 
-Below you can find my CV, publications, open materials, course resources, and presentation archive.
-
-<img src="CV_MD/productivity_cumulative_2013_2026.png" alt="Cumulative whole and fractional counts of publications, courses, and presentations (2013 - June 2026) by item type" style="width: 85%;">
+<img src="CV_MD/productivity_cumulative_2013_2026.png" alt="Cumulative whole and fractional counts of publications, courses, and presentations (2013 - June 2026) by item type" style="width: 100%;">
 
 <hr />
 
