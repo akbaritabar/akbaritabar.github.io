@@ -4,11 +4,11 @@ I am Aliakbar Akbaritabar (Ali), Assistant Professor of Computational Social Sci
 
 I am a computational social scientist with a sociology background, focusing on social data science, demography, high-skilled migration, inequalities in the science system, and reproducible open science.
 
-I hold a PhD in Economic Sociology and Labor Studies (University of Milan) and a PhD in Social Welfare (Allameh Tabataba'i University of Tehran); below is an overview of my research and teaching from 2013 to June 2026.
+I hold a PhD in Economic Sociology and Labor Studies (University of Milan) and a PhD in Social Welfare (Allameh Tabataba'i University of Tehran).
 
-I am open to tenure-track, tenured, and permanent positions in computational social science, social data science, demography, and sociology; below you can find my CV, publications, open materials, course resources, and presentation archive.
+I am open to tenure-track, tenured, and permanent positions in computational social science, social data science, demography, and sociology; below you can find my CV, publications, open materials, course resources, and presentation archive. Here is an overview of my research and teaching from 2013 to June 2026.
 
-<img src="CV_MD/productivity_cumulative_2013_2026.png" alt="Cumulative whole and fractional counts of publications, courses, and presentations (2013 - June 2026) by item type" style="width: 100%;">
+<img src="CV_MD/productivity_cumulative_2013_2026.png" alt="Cumulative whole and fractional counts of publications, courses, and presentations (2013 - June 2026) by item type" style="width: 110%;">
 
 <hr />
 
