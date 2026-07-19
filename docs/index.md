@@ -27,7 +27,7 @@
 <p>You can read more about these in my paper in EPJ Data Science, here:</p>
 
 <blockquote>
-<code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Science. 13, 14 (2024). [https://doi.org/10.1140/epjds/s13688-023-00443-0](https://doi.org/10.1140/epjds/s13688-023-00443-0)</code>
+<code>Akbaritabar, A. Thinking spatially in computational social science. EPJ Data Science. 13, 14 (2024). https://doi.org/10.1140/epjds/s13688-023-00443-0</code>
 </blockquote>
 
 <hr />
@@ -57,15 +57,15 @@ To find code, scripts, or data that I publicly share, visit:
 
 <hr />
 
-## Syllabi for the courses
+## Syllabi and materials for courses
 You can find the syllabi for the courses that I currently teach at the University of Rostock and MPIDR [here](./Courses_Syllabus.html). 
 
-Some of the course materials are publicly available on my [GitHub](https://github.com/akbaritabar):
+Some of the course materials are publicly and permanently available on my [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Akbaritabar%2C%20Aliakbar%22) and listed below:
 
-- [Introduction to computational social science, 2025 edition](https://github.com/akbaritabar/Course-introduction-to-computational-social-science-2025)
-- [Computational Approaches to Migration Research, 2025-2026 edition](https://github.com/akbaritabar/Course_computational_approaches_to_migration_research_2025_26)
-- [Interactive self-paced course on Git, GitHub, version control, and reproducible collaboration, 2026 edition (to participate, read the instructions on the first page and fork the repository)](https://github.com/akbaritabar/Git-GitHub-Version-Control-Interactive-Self-paced-Course)
-- [Introduction to Demographic Methods, summer semester 2026](https://github.com/akbaritabar/Course_introduction_to_demographic_methods_2026)
+- [Introduction to computational social science, 2025 edition: https://doi.org/10.5281/zenodo.21419599](https://doi.org/10.5281/zenodo.21419599)
+- [Computational Approaches to Migration Research, 2025-2026 edition: https://doi.org/10.5281/zenodo.21419603](https://doi.org/10.5281/zenodo.21419603)
+- [Interactive self-paced course on Git, GitHub, version control, and reproducible collaboration, 2026 edition (to participate, read the instructions and fork the GitHub repository): https://doi.org/10.5281/zenodo.21439793](https://doi.org/10.5281/zenodo.21439793)
+- [Introduction to Demographic Methods, summer semester 2026: https://doi.org/10.5281/zenodo.21419594](https://doi.org/10.5281/zenodo.21419594)
 
 <hr />
 

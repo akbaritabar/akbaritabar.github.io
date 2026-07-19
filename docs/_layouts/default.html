@@ -28,13 +28,21 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="./CV_MD/Aliakbar_Akbaritabar_CV.html">CV</a></p>
+        <p class="view"><a href="{{ '/CV_MD/Aliakbar_Akbaritabar_CV.html' | absolute_url }}">CV</a></p>
         {% endif %}
 
         
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
+
+        <p class="view"><b>Main Page Contents</b></p>
+        <ul style="list-style-type: none; margin: 0; padding: 0 0 20px 0;">
+          <li><a href="{{ '/' | absolute_url }}#recent-publications">Recent Publications</a></li>
+          <li><a href="{{ '/' | absolute_url }}#replication-materials-code-scripts">Replication materials, code, scripts</a></li>
+          <li><a href="{{ '/' | absolute_url }}#syllabi-for-the-courses">Syllabi for the courses</a></li>
+          <li><a href="{{ '/' | absolute_url }}#pdf-files-of-presentations-course-materials-and-dissertations">PDF files of presentations, course materials, and dissertations</a></li>
+        </ul>
 
         {% if site.show_downloads %}
         <ul class="downloads">
