@@ -61,6 +61,26 @@ Award details: [EAPS Outreach Award](https://eaps.nl/page/Outreach-award)
 
 <hr />
 
+## Media or press release coverage of our work
+
+- [Aliakbar Akbaritabar erhält internationalen Open-Science-Preis für Migrationsforschung](https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/medieninformationen/detailansicht/n/aliakbar-akbaritabar-erhaelt-internationalen-open-science-preis-fuer-migrationsforschung-280265/) (University of Rostock, 2026)
+- [Gender gap among migrant scientists](https://www.pnas.org/post/podcast/gender-gap-among-migrant-scientists) (PNAS Science Sessions podcast, 2023)
+- [How to Use Bibliometric Data for Demographic Research](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/how_to_use_bibliometric_data_for_demographic_research_10784) (MPIDR, 2022)
+- [Junior Professorship for Aliakbar Akbaritabar](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/junior_professorship_for_aliakbar_akbaritabar_14761) (MPIDR, 2025)
+- [Large Gaps in Migration Research](https://www.mpg.de/26230133/grosse-lucken-in-der-migrationsforschung?c=154681) (Max Planck Society, 2025)
+- [Lower-income countries are under-represented in migration research](https://population-europe.eu/research/popdigests/lower-income-countries-are-under-represented-migration-research) (Population Europe, 2026)
+- [Lower-income countries under-represented in migration research, study finds](https://www.sociology.ox.ac.uk/article/lower-income-countries-under-represented-in-migration-research-study-finds) (University of Oxford, 2025)
+- [Migration of academics: Economic development does not necessarily lead to brain drain](https://phys.org/news/2023-01-migration-academics-economic-necessarily-brain.html) (Phys.org, 2023)
+- [Migration of academics: Economic development does not necessarily lead to brain drain](https://www.eurekalert.org/news-releases/978261) (EurekAlert, 2023)
+- [Regional universities seek new ways to attract researchers](https://www.universityworldnews.com/post.php?story=20260207115232355) (University World News, 2026)
+- [Scholarly Migration and Scientific Mobility](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/scholarly_migration_and_scientific_mobility_13615) (MPIDR, 2024)
+- [Scholarly Migration Database: Quantifying the Mobility of Scholars](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/scholarly_migration_database_quantifying_the_mobility_of_scholars_12266) (MPIDR, 2023)
+- [The role of professional networks and institutional prestige in shaping the first career moves of scholars](https://csh.ac.at/publication/the-role-of-professional-networks-and-institutional-prestige-in-shaping-the-first-career-moves-of-scholars/) (Complexity Science Hub, 2026)
+- [Where the brightest minds in science move](https://www.mpg.de/25961734/demogr_jb_20251?force_lang=de) (Max Planck Society, 2025)
+- [Where the Brightest Minds in Science Moved](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/press/where_the_brightest_minds_in_science_moved_14298) (MPIDR, 2025)
+
+<hr />
+
 ## Computational Social Science Events Worldwide
 
 I maintain a public calendar of computational social science events.  
