@@ -152,6 +152,8 @@ Click on links to open each year's presentations.
 
 [./Courses_Syllabus/Course_computational_approaches_to_migration_research_Syllabus.pdf](./Courses_Syllabus.html)
 
+[./2026/20260914_MPG_OSIP_Meeting_Akbaritabar.pdf](./2026.html)
+
 [./2024/20241113_University_of_Washington_ML_Nationality.pdf](./2024.html)
 
 [./2024/20241018_UN_IOM_Berlin_Scholarly_Migration_Database.pdf](./2024.html)
